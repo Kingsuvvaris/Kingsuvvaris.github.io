@@ -1,4 +1,238 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Inferi Hoard added.
+Portus added.
+
+
+Puffskein
+rules_text: Squad {G}{G} [i](As an additional cost to cast this spell, you may pay {G}{G} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+{T}: Puffskein deals 1 damage to target creature with flying. => Squad {G} [i](As an additional cost to cast this spell, you may pay {G} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+{T}: Puffskein deals 1 damage to target creature with flying.
+
+Draco Malfoy
+rules_text: Activated abilities of Potions you control cost {2} less to activate.
+Whenever you sacrifice an artifact, Draco Malfoy gets +1/+1 until end of turn.
+Sacrifice one or more artifacts: Search your library for an Bewitchment card with mana value less than or equal to the total mana value of artifacts sacrificed this way, exile that card. You may cast it this turn without paying its mana cost until end of turn. [i](Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i] => Activated abilities of Potions you control cost {2} less to activate.
+Whenever you sacrifice an artifact, Draco Malfoy gets +1/+1 until end of turn.
+Sacrifice one or more artifacts: Search your library for a Bewitchment card with mana value less than or equal to the total mana value of artifacts sacrificed this way, exile that card. You may cast it this turn without paying its mana cost until end of turn. [i](Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i]
+
+Blast Ended Screwt
+rules_text: Squad {RG}{RG} [i](As an additional cost to cast this spell, you may pay {RG}{RG} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+Trample, menace
+Whenever this creature deals combat damage to another creature, tap that creature and put a stun counter on it.
+{2}{R}{R}{R}, {T}: This creature deals damage equal to its power divided among any number of target permanents. => Squad {RG}{RG} [i](As an additional cost to cast this spell, you may pay {RG}{RG} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+Trample, menace
+Whenever this creature deals damage to another creature, tap that creature and put a stun counter on it.
+{2}{R}{R}{R}, {T}: This creature deals damage equal to its power divided among any number of target permanents.
+pt: 3/5 => 4/5
+
+Bowtruckle
+rules_text: Squad {2}{G} [i](As an additional cost to cast this spell, you may pay {2}{G} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+Whenever this creature enters, return up to one target bewitchment card from your graveyard to your hand. [i](Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i] => Squad {2G} [i](As an additional cost to cast this spell, you may pay {2G} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+Whenever this creature enters, return up to one target bewitchment card from your graveyard to your hand. [i](Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i]
+
+Death Eater
+rules_text: Squad {2}{B} [i](As an additional cost to cast this spell, you may pay {2}{B} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+Whenever you commit a crime, each opponent loses 1 life unless they pay {1}. You gain life equal to the amount lost this way. [i](Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)[/i] => Squad {2B} [i](As an additional cost to cast this spell, you may pay {2B} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+Whenever you commit a crime, each opponent loses 1 life unless they pay {1}. You gain life equal to the amount lost this way. [i](Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)[/i]
+
+Wizard-Cracker Imp
+rules_text: Squad {1}{B} [i](As an additional cost to cast this spell, you may pay {1}{B} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+During your upkeep, create a Wizard-Cracker token. [i](Its an artifact with “{1},{T}, Sacrifice this artifact: Put a -1/-1 counter on target creature.”)[/i] => Squad {1}{B} [i](As an additional cost to cast this spell, you may pay {1}{B} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+During your upkeep, you may pay {1}. if you do, create a Wizard-Cracker token. [i](Its an artifact with “{2},{T}, Sacrifice this artifact: Put a -1/-1 counter on target creature.”)[/i]
+
+Doxy
+rules_text: Squad {G}{U} [i](As an additional cost to cast this spell, you may pay {G}{U} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+Flying, Defender
+Toxic 1 [i](Players dealt combat damage by this creature also get a poison counter.)[/i]
+Whenever you are dealt damage, this creature loses defender until the end of your next turn. => Squad {GU} [i](As an additional cost to cast this spell, you may pay {GU} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+Flying, Defender
+Toxic 1 [i](Players dealt combat damage by this creature also get a poison counter.)[/i]
+Whenever you are dealt damage, this creature loses defender until the end of your next turn.
+
+Flame Infused Armour
+type: Artifact Creature — Beast => Artifact Creature — Beast Incantation
+
+Swarm of Grindylows
+rules_text: Squad {1}{2U} [i](As an additional cost to cast this spell, you may pay {1}{2U} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+Skulk [i](This creature can't be blocked by creatures with greater power.)[/i] => Squad {2U} [i](As an additional cost to cast this spell, you may pay {2U} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+Skulk [i](This creature can't be blocked by creatures with greater power.)[/i]
+
+Red Cap Tower Guard
+cost: {2}{R} => {1}{R}
+rules_text: Squad {R}{W} [i](As an additional cost to cast this spell, you may pay {R}{W} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+When this creature enters, if its a token or you paid an additional cost to cast it, put a shield counter on it. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+All creatures able to block this creature do so. => Squad {R}{RW} [i](As an additional cost to cast this spell, you may pay {R}{RW} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+When this creature enters, if its a token or you paid an additional cost to cast it, put a shield counter on it. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+All creatures able to block this creature do so.
+
+Hogsmeade Shopkeeper
+rules_text: Scholarly [i](Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this ability has resolved this turn, this creature becomes studious if it isn't already.)[/i]
+At the beginning of your end step, if this creature is studious, you may pay {2}. If you do, create a Clue, Food, Map, Potion, Treasure, or Wizard-Cracker token. [i](A Wizard-Cracker token is an artifact with “{T}, Sacrifice this artifact: Put a -1/-1 counter on target creature.” A Potion token is an artifact with “{2}, {T}, Sacrifice this Potion: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)[/i] => Scholarly [i](Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this ability has resolved this turn, this creature becomes studious if it isn't already.)[/i]
+At the beginning of your end step, if this creature is studious, you may pay {2}. If you do, create a Clue, Food, Map, Potion, Treasure, or Wizard-Cracker token. [i](A Potion token is an artifact with “{2}, {T}, Sacrifice this token: You may activate a Recipe ability of a permanent you control without paying its activation cost.” A Wizard-Cracker token is an artifact with “{2},T, Sacrifice this artifact: Put a -1/-1 counter on target creature.”)[/i]
+
+Swedish Shortsnout
+cost: {3}{R} => {2}{R}{W}
+
+Chinese Chomping Cabbage
+rules_text: Flash
+Squad {2G}. [i](As an additional cost to cast this spell, you may pay {2G} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+When this creature enters, if you paid {G}{G} to cast it, it deals damage equal to its power to any target. => Flash
+Squad {2G}. [i](As an additional cost to cast this spell, you may pay {2G} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+When this creature enters, if you paid {G}{G} to cast it or it's a token, it deals damage equal to its power to any target.
+
+Steeler Snail
+rules_text: Squad {G}{G} [i](As an additional cost to cast this spell, you may pay {G}{G} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+This creature enters tapped.
+When this creature enters, it deals damage equal to its power to target creature an opponent control. => Squad {G} [i](As an additional cost to cast this spell, you may pay {G} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+This creature enters tapped.
+When this creature enters, it deals damage equal to its power to target creature an opponent control.
+
+Stoneback Dugbog
+rules_text: Squad {G}{G} [i](As an additional cost to cast this spell, you may pay {G}{G} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+Flash
+Ward {1} => Squad {G} [i](As an additional cost to cast this spell, you may pay {G} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+Flash
+Ward {1}
+
+Vampyr Mosp
+rules_text: Squad {4}{G}{G}. [i](As an additional cost to cast this spell, you may pay {4}{G}{G} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+Flying
+This creature gets +1/+1 for each creature named Vampyr Mosp and costs {1} less to cast for each plant you control.
+Whenever a Plant creature you control enters, create a token copy of this creature. This ability triggers only once each turn. => Squad {4}{G}. [i](As an additional cost to cast this spell, you may pay {4}{G} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+Flying
+This creature gets +1/+1 for each creature named Vampyr Mosp and costs {1} less to cast for each plant you control.
+Whenever a Plant creature you control enters, create a token copy of this creature. This ability triggers only once each turn.
+
+Locket of Salazar Slytherin
+rules_text: Each spell a player that doesn't control “ a creature with “Voldemort” in its name.” casts costs {1} more to cast for each other spell that player has cast this turn.
+During the beginning of each players upkeep, creatures that are a color that equipped creature isn't, put a -1/-1 counter on it. 
+Equip {4} => Each spell a player that doesn't control “ a creature with “Voldemort” in its name.” casts costs {1} more to cast for each other spell that player has cast this turn.
+Equipped creature has “At the beginning of your upkeep, put a -1/-1 counter on each creature that doesn't share a color with this creature.”
+Equip {4}
+
+Melding of Minds
+
+Intro to Defence Against the Dark Arts
+rules_text: Destroy target artifact or enchantment. This spell deals 2 damage to the targets controller.
+If you control a creature with one a counter on it, exile this spell, then cast it transformed. => Destroy target artifact or enchantment. This spell deals 2 damage to the targets controller.
+If you control a creature with a counter on it, exile this spell, then cast it transformed.
+
+Doxy Token WWHP;
+rules_text: Squad {G}{U} 
+Flying, Defender
+Toxic 1 [i](Players dealt combat damage by this creature also get a poison counter.)[/i]
+Whenever you are dealt damage, this creature loses defender until the end of your next turn. => Squad {GU} 
+Flying, Defender
+Toxic 1 [i](Players dealt combat damage by this creature also get a poison counter.)[/i]
+Whenever you are dealt damage, this creature loses defender until the end of your next turn.
+
+Swarm of Grindylows Token WWHP;
+rules_text: Squad {1}{2U}
+Skulk [i](This creature can't be blocked by creatures with greater power.)[/i] => Squad {2U}
+Skulk [i](This creature can't be blocked by creatures with greater power.)[/i]
+
+Death Eater Token WWHP;
+rules_text: Squad {2}{B}
+Whenever you commit a crime, each opponent loses 1 life unless they pay {1}. You gain life equal to the amount lost this way. => Squad {2B}
+Whenever you commit a crime, each opponent loses 1 life unless they pay {1}. You gain life equal to the amount lost this way.
+
+Inferi Hoard Token WWHP;
+type: Creature — Zombie Beast => Token Creature — Zombie Beast
+cost: {4}{B} => 
+rules_text: Squad {2B}{2B}, — Pay 4 life [i](As an additional cost to cast this spell, you may pay {2B} and 4 life any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+Prevent all damage that would be dealt to this creature unless the damage was dealt from a red spell or permanent. => Squad—Pay 4 life
+Decayed. [i](This creature can't block. When it attacks, sacrifice it at end of combat.)[/i]
+pt: 4/4 => 6/4
+
+Wizard-Cracker Imp Token WWHP;
+rules_text: Squad {1}{B}
+{1}{B}{B}, {T}: Create a Wizard-Cracker token. => Squad {1}{B}
+During your upkeep, you may pay {1}. if you do, create a Wizard-Cracker token. [i](Its an artifact with “{2},{T}, Sacrifice this artifact: Put a -1/-1 counter on target creature.”)[/i]
+
+Blast Ended Screwt Token WWHP;
+rules_text: Squad {R}{R} 
+Trample, menace
+Whenever this creature deals combat damage to another creature, if you control this creature, tap the other creature and put a stun counter on it.
+{2}{R}{R}{R}, {T}: This creature deals damage equal to its power divided among any number of target permanents. => Squad {R}{R} 
+Trample, menace
+Whenever this creature deals damage to another creature, if you control this creature, tap the other creature and put a stun counter on it.
+{2}{R}{R}{R}, {T}: This creature deals damage equal to its power divided among any number of target permanents.
+
+Red Cap Tower Guard Token WWHP;
+rules_text: Squad {R}{W}
+This creature and each token copy of it enter with a shield on them if you created at least one token copy.
+All creatures able to block this creature do so. => Squad {R}{RW}
+This creature and each token copy of it enter with a shield on them if you created at least one token copy.
+All creatures able to block this creature do so.
+
+Bowtruckle Token WWHP;
+rules_text: Squad {2}{G}
+Whenever this creature enters, return up to one target enchantment or Incantation card from your graveyard to your hand. => Squad {2G}
+Whenever this creature enters, return up to one target enchantment or Incantation card from your graveyard to your hand.
+
+Chinese Chomping Cabbage Token WWHP;
+rules_text: Flash
+Squad {1}{2G}. 
+When this creature enters, if you paid {G}{G} to cast it, it deals damage equal to its power to any target. => Flash
+Squad {2G}. 
+When this creature enters, if you paid {G}{G} to cast it or it's a token, it deals damage equal to its power to any target.
+
+Puffskein Token WWHP;
+rules_text: Squad {2G}{G}
+{T}: Puffskein deals 1 damage to target creature with flying. => Squad {G}
+{T}: Puffskein deals 1 damage to target creature with flying.
+
+Vampyr Mosp Token WWHP;
+rules_text: Squad {4}{G}{G}
+Flying
+This token gets +1/+1 for each creature named Vampyr Mosp and costs {1} less to cast for each plant you control.
+Whenever a Plant creature you control enters, create a token copy of this creature. This ability triggers only once each turn. => Squad {4}{G}
+Flying
+This token gets +1/+1 for each creature named Vampyr Mosp and costs {1} less to cast for each plant you control.
+Whenever a Plant creature you control enters, create a token copy of this creature. This ability triggers only once each turn.
+
+Portkey Token WWHP;
+type: Sorcery — Incantation => Token Artifact — Portkey
+cost: {W}{U} => 
+rules_text: Create a Portkey token. [i](Its an artifact with “{2}, Sacrifice this artifact: Target creature you control phases out.”)[/i]
+Bewitchment storm [i](When you cast this spell, copy it for each bewitchment spell cast before it this turn. You may choose new targets for the copies. Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i] => {2}, Sacrifice this artifact: Target creature you control phases out. [i](Treat it and anything attached to it as though they don't exist until its controller's next turn.)[/i]
+
+Wizard-Cracker Token WWHP;
+rules_text: {1}, {T}, Sacrifice this artifact: Put a -1/-1 counter on target creature. => {2}, {T}, Sacrifice this artifact: Put a -1/-1 counter on target creature.
+
+Dolohov's Curse
+rules_text: [i](You may cast a legendary sorcery only if you control a legendary creature or planeswalker.)[/i]
+Target player sacrifices a permanent and discards a card. If that player can't discard a card, that player sacrifices another permanent instead. Dolohov's Curse deals damage to that player equal to the total mana value of permanents sacrificed this way.
+If an opponent controls more nonland permanents then you, or this spell was cast from anywhere other than your hand after it resolves exile it, then cast it again transformed as though it has flash.
+Bewitchment storm [i](When you cast this spell, copy it for each bewitchment spell cast before it this turn. You may choose new targets for the copies. Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i] => [i](You may cast a legendary sorcery only if you control a legendary creature or planeswalker.)[/i]
+Target player sacrifices a permanent and discards a card. If that player can't discard a card, that player sacrifices another permanent instead. Dolohov's Curse deals damage to that player equal to the total mana value of permanents sacrificed this way.
+If an opponent controls more nonland permanents then you, or this spell was cast from anywhere other than your hand after it resolves exile it, then cast it transformed.
+Bewitchment storm.
+
+Welcome to the Wizarding World
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a number of Student tokens equal to half the number of lands you control rounded up. [i](They're 1/1 white Human Wizard creature tokens with “Scholarly”.)[/i]
+II — For each student you control, create a tapped Treasure token.
+III — Until end of turn, Whenever you sacrifice a Treasure token, you gain 1 life.
+Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a number of Student tokens equal to half the number of lands you control rounded up. [i](They're 1/1 white Human Wizard creature tokens with “Scholarly”.)[/i]
+II — For each Student you control, create a tapped Treasure token.
+III — Until end of turn, Whenever you sacrifice a Treasure token, you gain 1 life.
+Exile this Saga, then return it to the battlefield transformed under your control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a number of Student tokens equal to half the number of lands you control rounded up. [i](They're 1/1 white Human Wizard creature tokens with “Scholarly”.)[/i]
+II — For each student you control, create a tapped Treasure token.
+III — Until end of turn, Whenever you sacrifice a Treasure token, you gain 1 life.
+Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a number of Student tokens equal to half the number of lands you control rounded up. [i](They're 1/1 white Human Wizard creature tokens with “Scholarly”.)[/i]
+II — For each Student you control, create a tapped Treasure token.
+III — Until end of turn, Whenever you sacrifice a Treasure token, you gain 1 life.
+Exile this Saga, then return it to the battlefield transformed under your control.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
