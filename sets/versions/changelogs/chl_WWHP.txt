@@ -1,4 +1,32 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+
+
+Journey Beneath Gringotts Bank
+
+Nearly Headless Nick, Ghost of Gryffindor
+cost: {R}{GW} => {R}
+
+Flight of the Seven Potters
+
+Basic Cast
+type: Sorcery — Incantation => Instant — Incantation
+rules_text: You may pay an additional {1} as you cast this spell. If you do, after it resolves return it to your hand instead.
+Basic Cast deals 1 damage to any target.
+Bewitchment storm [i](When you cast this spell, copy it for each bewitchment spell cast before it this turn. You may choose new targets for the copies. Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i] => As an additional cost to cast this spell you may pay {1}. If you do, after it resolves return it to your hand instead.
+Basic Cast deals 1 damage to any target.
+Bewitchment storm [i](When you cast this spell, copy it for each bewitchment spell cast before it this turn. You may choose new targets for the copies. Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i]
+
+Diffindo
+rules_text: Diffindo deals 5 damage to any non-player target.
+Bewitchment storm [i](When you cast this spell, copy it for each bewitchment spell cast before it this turn. You may choose new targets for the copies. Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i] => Diffindo deals 5 damage to any nonplayer target.
+Bewitchment storm [i](When you cast this spell, copy it for each bewitchment spell cast before it this turn. You may choose new targets for the copies. Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i]
+
+Intro to Herbology
+
+
+VERSION 3 CHANGELOG
 ====================
 
 
