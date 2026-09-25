@@ -1,4 +1,40 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Matagot Familiar added.
+Chinese Fireball added.
+
+
+Zou Wu Beast
+cost: {2}{W}{W}{W} => {3}{W}{W}{W}
+
+Greatspined Dugbog
+rules_text: As long as a creature entered under an opponent's control this turn, you may cast this creature as though it had flash.
+Whenever a creature enters under an opponents control, you this creature fights that creature. => As long as a creature entered under an opponent's control this turn, you may cast this creature as though it had flash.
+Whenever a creature enters under an opponents control, this creature fights that creature.
+
+Merlin's Trial
+rules_text: Create a Mallowsweet token. Its a 0/1 {G} Plant creature token with defender, “{1}, {T}, Sacrifice a land: Search your library for up to two basic lands and put them onto the battlefield tapped, then shuffle.” and “{2}, {T}: Add an amount of mana of any one color equal to the number of land cards in your graveyard.” => Create a Mallowsweet token. Its a 0/1 {G} Plant creature token with defender, “{1}, {T}, Sacrifice a land: Search your library for up to two basic lands and put them onto the battlefield tapped, then shuffle.” and “{2}, {T}: Add an amount of mana of any one color equal to the number of land cards in your graveyard.”
+Bewitchment storm
+
+The Monster Book of Monsters
+
+Folio Magi
+
+Matagot Familiar Token WWHP;
+type: Creature — Cat Beast => Token Creature — Cat Beast
+cost: {3}{B}{B} => 
+
+Dragon Token WWHP;
+type: Creature — Dragon Beast => Token Creature — Dragon
+cost: {2}{R}{R} => 
+rules_text: Flying
+When this creature enters you may pay {2}{R}{R}, create two 2/2 {R} Dragon creature tokens with flying and “{R}: This creature gets +1/+0 until end of turn.[i]”[/i] => Flying
+Fire breath — {R}: This creature gets +1/+0 until end of turn.
+pt: 5/4 => 2/2
+
+
+VERSION 4 CHANGELOG
 ====================
 
 
