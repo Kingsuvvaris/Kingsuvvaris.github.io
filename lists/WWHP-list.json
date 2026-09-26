@@ -17,7 +17,7 @@
     },
     {
         "card_name": "Drink of Dispair",
-        "number": 98,
+        "number": 99,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -25,7 +25,7 @@
     },
     {
         "card_name": "Geminio Curse",
-        "number": 155,
+        "number": 156,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -33,7 +33,7 @@
     },
     {
         "card_name": "Capacious Extremis",
-        "number": 180,
+        "number": 181,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -57,7 +57,7 @@
     },
     {
         "card_name": "Lethifold",
-        "number": 110,
+        "number": 111,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -65,7 +65,7 @@
     },
     {
         "card_name": "Gringotts Banking Goblin",
-        "number": 156,
+        "number": 157,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -73,7 +73,7 @@
     },
     {
         "card_name": "Felix Felicis, Liquid Luck",
-        "number": 187,
+        "number": 188,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -97,7 +97,7 @@
     },
     {
         "card_name": "Locket of Salazar Slytherin",
-        "number": 111,
+        "number": 112,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -105,7 +105,7 @@
     },
     {
         "card_name": "Priori Incantatem",
-        "number": 168,
+        "number": 169,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -113,7 +113,7 @@
     },
     {
         "card_name": "Insectoid Manticore Mother",
-        "number": 195,
+        "number": 196,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -137,7 +137,7 @@
     },
     {
         "card_name": "Return of the Dark Lord",
-        "number": 118,
+        "number": 119,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -145,7 +145,7 @@
     },
     {
         "card_name": "Amazonian Fire Salamander Pit",
-        "number": 135,
+        "number": 136,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -153,7 +153,7 @@
     },
     {
         "card_name": "Nundu Leopard",
-        "number": 202,
+        "number": 203,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -168,16 +168,16 @@
         "position": "259"
     },
     {
-        "card_name": "Forgetfulness Potion",
-        "number": 64,
-        "shape": "normal",
+        "card_name": "Spirit Ambush",
+        "number": 87,
+        "shape": "transform double faced",
         "set": "WWHP",
         "rotated": false,
-        "position": "219"
+        "position": "512"
     },
     {
         "card_name": "Withering Curse of the Wearer",
-        "number": 131,
+        "number": 132,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -185,7 +185,7 @@
     },
     {
         "card_name": "Chinese Fireball",
-        "number": 141,
+        "number": 142,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -193,7 +193,7 @@
     },
     {
         "card_name": "Mandrake Restorative Draught",
-        "number": 198,
+        "number": 199,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -208,16 +208,16 @@
         "position": "180"
     },
     {
-        "card_name": "Melding of Minds",
-        "number": 78,
-        "shape": "modal double faced",
+        "card_name": "Forgetfulness Potion",
+        "number": 64,
+        "shape": "normal",
         "set": "WWHP",
         "rotated": false,
-        "position": "384"
+        "position": "219"
     },
     {
         "card_name": "Drought of Living Death",
-        "number": 99,
+        "number": 100,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -225,7 +225,7 @@
     },
     {
         "card_name": "Common Welsh Green",
-        "number": 142,
+        "number": 143,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -233,7 +233,7 @@
     },
     {
         "card_name": "Merlin's Trial",
-        "number": 200,
+        "number": 201,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -248,16 +248,16 @@
         "position": "237"
     },
     {
-        "card_name": "Vanishing Cabinet",
-        "number": 89,
-        "shape": "normal",
+        "card_name": "Melding of Minds",
+        "number": 78,
+        "shape": "modal double faced",
         "set": "WWHP",
         "rotated": false,
-        "position": "89"
+        "position": "384"
     },
     {
         "card_name": "Legilimens",
-        "number": 109,
+        "number": 110,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -265,7 +265,7 @@
     },
     {
         "card_name": "Hungarian Horntail",
-        "number": 157,
+        "number": 158,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -273,7 +273,7 @@
     },
     {
         "card_name": "Rennervate",
-        "number": 207,
+        "number": 208,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -288,16 +288,16 @@
         "position": "203"
     },
     {
-        "card_name": "Brain Eater",
-        "number": 51,
+        "card_name": "Vanishing Cabinet",
+        "number": 90,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
-        "position": "131"
+        "position": "89"
     },
     {
         "card_name": "Portkey to Little Hangleton Graveyard",
-        "number": 117,
+        "number": 118,
         "shape": "transform double faced split",
         "set": "WWHP",
         "rotated": true,
@@ -305,7 +305,7 @@
     },
     {
         "card_name": "Journey Beneath Gringotts Bank",
-        "number": 160,
+        "number": 161,
         "shape": "transform double faced split",
         "set": "WWHP",
         "rotated": true,
@@ -313,7 +313,7 @@
     },
     {
         "card_name": "Antidote to Poisons",
-        "number": 175,
+        "number": 176,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -328,16 +328,16 @@
         "position": "469"
     },
     {
-        "card_name": "Broken Wand",
-        "number": 52,
+        "card_name": "Brain Eater",
+        "number": 51,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
-        "position": "69"
+        "position": "131"
     },
     {
         "card_name": "Skirmish in Underground Chambers",
-        "number": 122,
+        "number": 123,
         "shape": "transform double faced split",
         "set": "WWHP",
         "rotated": true,
@@ -345,7 +345,7 @@
     },
     {
         "card_name": "Existmulo Maxima Potion",
-        "number": 150,
+        "number": 151,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -353,7 +353,7 @@
     },
     {
         "card_name": "Bundimun",
-        "number": 179,
+        "number": 180,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -368,16 +368,16 @@
         "position": "258"
     },
     {
-        "card_name": "Giant Purple Toad",
-        "number": 65,
+        "card_name": "Broken Wand",
+        "number": 52,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
-        "position": "108"
+        "position": "69"
     },
     {
         "card_name": "Writing on the Wall",
-        "number": 133,
+        "number": 134,
         "shape": "transform double faced",
         "set": "WWHP",
         "rotated": false,
@@ -385,7 +385,7 @@
     },
     {
         "card_name": "Nearly Headless Nick, Ghost of Gryffindor",
-        "number": 163,
+        "number": 164,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -393,7 +393,7 @@
     },
     {
         "card_name": "Graphorn",
-        "number": 192,
+        "number": 193,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -408,16 +408,16 @@
         "position": "199"
     },
     {
-        "card_name": "Inflatus",
-        "number": 69,
+        "card_name": "Giant Purple Toad",
+        "number": 65,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
-        "position": "107"
+        "position": "108"
     },
     {
         "card_name": "The Grim",
-        "number": 105,
+        "number": 106,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -425,7 +425,7 @@
     },
     {
         "card_name": "Red Cap Tower Guard",
-        "number": 169,
+        "number": 170,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -433,7 +433,7 @@
     },
     {
         "card_name": "Magizoologist Trainee",
-        "number": 197,
+        "number": 198,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -448,16 +448,16 @@
         "position": "250"
     },
     {
-        "card_name": "Kneazle",
-        "number": 72,
+        "card_name": "Inflatus",
+        "number": 69,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
-        "position": "19"
+        "position": "107"
     },
     {
         "card_name": "Join Us or Die!",
-        "number": 108,
+        "number": 109,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -465,7 +465,7 @@
     },
     {
         "card_name": "Scabbers, Frightend Coward",
-        "number": 171,
+        "number": 172,
         "shape": "modal double faced",
         "set": "WWHP",
         "rotated": false,
@@ -473,7 +473,7 @@
     },
     {
         "card_name": "Orchideous",
-        "number": 203,
+        "number": 204,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -488,16 +488,16 @@
         "position": "215"
     },
     {
-        "card_name": "Permission to Visit Hogsmeade",
-        "number": 81,
-        "shape": "transform double faced split",
+        "card_name": "Kneazle",
+        "number": 72,
+        "shape": "normal",
         "set": "WWHP",
-        "rotated": true,
-        "position": "314"
+        "rotated": false,
+        "position": "19"
     },
     {
         "card_name": "Obscurial Parasite",
-        "number": 115,
+        "number": 116,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -505,7 +505,7 @@
     },
     {
         "card_name": "Thunder Brew Potion",
-        "number": 173,
+        "number": 174,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -513,7 +513,7 @@
     },
     {
         "card_name": "Point Me",
-        "number": 204,
+        "number": 205,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -528,16 +528,16 @@
         "position": "187"
     },
     {
-        "card_name": "Reparo",
-        "number": 83,
-        "shape": "normal",
+        "card_name": "Permission to Visit Hogsmeade",
+        "number": 81,
+        "shape": "transform double faced split",
         "set": "WWHP",
-        "rotated": false,
-        "position": "194"
+        "rotated": true,
+        "position": "314"
     },
     {
         "card_name": "Peeves, Poltergeist Trickster",
-        "number": 116,
+        "number": 117,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -545,7 +545,7 @@
     },
     {
         "card_name": "Accio",
-        "number": 134,
+        "number": 135,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -553,7 +553,7 @@
     },
     {
         "card_name": "Three Headed Guard Dog",
-        "number": 213,
+        "number": 214,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -568,24 +568,24 @@
         "position": "334"
     },
     {
-        "card_name": "Apothecary Shopkeeper",
-        "number": 47,
+        "card_name": "Reparo",
+        "number": 83,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
-        "position": "207"
+        "position": "194"
     },
     {
         "card_name": "Serpensortia",
-        "number": 121,
-        "shape": "normal",
+        "number": 122,
+        "shape": "transform double faced",
         "set": "WWHP",
         "rotated": false,
         "position": "70"
     },
     {
         "card_name": "Amortentia, Love Potion",
-        "number": 136,
+        "number": 137,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -593,7 +593,7 @@
     },
     {
         "card_name": "Whomping Willow",
-        "number": 217,
+        "number": 218,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -608,16 +608,16 @@
         "position": "196"
     },
     {
-        "card_name": "Arresto Momento",
-        "number": 48,
+        "card_name": "Apothecary Shopkeeper",
+        "number": 47,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
-        "position": "24"
+        "position": "207"
     },
     {
         "card_name": "Veritaserum",
-        "number": 128,
+        "number": 129,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -625,7 +625,7 @@
     },
     {
         "card_name": "Basic Cast",
-        "number": 137,
+        "number": 138,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -633,7 +633,7 @@
     },
     {
         "card_name": "Acromantula",
-        "number": 174,
+        "number": 175,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -648,16 +648,16 @@
         "position": "197"
     },
     {
-        "card_name": "Caught Out of Bed",
-        "number": 53,
+        "card_name": "Arresto Momento",
+        "number": 48,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
-        "position": "337"
+        "position": "24"
     },
     {
         "card_name": "Wizard-Cracker Imp",
-        "number": 132,
+        "number": 133,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -665,7 +665,7 @@
     },
     {
         "card_name": "Bombarda",
-        "number": 138,
+        "number": 139,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -673,7 +673,7 @@
     },
     {
         "card_name": "Aspiring Dueling Students",
-        "number": 176,
+        "number": 177,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -688,16 +688,16 @@
         "position": "177"
     },
     {
-        "card_name": "Charms Adept",
-        "number": 54,
+        "card_name": "Caught Out of Bed",
+        "number": 53,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
-        "position": "327"
+        "position": "337"
     },
     {
         "card_name": "Colloshoo",
-        "number": 92,
+        "number": 93,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -705,7 +705,7 @@
     },
     {
         "card_name": "Burned-Out Fifth-Year",
-        "number": 139,
+        "number": 140,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -713,7 +713,7 @@
     },
     {
         "card_name": "Chinese Chomping Cabbage",
-        "number": 182,
+        "number": 183,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -728,16 +728,16 @@
         "position": "178"
     },
     {
-        "card_name": "Delivery Owl",
-        "number": 56,
+        "card_name": "Charms Adept",
+        "number": 54,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
-        "position": "156"
+        "position": "327"
     },
     {
         "card_name": "Confundus",
-        "number": 93,
+        "number": 94,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -745,7 +745,7 @@
     },
     {
         "card_name": "Carpe Retractem",
-        "number": 140,
+        "number": 141,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -753,7 +753,7 @@
     },
     {
         "card_name": "Devil's Snare",
-        "number": 184,
+        "number": 185,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -768,16 +768,16 @@
         "position": "179"
     },
     {
-        "card_name": "Demiguise",
-        "number": 57,
+        "card_name": "Delivery Owl",
+        "number": 56,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
-        "position": "27"
+        "position": "156"
     },
     {
         "card_name": "Densaugeo",
-        "number": 96,
+        "number": 97,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -785,7 +785,7 @@
     },
     {
         "card_name": "Confringo",
-        "number": 143,
+        "number": 144,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -793,7 +793,7 @@
     },
     {
         "card_name": "Engorgio",
-        "number": 185,
+        "number": 186,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -802,22 +802,22 @@
     {
         "card_name": "Avifors",
         "number": 8,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "WWHP",
         "rotated": false,
         "position": "171"
     },
     {
-        "card_name": "Diricawl",
-        "number": 59,
+        "card_name": "Demiguise",
+        "number": 57,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
-        "position": "262"
+        "position": "27"
     },
     {
         "card_name": "Disillusionment Charm",
-        "number": 97,
+        "number": 98,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -825,7 +825,7 @@
     },
     {
         "card_name": "Diffindo",
-        "number": 144,
+        "number": 145,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -833,7 +833,7 @@
     },
     {
         "card_name": "Erumpent Horn",
-        "number": 186,
+        "number": 187,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -848,32 +848,32 @@
         "position": "289"
     },
     {
-        "card_name": "Focus Potion",
-        "number": 62,
+        "card_name": "Diricawl",
+        "number": 59,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
-        "position": "218"
+        "position": "262"
     },
     {
         "card_name": "Erkling",
-        "number": 100,
-        "shape": "normal",
+        "number": 101,
+        "shape": "transform double faced",
         "set": "WWHP",
         "rotated": false,
         "position": "74"
     },
     {
         "card_name": "Draconifors",
-        "number": 145,
-        "shape": "normal",
+        "number": 146,
+        "shape": "transform double faced",
         "set": "WWHP",
         "rotated": false,
         "position": "284"
     },
     {
         "card_name": "Forest Giant",
-        "number": 189,
+        "number": 190,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -888,16 +888,16 @@
         "position": "181"
     },
     {
-        "card_name": "Folio Magi",
-        "number": 63,
-        "shape": "transform double faced",
+        "card_name": "Focus Potion",
+        "number": 62,
+        "shape": "normal",
         "set": "WWHP",
         "rotated": false,
-        "position": "378"
+        "position": "218"
     },
     {
         "card_name": "Family Attic Ghoul",
-        "number": 101,
+        "number": 102,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -905,7 +905,7 @@
     },
     {
         "card_name": "Dragon Hatchling",
-        "number": 146,
+        "number": 147,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -913,7 +913,7 @@
     },
     {
         "card_name": "Fumos",
-        "number": 190,
+        "number": 191,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -928,16 +928,16 @@
         "position": "251"
     },
     {
-        "card_name": "Glacius",
-        "number": 66,
-        "shape": "normal",
+        "card_name": "Folio Magi",
+        "number": 63,
+        "shape": "transform double faced",
         "set": "WWHP",
         "rotated": false,
-        "position": "255"
+        "position": "378"
     },
     {
         "card_name": "Fanged Frisbee",
-        "number": 102,
+        "number": 103,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -945,7 +945,7 @@
     },
     {
         "card_name": "Dungeon Red Cap Agressor",
-        "number": 147,
+        "number": 148,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -953,7 +953,7 @@
     },
     {
         "card_name": "Greatspined Dugbog",
-        "number": 193,
+        "number": 194,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -968,16 +968,16 @@
         "position": "252"
     },
     {
-        "card_name": "Hidden Boggart",
-        "number": 68,
+        "card_name": "Glacius",
+        "number": 66,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
-        "position": "105"
+        "position": "255"
     },
     {
         "card_name": "Flagrante",
-        "number": 103,
+        "number": 104,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -985,7 +985,7 @@
     },
     {
         "card_name": "Durmstrang Potioneer",
-        "number": 148,
+        "number": 149,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -993,7 +993,7 @@
     },
     {
         "card_name": "Herbivicous",
-        "number": 194,
+        "number": 195,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1017,7 +1017,7 @@
     },
     {
         "card_name": "Furnunculus",
-        "number": 104,
+        "number": 105,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1025,7 +1025,7 @@
     },
     {
         "card_name": "Expelliarmus",
-        "number": 151,
+        "number": 152,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1033,7 +1033,7 @@
     },
     {
         "card_name": "Melofors",
-        "number": 199,
+        "number": 200,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1057,7 +1057,7 @@
     },
     {
         "card_name": "Inferi Protector",
-        "number": 107,
+        "number": 108,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1065,7 +1065,7 @@
     },
     {
         "card_name": "Exploding Potion",
-        "number": 152,
+        "number": 153,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1073,7 +1073,7 @@
     },
     {
         "card_name": "The Monster Book of Monsters",
-        "number": 201,
+        "number": 202,
         "shape": "transform double faced",
         "set": "WWHP",
         "rotated": false,
@@ -1097,7 +1097,7 @@
     },
     {
         "card_name": "Ministry Spy",
-        "number": 113,
+        "number": 114,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1105,7 +1105,7 @@
     },
     {
         "card_name": "Fire Crab",
-        "number": 153,
+        "number": 154,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1113,7 +1113,7 @@
     },
     {
         "card_name": "Skurge",
-        "number": 208,
+        "number": 209,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1137,7 +1137,7 @@
     },
     {
         "card_name": "Screaming Howler",
-        "number": 119,
+        "number": 120,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1145,15 +1145,15 @@
     },
     {
         "card_name": "Flame Infused Armour",
-        "number": 154,
-        "shape": "normal",
+        "number": 155,
+        "shape": "transform double faced",
         "set": "WWHP",
         "rotated": false,
         "position": "97"
     },
     {
         "card_name": "Student Potioneer",
-        "number": 211,
+        "number": 212,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1177,7 +1177,7 @@
     },
     {
         "card_name": "Sectumsempera",
-        "number": 120,
+        "number": 121,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1185,7 +1185,7 @@
     },
     {
         "card_name": "Incendio",
-        "number": 158,
+        "number": 159,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1193,7 +1193,7 @@
     },
     {
         "card_name": "Surgito",
-        "number": 212,
+        "number": 213,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1217,15 +1217,15 @@
     },
     {
         "card_name": "Snufflifores",
-        "number": 123,
-        "shape": "normal",
+        "number": 124,
+        "shape": "transform double faced",
         "set": "WWHP",
         "rotated": false,
         "position": "277"
     },
     {
         "card_name": "Invading Mountain Troll",
-        "number": 159,
+        "number": 160,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1233,7 +1233,7 @@
     },
     {
         "card_name": "Wiggenweld Potion",
-        "number": 218,
+        "number": 219,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1257,7 +1257,7 @@
     },
     {
         "card_name": "Spot Ministry Raid",
-        "number": 124,
+        "number": 125,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1265,7 +1265,7 @@
     },
     {
         "card_name": "Minister's Censorship",
-        "number": 162,
+        "number": 163,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1292,7 +1292,7 @@
     },
     {
         "card_name": "Swooping Evil",
-        "number": 125,
+        "number": 126,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1300,7 +1300,7 @@
     },
     {
         "card_name": "Oppugno",
-        "number": 164,
+        "number": 165,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1327,7 +1327,7 @@
     },
     {
         "card_name": "Volamucus",
-        "number": 129,
+        "number": 130,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1335,7 +1335,7 @@
     },
     {
         "card_name": "Potion Mishap",
-        "number": 166,
+        "number": 167,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1354,7 +1354,7 @@
     },
     {
         "card_name": "Stink Pellet",
-        "number": 87,
+        "number": 88,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1362,7 +1362,7 @@
     },
     {
         "card_name": "Weakness Potion",
-        "number": 130,
+        "number": 131,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1370,7 +1370,7 @@
     },
     {
         "card_name": "Reducto",
-        "number": 170,
+        "number": 171,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1389,7 +1389,7 @@
     },
     {
         "card_name": "Vera Verto",
-        "number": 90,
+        "number": 91,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1519,7 +1519,7 @@
     "a->gold",
     {
         "card_name": "Ordinary Wizarding Level Examinations",
-        "number": 280,
+        "number": 281,
         "shape": "saga",
         "set": "WWHP",
         "rotated": false,
@@ -1527,7 +1527,7 @@
     },
     {
         "card_name": "Imperio",
-        "number": 259,
+        "number": 260,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1535,7 +1535,7 @@
     },
     {
         "card_name": "Avada Kedavra",
-        "number": 222,
+        "number": 223,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1543,7 +1543,7 @@
     },
     {
         "card_name": "Traverse the Secret Passage",
-        "number": 309,
+        "number": 310,
         "shape": "transform double faced",
         "set": "WWHP",
         "rotated": false,
@@ -1551,7 +1551,7 @@
     },
     {
         "card_name": "Society for the Promotion of Elfish Welfare",
-        "number": 303,
+        "number": 304,
         "shape": "saga",
         "set": "WWHP",
         "rotated": false,
@@ -1559,7 +1559,7 @@
     },
     {
         "card_name": "Sybill Trelawney, Unreliable Seer",
-        "number": 305,
+        "number": 306,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1567,7 +1567,7 @@
     },
     {
         "card_name": "Protego Diabolica",
-        "number": 288,
+        "number": 289,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1575,7 +1575,7 @@
     },
     {
         "card_name": "Reawakining of the Dark Mark",
-        "number": 291,
+        "number": 292,
         "shape": "transform double faced",
         "set": "WWHP",
         "rotated": false,
@@ -1583,7 +1583,7 @@
     },
     {
         "card_name": "Blast Ended Screwt",
-        "number": 226,
+        "number": 227,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1591,7 +1591,7 @@
     },
     {
         "card_name": "Madam Pomfrey",
-        "number": 269,
+        "number": 270,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1599,7 +1599,7 @@
     },
     {
         "card_name": "Langlock",
-        "number": 262,
+        "number": 263,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1607,7 +1607,7 @@
     },
     {
         "card_name": "Dolores Umbridge, Lawfully Maddened Official",
-        "number": 239,
+        "number": 240,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1615,7 +1615,7 @@
     },
     {
         "card_name": "Intro to Alchemy",
-        "number": 325,
+        "number": 326,
         "shape": "transform double faced",
         "set": "WWHP",
         "rotated": false,
@@ -1623,7 +1623,7 @@
     },
     {
         "card_name": "Intro to Care of Magical Creatures",
-        "number": 326,
+        "number": 327,
         "shape": "transform double faced",
         "set": "WWHP",
         "rotated": false,
@@ -1631,7 +1631,7 @@
     },
     {
         "card_name": "Intro to Transfiguration",
-        "number": 334,
+        "number": 335,
         "shape": "transform double faced",
         "set": "WWHP",
         "rotated": false,
@@ -1639,7 +1639,7 @@
     },
     {
         "card_name": "Whit-Sharpening Potion",
-        "number": 347,
+        "number": 348,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1647,7 +1647,7 @@
     },
     {
         "card_name": "Lessons with the Headmaster",
-        "number": 263,
+        "number": 264,
         "shape": "transform double faced",
         "set": "WWHP",
         "rotated": false,
@@ -1655,7 +1655,7 @@
     },
     {
         "card_name": "Hate Potion",
-        "number": 344,
+        "number": 345,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1663,7 +1663,7 @@
     },
     {
         "card_name": "Wolfsbane Potion",
-        "number": 348,
+        "number": 349,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1674,7 +1674,7 @@
     },
     {
         "card_name": "Intro to Divination",
-        "number": 329,
+        "number": 330,
         "shape": "transform double faced",
         "set": "WWHP",
         "rotated": false,
@@ -1682,7 +1682,7 @@
     },
     {
         "card_name": "Dementor of Azkaban",
-        "number": 235,
+        "number": 236,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1702,7 +1702,7 @@
     },
     {
         "card_name": "Rita Skeeter, Gossip Reporter",
-        "number": 295,
+        "number": 296,
         "shape": "modal double faced",
         "set": "WWHP",
         "rotated": false,
@@ -1722,7 +1722,7 @@
     },
     {
         "card_name": "Intro to the Dark Arts",
-        "number": 333,
+        "number": 334,
         "shape": "transform double faced",
         "set": "WWHP",
         "rotated": false,
@@ -1742,7 +1742,7 @@
     },
     {
         "card_name": "Gilleyweed",
-        "number": 343,
+        "number": 344,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1774,7 +1774,7 @@
     },
     {
         "card_name": "Welcome to the Wizarding World",
-        "number": 314,
+        "number": 315,
         "shape": "transform double faced",
         "set": "WWHP",
         "rotated": false,
@@ -1782,7 +1782,7 @@
     },
     {
         "card_name": "Quirinus Quirrell, Traitorous Professor",
-        "number": 339,
+        "number": 340,
         "shape": "modal double faced",
         "set": "WWHP",
         "rotated": false,
@@ -1790,7 +1790,7 @@
     },
     {
         "card_name": "Garden Gnome",
-        "number": 249,
+        "number": 250,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1798,7 +1798,7 @@
     },
     {
         "card_name": "Lonesome Phoenix",
-        "number": 264,
+        "number": 265,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1806,7 +1806,7 @@
     },
     {
         "card_name": "Intro to Potions",
-        "number": 332,
+        "number": 333,
         "shape": "transform double faced",
         "set": "WWHP",
         "rotated": false,
@@ -1814,7 +1814,7 @@
     },
     {
         "card_name": "Intro to History of Magic",
-        "number": 331,
+        "number": 332,
         "shape": "transform double faced",
         "set": "WWHP",
         "rotated": false,
@@ -1822,7 +1822,7 @@
     },
     {
         "card_name": "Finite Incantatem",
-        "number": 246,
+        "number": 247,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1830,7 +1830,7 @@
     },
     {
         "card_name": "Mandrake Root",
-        "number": 270,
+        "number": 271,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1846,7 +1846,7 @@
     },
     {
         "card_name": "Polyjuice Potion",
-        "number": 345,
+        "number": 346,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1854,7 +1854,7 @@
     },
     {
         "card_name": "Aging Potion",
-        "number": 342,
+        "number": 343,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1862,7 +1862,7 @@
     },
     {
         "card_name": "Intro to Charms",
-        "number": 327,
+        "number": 328,
         "shape": "transform double faced",
         "set": "WWHP",
         "rotated": false,
@@ -1870,7 +1870,7 @@
     },
     {
         "card_name": "Sea Kelpie",
-        "number": 298,
+        "number": 299,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1878,7 +1878,7 @@
     },
     {
         "card_name": "Olympe Maxime, Headmistress of Beauxbatons",
-        "number": 279,
+        "number": 280,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1895,7 +1895,7 @@
     },
     {
         "card_name": "Venemous Tentacula",
-        "number": 310,
+        "number": 311,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1903,7 +1903,7 @@
     },
     {
         "card_name": "Parley with the Giants",
-        "number": 283,
+        "number": 284,
         "shape": "transform double faced",
         "set": "WWHP",
         "rotated": false,
@@ -1920,7 +1920,7 @@
     },
     {
         "card_name": "Intro to Herbology",
-        "number": 330,
+        "number": 331,
         "shape": "transform double faced",
         "set": "WWHP",
         "rotated": false,
@@ -1928,7 +1928,7 @@
     },
     {
         "card_name": "Swedish Shortsnout",
-        "number": 304,
+        "number": 305,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1945,7 +1945,7 @@
     },
     {
         "card_name": "Potion Storage Cabinet",
-        "number": 346,
+        "number": 347,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1953,7 +1953,7 @@
     },
     {
         "card_name": "Quidditch Match",
-        "number": 289,
+        "number": 290,
         "shape": "saga",
         "set": "WWHP",
         "rotated": false,
@@ -1973,8 +1973,8 @@
     },
     {
         "card_name": "Animated Torch",
-        "number": 221,
-        "shape": "normal",
+        "number": 222,
+        "shape": "transform double faced",
         "set": "WWHP",
         "rotated": false,
         "position": "174"
@@ -1993,7 +1993,7 @@
     },
     {
         "card_name": "Intro to Defence Against the Dark Arts",
-        "number": 328,
+        "number": 329,
         "shape": "transform double faced",
         "set": "WWHP",
         "rotated": false,
@@ -2022,7 +2022,7 @@
     },
     {
         "card_name": "Igor Karkaroff, Durmstrang Headmaster",
-        "number": 258,
+        "number": 259,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2033,7 +2033,7 @@
     },
     {
         "card_name": "Watchful Observer",
-        "number": 313,
+        "number": 314,
         "shape": "transform double faced",
         "set": "WWHP",
         "rotated": false,
@@ -2047,7 +2047,7 @@
     },
     {
         "card_name": "Tom Riddle, Prodigal Orphan",
-        "number": 307,
+        "number": 308,
         "shape": "transform double faced",
         "set": "WWHP",
         "rotated": false,
@@ -2058,7 +2058,7 @@
     },
     {
         "card_name": "Cornelius Fudge, Misguided Minister",
-        "number": 232,
+        "number": 233,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2072,7 +2072,7 @@
     },
     {
         "card_name": "Bellatrix Lestrange, Enthralled Death Eater",
-        "number": 223,
+        "number": 224,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2083,7 +2083,7 @@
     },
     {
         "card_name": "Flight of the Seven Potters",
-        "number": 247,
+        "number": 248,
         "shape": "transform double faced split",
         "set": "WWHP",
         "rotated": true,
@@ -2097,7 +2097,7 @@
     },
     {
         "card_name": "Crucio",
-        "number": 234,
+        "number": 235,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2108,7 +2108,7 @@
     },
     {
         "card_name": "Hermione Granger, Brightest Witch of Her Age",
-        "number": 255,
+        "number": 256,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2122,7 +2122,7 @@
     },
     {
         "card_name": "Dolohov's Curse",
-        "number": 238,
+        "number": 239,
         "shape": "transform double faced",
         "set": "WWHP",
         "rotated": false,
@@ -2133,7 +2133,7 @@
     },
     {
         "card_name": "Molly and Arthur Weasley, Protective Parents",
-        "number": 273,
+        "number": 274,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2147,7 +2147,7 @@
     },
     {
         "card_name": "Pius Thicknesse, Dark Lord Puppet",
-        "number": 285,
+        "number": 286,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2158,7 +2158,7 @@
     },
     {
         "card_name": "Fred and George Weasley, Mischevious Twins",
-        "number": 248,
+        "number": 249,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2172,7 +2172,7 @@
     },
     {
         "card_name": "Tradgey at the World Cup",
-        "number": 308,
+        "number": 309,
         "shape": "transform double faced split",
         "set": "WWHP",
         "rotated": true,
@@ -2183,7 +2183,7 @@
     },
     {
         "card_name": "Ginny Weasley, Underestimated Power",
-        "number": 251,
+        "number": 252,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2197,7 +2197,7 @@
     },
     {
         "card_name": "Agustus Rookwood, Unspeakable Spy",
-        "number": 219,
+        "number": 220,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2208,7 +2208,7 @@
     },
     {
         "card_name": "Neville Longbottem, Courageous Friend",
-        "number": 276,
+        "number": 277,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2222,7 +2222,7 @@
     },
     {
         "card_name": "The Carrow Siblings",
-        "number": 228,
+        "number": 229,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2233,7 +2233,7 @@
     },
     {
         "card_name": "Padfoot, Protective Marauder",
-        "number": 281,
+        "number": 282,
         "shape": "transform double faced",
         "set": "WWHP",
         "rotated": false,
@@ -2247,7 +2247,7 @@
     },
     {
         "card_name": "Corban Yaxley, Registered Interrogator",
-        "number": 231,
+        "number": 232,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2258,7 +2258,7 @@
     },
     {
         "card_name": "Remus Lupin, Master of the Dark Arts",
-        "number": 293,
+        "number": 294,
         "shape": "modal double faced",
         "set": "WWHP",
         "rotated": false,
@@ -2272,7 +2272,7 @@
     },
     {
         "card_name": "Fenrir Grayback",
-        "number": 244,
+        "number": 245,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2283,7 +2283,7 @@
     },
     {
         "card_name": "Ronald Weasley, House King",
-        "number": 296,
+        "number": 297,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2297,7 +2297,7 @@
     },
     {
         "card_name": "Viktor Krum, Durmstrang Champion",
-        "number": 311,
+        "number": 312,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2308,7 +2308,7 @@
     },
     {
         "card_name": "Rubeus Hagrid, Keeper of Keys",
-        "number": 297,
+        "number": 298,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2322,7 +2322,7 @@
     },
     {
         "card_name": "Walden Macnair, Dark Executioner",
-        "number": 312,
+        "number": 313,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2333,7 +2333,7 @@
     },
     {
         "card_name": "Hedwig, Loyal Protector",
-        "number": 324,
+        "number": 325,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2347,7 +2347,7 @@
     },
     {
         "card_name": "Dobby, the House Elf",
-        "number": 317,
+        "number": 318,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2358,7 +2358,7 @@
     },
     {
         "card_name": "Gryffindor Prefect",
-        "number": 252,
+        "number": 253,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2372,7 +2372,7 @@
     },
     {
         "card_name": "First-Week Snatcher",
-        "number": 318,
+        "number": 319,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2383,8 +2383,8 @@
     },
     {
         "card_name": "Harry Potter, The Boy Who Lived",
-        "number": 253,
-        "shape": "modal double faced",
+        "number": 254,
+        "shape": "transform double faced",
         "set": "WWHP",
         "rotated": false,
         "position": "353"
@@ -2403,7 +2403,7 @@
     },
     {
         "card_name": "First-Year Gryffindor",
-        "number": 319,
+        "number": 320,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2435,7 +2435,7 @@
     },
     {
         "card_name": "Mystery of the Golden Egg",
-        "number": 274,
+        "number": 275,
         "shape": "transform double faced split",
         "set": "WWHP",
         "rotated": true,
@@ -2443,7 +2443,7 @@
     },
     {
         "card_name": "Filius Flitwick, Head of Ravenclaw House",
-        "number": 245,
+        "number": 246,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2451,7 +2451,7 @@
     },
     {
         "card_name": "Severus Snape, Head of Slytherin House",
-        "number": 299,
+        "number": 300,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2465,7 +2465,7 @@
     },
     {
         "card_name": "Newt Scamander, First Magizolologist",
-        "number": 277,
+        "number": 278,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2473,7 +2473,7 @@
     },
     {
         "card_name": "Department of Mysteries",
-        "number": 236,
+        "number": 237,
         "shape": "transform double faced split",
         "set": "WWHP",
         "rotated": true,
@@ -2481,7 +2481,7 @@
     },
     {
         "card_name": "Beneath Hogwarts Plumbing",
-        "number": 224,
+        "number": 225,
         "shape": "transform double faced split",
         "set": "WWHP",
         "rotated": true,
@@ -2495,7 +2495,7 @@
     },
     {
         "card_name": "Theseus Scamander, Loyal Auror",
-        "number": 306,
+        "number": 307,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2503,7 +2503,7 @@
     },
     {
         "card_name": "Luna Lovegood, Enthused Reasearcher",
-        "number": 266,
+        "number": 267,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2511,7 +2511,7 @@
     },
     {
         "card_name": "Crab & Goyle",
-        "number": 233,
+        "number": 234,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2525,7 +2525,7 @@
     },
     {
         "card_name": "Cedric Diggory, Fiercely Loyal Friend",
-        "number": 229,
+        "number": 230,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2533,7 +2533,7 @@
     },
     {
         "card_name": "Cho Chang, Ravenclaw Seeker",
-        "number": 230,
+        "number": 231,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2541,7 +2541,7 @@
     },
     {
         "card_name": "Draco Malfoy",
-        "number": 240,
+        "number": 241,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2555,7 +2555,7 @@
     },
     {
         "card_name": "Justin Flinchfletchly, Wandering Student",
-        "number": 261,
+        "number": 262,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2563,7 +2563,7 @@
     },
     {
         "card_name": "Gilderoy Lockhart, Oblivious Fraud",
-        "number": 250,
+        "number": 251,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2571,7 +2571,7 @@
     },
     {
         "card_name": "Marcus Flint, Slytherin Quidditch Captain",
-        "number": 271,
+        "number": 272,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2585,15 +2585,15 @@
     },
     {
         "card_name": "Nymphadora Tonks, Metamorphmagus Auror",
-        "number": 278,
-        "shape": "normal",
+        "number": 279,
+        "shape": "transform double faced",
         "set": "WWHP",
         "rotated": false,
         "position": "48"
     },
     {
         "card_name": "Helena, Ghost of Ravenclaw",
-        "number": 254,
+        "number": 255,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2601,7 +2601,7 @@
     },
     {
         "card_name": "Bloody Barron, Ghost of Slytherin",
-        "number": 316,
+        "number": 317,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2615,7 +2615,7 @@
     },
     {
         "card_name": "Mrs Norris",
-        "number": 336,
+        "number": 337,
         "shape": "modal double faced",
         "set": "WWHP",
         "rotated": false,
@@ -2623,7 +2623,7 @@
     },
     {
         "card_name": "Madam Hooch, Quidditch Referee",
-        "number": 267,
+        "number": 268,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2631,7 +2631,7 @@
     },
     {
         "card_name": "Slytherin Prefect",
-        "number": 301,
+        "number": 302,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2645,7 +2645,7 @@
     },
     {
         "card_name": "Zacharias Smith, Jealous Friend",
-        "number": 341,
+        "number": 342,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2653,7 +2653,7 @@
     },
     {
         "card_name": "Marietta Edgecomb, Ministry Sneak",
-        "number": 272,
+        "number": 273,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2661,7 +2661,7 @@
     },
     {
         "card_name": "First-Year Slytherin",
-        "number": 322,
+        "number": 323,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2675,7 +2675,7 @@
     },
     {
         "card_name": "First-Year Hufflepuff",
-        "number": 320,
+        "number": 321,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2683,7 +2683,7 @@
     },
     {
         "card_name": "Fleur Delacour, Beuxbatons Champion",
-        "number": 323,
+        "number": 324,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2703,7 +2703,7 @@
     },
     {
         "card_name": "Moaning Myrtle",
-        "number": 335,
+        "number": 336,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2723,7 +2723,7 @@
     },
     {
         "card_name": "Ravenclaw Prefect",
-        "number": 290,
+        "number": 291,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2743,7 +2743,7 @@
     },
     {
         "card_name": "First-Year Ravenclaw",
-        "number": 321,
+        "number": 322,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2769,7 +2769,7 @@
     },
     {
         "card_name": "Albus Dumbledore",
-        "number": 220,
+        "number": 221,
         "shape": "transform double faced",
         "set": "WWHP",
         "rotated": false,
@@ -2777,7 +2777,7 @@
     },
     {
         "card_name": "Alaster Mad-Eye Moody",
-        "number": 315,
+        "number": 316,
         "shape": "transform double faced",
         "set": "WWHP",
         "rotated": false,
@@ -2785,7 +2785,7 @@
     },
     {
         "card_name": "Nagini, Maladictus Performer",
-        "number": 337,
+        "number": 338,
         "shape": "transform double faced",
         "set": "WWHP",
         "rotated": false,
@@ -2793,7 +2793,7 @@
     },
     {
         "card_name": "The Patil Twins, Padma and Parvati",
-        "number": 338,
+        "number": 339,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2801,7 +2801,7 @@
     },
     {
         "card_name": "Tale of the Three Brothers",
-        "number": 340,
+        "number": 341,
         "shape": "transform double faced",
         "set": "WWHP",
         "rotated": false,
@@ -2838,7 +2838,7 @@
     },
     {
         "card_name": "Cup of Helga Hufflepuff",
-        "number": 350,
+        "number": 351,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2846,7 +2846,7 @@
     },
     {
         "card_name": "Gaunt Family Ring",
-        "number": 354,
+        "number": 355,
         "shape": "transform double faced",
         "set": "WWHP",
         "rotated": false,
@@ -2854,7 +2854,7 @@
     },
     {
         "card_name": "Lost Diadem of Rowena Ravenclaw",
-        "number": 357,
+        "number": 358,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2862,7 +2862,7 @@
     },
     {
         "card_name": "Sword of Godrick Gryffindor",
-        "number": 366,
+        "number": 367,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2870,7 +2870,7 @@
     },
     {
         "card_name": "Tom Riddles Diary",
-        "number": 367,
+        "number": 368,
         "shape": "modal double faced",
         "set": "WWHP",
         "rotated": false,
@@ -2886,7 +2886,7 @@
     },
     {
         "card_name": "Self-Stiring Pewter Cauldron",
-        "number": 362,
+        "number": 363,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2894,7 +2894,7 @@
     },
     {
         "card_name": "The Sorting Hat",
-        "number": 364,
+        "number": 365,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2902,7 +2902,7 @@
     },
     {
         "card_name": "Basilisk Horn Wand",
-        "number": 349,
+        "number": 350,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2910,7 +2910,7 @@
     },
     {
         "card_name": "Dark Wizard Robes",
-        "number": 351,
+        "number": 352,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2918,7 +2918,7 @@
     },
     {
         "card_name": "Dragon Heart String Wand",
-        "number": 352,
+        "number": 353,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2926,7 +2926,7 @@
     },
     {
         "card_name": "Dragon Hide Gloves",
-        "number": 353,
+        "number": 354,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2934,7 +2934,7 @@
     },
     {
         "card_name": "Gryffindor Robes",
-        "number": 355,
+        "number": 356,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2942,7 +2942,7 @@
     },
     {
         "card_name": "Huffelpuff Robes",
-        "number": 356,
+        "number": 357,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2950,7 +2950,7 @@
     },
     {
         "card_name": "Pheonix Feather Wand",
-        "number": 358,
+        "number": 359,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2958,7 +2958,7 @@
     },
     {
         "card_name": "Quidditch Broom",
-        "number": 359,
+        "number": 360,
         "shape": "leveler",
         "set": "WWHP",
         "rotated": false,
@@ -2966,7 +2966,7 @@
     },
     {
         "card_name": "Ravenclaw Robes",
-        "number": 360,
+        "number": 361,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2974,7 +2974,7 @@
     },
     {
         "card_name": "Remembrall",
-        "number": 361,
+        "number": 362,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2982,7 +2982,7 @@
     },
     {
         "card_name": "Slytherin Robes",
-        "number": 363,
+        "number": 364,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2990,7 +2990,7 @@
     },
     {
         "card_name": "Standard Book of Spells",
-        "number": 365,
+        "number": 366,
         "shape": "leveler",
         "set": "WWHP",
         "rotated": false,
@@ -2998,7 +2998,7 @@
     },
     {
         "card_name": "Unicorn Hair Wand",
-        "number": 368,
+        "number": 369,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -3006,7 +3006,7 @@
     },
     {
         "card_name": "Veela Hair Wand",
-        "number": 369,
+        "number": 370,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -3032,7 +3032,7 @@
     },
     {
         "card_name": "Room of Requirement",
-        "number": 374,
+        "number": 375,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -3040,7 +3040,7 @@
     },
     {
         "card_name": "Castle Heights",
-        "number": 370,
+        "number": 371,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -3048,7 +3048,7 @@
     },
     {
         "card_name": "Cozey Hearth",
-        "number": 371,
+        "number": 372,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -3056,7 +3056,7 @@
     },
     {
         "card_name": "Dungeon Depths",
-        "number": 372,
+        "number": 373,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -3064,7 +3064,7 @@
     },
     {
         "card_name": "Pureblood Manner",
-        "number": 373,
+        "number": 374,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -3072,7 +3072,7 @@
     },
     {
         "card_name": "Winery Cellar",
-        "number": 375,
+        "number": 376,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -3107,7 +3107,7 @@
     },
     {
         "card_name": "Plains 2",
-        "number": 378,
+        "number": 379,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -3115,7 +3115,7 @@
     },
     {
         "card_name": "Island 1",
-        "number": 380,
+        "number": 381,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -3123,7 +3123,7 @@
     },
     {
         "card_name": "Forest 4",
-        "number": 395,
+        "number": 396,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -3131,7 +3131,7 @@
     },
     {
         "card_name": "Plains 1",
-        "number": 377,
+        "number": 378,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -3139,7 +3139,7 @@
     },
     {
         "card_name": "Island 3",
-        "number": 382,
+        "number": 383,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -3147,7 +3147,7 @@
     },
     {
         "card_name": "Swamp 4",
-        "number": 387,
+        "number": 388,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -3155,7 +3155,7 @@
     },
     {
         "card_name": "Mountain 2",
-        "number": 389,
+        "number": 390,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -3163,7 +3163,7 @@
     },
     {
         "card_name": "Forest 1",
-        "number": 392,
+        "number": 393,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -3171,7 +3171,7 @@
     },
     {
         "card_name": "Swamp 2",
-        "number": 385,
+        "number": 386,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -3179,7 +3179,7 @@
     },
     {
         "card_name": "Mountain 4",
-        "number": 391,
+        "number": 392,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -3187,7 +3187,7 @@
     },
     {
         "card_name": "Plains 4",
-        "number": 376,
+        "number": 377,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -3195,7 +3195,7 @@
     },
     {
         "card_name": "Island 4",
-        "number": 383,
+        "number": 384,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -3203,7 +3203,7 @@
     },
     {
         "card_name": "Swamp 1",
-        "number": 384,
+        "number": 385,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -3211,7 +3211,7 @@
     },
     {
         "card_name": "Mountain 1",
-        "number": 388,
+        "number": 389,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -3219,7 +3219,7 @@
     },
     {
         "card_name": "Forest 3",
-        "number": 394,
+        "number": 395,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -3227,7 +3227,7 @@
     },
     {
         "card_name": "Plains 3",
-        "number": 379,
+        "number": 380,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -3235,7 +3235,7 @@
     },
     {
         "card_name": "Island 2",
-        "number": 381,
+        "number": 382,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -3243,7 +3243,7 @@
     },
     {
         "card_name": "Swamp 3",
-        "number": 386,
+        "number": 387,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -3251,7 +3251,7 @@
     },
     {
         "card_name": "Mountain 3",
-        "number": 390,
+        "number": 391,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -3259,7 +3259,7 @@
     },
     {
         "card_name": "Forest 2",
-        "number": 393,
+        "number": 394,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -3280,7 +3280,7 @@
     "a->token",
     {
         "card_name": "Copy Token WWHP;",
-        "number": 1,
+        "number": 2,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3288,7 +3288,7 @@
     },
     {
         "card_name": "Harry Potter the Gathering Commander Decks",
-        "number": 2,
+        "number": 3,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3296,7 +3296,7 @@
     },
     {
         "card_name": "WWHP Archetypes 1;",
-        "number": 3,
+        "number": 4,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3304,7 +3304,7 @@
     },
     {
         "card_name": "WWHP Archetypes 2;",
-        "number": 4,
+        "number": 5,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3312,7 +3312,7 @@
     },
     {
         "card_name": "Clue Token WWHP;",
-        "number": 45,
+        "number": 51,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3320,7 +3320,7 @@
     },
     {
         "card_name": "Food Token WWHP;",
-        "number": 46,
+        "number": 52,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3328,7 +3328,7 @@
     },
     {
         "card_name": "Golem Token WWHP;",
-        "number": 47,
+        "number": 53,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3336,7 +3336,7 @@
     },
     {
         "card_name": "Map Token WWHP;",
-        "number": 48,
+        "number": 54,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3344,7 +3344,7 @@
     },
     {
         "card_name": "Portkey Token WWHP;",
-        "number": 49,
+        "number": 55,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3352,7 +3352,7 @@
     },
     {
         "card_name": "Potion Token WWHP;",
-        "number": 50,
+        "number": 56,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3360,7 +3360,7 @@
     },
     {
         "card_name": "Treasure Token WWHP;",
-        "number": 51,
+        "number": 57,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3368,7 +3368,7 @@
     },
     {
         "card_name": "Wizard-Cracker Token WWHP;",
-        "number": 52,
+        "number": 58,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3376,7 +3376,7 @@
     },
     {
         "card_name": "Pestis Incendium, Fiendfyre",
-        "number": 165,
+        "number": 166,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3384,7 +3384,7 @@
     },
     {
         "card_name": "Chase the Hidden Traitor",
-        "number": 181,
+        "number": 182,
         "shape": "token split",
         "set": "WWHP",
         "rotated": false,
@@ -3416,7 +3416,7 @@
     },
     {
         "card_name": "Escape of the Azkaban Prisoner",
-        "number": 149,
+        "number": 150,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3424,7 +3424,7 @@
     },
     {
         "card_name": "Letters from No One",
-        "number": 161,
+        "number": 162,
         "shape": "token split",
         "set": "WWHP",
         "rotated": false,
@@ -3432,7 +3432,7 @@
     },
     {
         "card_name": "Bertie Botts Every Flavor Beans",
-        "number": 177,
+        "number": 178,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3440,7 +3440,7 @@
     },
     {
         "card_name": "Follow the Spiders",
-        "number": 188,
+        "number": 189,
         "shape": "token split",
         "set": "WWHP",
         "rotated": false,
@@ -3448,7 +3448,7 @@
     },
     {
         "card_name": "Goblet of Fire Trials",
-        "number": 191,
+        "number": 192,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3456,7 +3456,7 @@
     },
     {
         "card_name": "Vermiculus",
-        "number": 216,
+        "number": 217,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3472,7 +3472,7 @@
     },
     {
         "card_name": "Thestral",
-        "number": 126,
+        "number": 127,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3480,7 +3480,7 @@
     },
     {
         "card_name": "Skiving Snack Boxes",
-        "number": 172,
+        "number": 173,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3488,7 +3488,7 @@
     },
     {
         "card_name": "Bird Token WWHP;",
-        "number": 5,
+        "number": 6,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3496,7 +3496,7 @@
     },
     {
         "card_name": "Ministry Tribunal Token WWHP;",
-        "number": 6,
+        "number": 7,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3504,7 +3504,7 @@
     },
     {
         "card_name": "OWL Token WWHP;",
-        "number": 7,
+        "number": 8,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3512,7 +3512,7 @@
     },
     {
         "card_name": "Student Token WWHP;",
-        "number": 8,
+        "number": 9,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3520,7 +3520,7 @@
     },
     {
         "card_name": "Black Lake Merperson Token WWHP",
-        "number": 9,
+        "number": 10,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3528,7 +3528,7 @@
     },
     {
         "card_name": "Book Token WWHP;",
-        "number": 10,
+        "number": 11,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3536,7 +3536,7 @@
     },
     {
         "card_name": "Cornish Pixie Token WWHP;",
-        "number": 11,
+        "number": 12,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3544,15 +3544,23 @@
     },
     {
         "card_name": "Doxy Token WWHP;",
-        "number": 12,
+        "number": 13,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
         "position": "421"
     },
     {
+        "card_name": "Spirit",
+        "number": 14,
+        "shape": "token",
+        "set": "WWHP",
+        "rotated": false,
+        "position": "513"
+    },
+    {
         "card_name": "Swarm of Grindylows Token WWHP;",
-        "number": 13,
+        "number": 15,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3560,7 +3568,7 @@
     },
     {
         "card_name": "Death Eater Token WWHP;",
-        "number": 14,
+        "number": 16,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3568,7 +3576,7 @@
     },
     {
         "card_name": "Inferi Hoard Token WWHP;",
-        "number": 15,
+        "number": 17,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3576,7 +3584,7 @@
     },
     {
         "card_name": "Matagot Familiar Token WWHP;",
-        "number": 16,
+        "number": 18,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3584,7 +3592,7 @@
     },
     {
         "card_name": "Rat Token WWHP;",
-        "number": 17,
+        "number": 19,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3592,7 +3600,7 @@
     },
     {
         "card_name": "Skeleton Token WWHP;",
-        "number": 18,
+        "number": 20,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3600,7 +3608,7 @@
     },
     {
         "card_name": "Snake Token WWHP;",
-        "number": 19,
+        "number": 21,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3608,15 +3616,31 @@
     },
     {
         "card_name": "Thestral Token WWHP;",
-        "number": 20,
+        "number": 22,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
         "position": "429"
     },
     {
+        "card_name": "Vampire",
+        "number": 23,
+        "shape": "token",
+        "set": "WWHP",
+        "rotated": false,
+        "position": "508"
+    },
+    {
+        "card_name": "Wizard",
+        "number": 24,
+        "shape": "token",
+        "set": "WWHP",
+        "rotated": false,
+        "position": "510"
+    },
+    {
         "card_name": "Wizard-Cracker Imp Token WWHP;",
-        "number": 21,
+        "number": 25,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3624,7 +3648,7 @@
     },
     {
         "card_name": "Dragon Token WWHP;",
-        "number": 22,
+        "number": 26,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3632,15 +3656,23 @@
     },
     {
         "card_name": "Elemental Token WWHP;",
-        "number": 23,
+        "number": 27,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
         "position": "433"
     },
     {
+        "card_name": "Goblin",
+        "number": 28,
+        "shape": "token",
+        "set": "WWHP",
+        "rotated": false,
+        "position": "507"
+    },
+    {
         "card_name": "Red Cap Tower Guard Token WWHP;",
-        "number": 24,
+        "number": 29,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3648,7 +3680,7 @@
     },
     {
         "card_name": "Salamander Beast Token WWHP;",
-        "number": 25,
+        "number": 30,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3656,15 +3688,23 @@
     },
     {
         "card_name": "Bowtruckle Token WWHP;",
-        "number": 26,
+        "number": 31,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
         "position": "436"
     },
     {
+        "card_name": "Centaur",
+        "number": 32,
+        "shape": "token",
+        "set": "WWHP",
+        "rotated": false,
+        "position": "509"
+    },
+    {
         "card_name": "Chinese Chomping Cabbage Token WWHP;",
-        "number": 27,
+        "number": 33,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3672,7 +3712,7 @@
     },
     {
         "card_name": "Fang Token WWHP;",
-        "number": 28,
+        "number": 34,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3680,7 +3720,7 @@
     },
     {
         "card_name": "Insect Manticore Token WWHP;",
-        "number": 29,
+        "number": 35,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3688,7 +3728,7 @@
     },
     {
         "card_name": "Mallowsweet Token WWHP;",
-        "number": 30,
+        "number": 36,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3696,7 +3736,7 @@
     },
     {
         "card_name": "Puffskein Token WWHP;",
-        "number": 31,
+        "number": 37,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3704,51 +3744,11 @@
     },
     {
         "card_name": "Rabbit",
-        "number": 32,
+        "number": 38,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
         "position": "460"
-    },
-    {
-        "card_name": "Spider Token WWHP;",
-        "number": 33,
-        "shape": "token",
-        "set": "WWHP",
-        "rotated": false,
-        "position": "442"
-    },
-    {
-        "card_name": "Steeler Snail Token WWHP;",
-        "number": 34,
-        "shape": "token",
-        "set": "WWHP",
-        "rotated": false,
-        "position": "443"
-    },
-    {
-        "card_name": "Stoneback Dugbog Token WWHP;",
-        "number": 35,
-        "shape": "token",
-        "set": "WWHP",
-        "rotated": false,
-        "position": "444"
-    },
-    {
-        "card_name": "Vampyr Mosp Token WWHP;",
-        "number": 36,
-        "shape": "token",
-        "set": "WWHP",
-        "rotated": false,
-        "position": "445"
-    },
-    {
-        "card_name": "Worm Token WWHP;",
-        "number": 37,
-        "shape": "token",
-        "set": "WWHP",
-        "rotated": false,
-        "position": "446"
     },
     {
         "card_name": "Saint Mungos Healing Potioneer",
@@ -3757,6 +3757,46 @@
         "set": "WWHP",
         "rotated": false,
         "position": "206"
+    },
+    {
+        "card_name": "Spider Token WWHP;",
+        "number": 39,
+        "shape": "token",
+        "set": "WWHP",
+        "rotated": false,
+        "position": "442"
+    },
+    {
+        "card_name": "Steeler Snail Token WWHP;",
+        "number": 40,
+        "shape": "token",
+        "set": "WWHP",
+        "rotated": false,
+        "position": "443"
+    },
+    {
+        "card_name": "Stoneback Dugbog Token WWHP;",
+        "number": 41,
+        "shape": "token",
+        "set": "WWHP",
+        "rotated": false,
+        "position": "444"
+    },
+    {
+        "card_name": "Vampyr Mosp Token WWHP;",
+        "number": 42,
+        "shape": "token",
+        "set": "WWHP",
+        "rotated": false,
+        "position": "445"
+    },
+    {
+        "card_name": "Worm Token WWHP;",
+        "number": 43,
+        "shape": "token",
+        "set": "WWHP",
+        "rotated": false,
+        "position": "446"
     },
     {
         "card_name": "Black Lake Merperson",
@@ -3775,6 +3815,14 @@
         "position": "83"
     },
     {
+        "card_name": "Hidden Boggart",
+        "number": 68,
+        "shape": "token",
+        "set": "WWHP",
+        "rotated": false,
+        "position": "105"
+    },
+    {
         "card_name": "Knockturn Alley Potioneer",
         "number": 73,
         "shape": "token",
@@ -3784,7 +3832,7 @@
     },
     {
         "card_name": "Swarm of Grindylows",
-        "number": 88,
+        "number": 89,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3792,7 +3840,7 @@
     },
     {
         "card_name": "Chizpurfle Parasite",
-        "number": 91,
+        "number": 92,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3800,7 +3848,7 @@
     },
     {
         "card_name": "Currupted Potioneer",
-        "number": 94,
+        "number": 95,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3808,7 +3856,7 @@
     },
     {
         "card_name": "Death Eater",
-        "number": 95,
+        "number": 96,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3816,7 +3864,7 @@
     },
     {
         "card_name": "Inferi Hoard",
-        "number": 106,
+        "number": 107,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3824,7 +3872,7 @@
     },
     {
         "card_name": "Matagot Familiar",
-        "number": 112,
+        "number": 113,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3832,7 +3880,7 @@
     },
     {
         "card_name": "Novice Herbologist",
-        "number": 114,
+        "number": 115,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3840,7 +3888,7 @@
     },
     {
         "card_name": "Underground Potioneer",
-        "number": 127,
+        "number": 128,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3848,7 +3896,7 @@
     },
     {
         "card_name": "Potioneer Duelist",
-        "number": 167,
+        "number": 168,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3856,7 +3904,7 @@
     },
     {
         "card_name": "Bowtruckle",
-        "number": 178,
+        "number": 179,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3864,7 +3912,7 @@
     },
     {
         "card_name": "Chocolate Frog",
-        "number": 183,
+        "number": 184,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3872,7 +3920,7 @@
     },
     {
         "card_name": "Lapifors",
-        "number": 196,
+        "number": 197,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3880,7 +3928,7 @@
     },
     {
         "card_name": "Puffskein",
-        "number": 205,
+        "number": 206,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3888,7 +3936,7 @@
     },
     {
         "card_name": "Pumpkin Pasty",
-        "number": 206,
+        "number": 207,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3896,7 +3944,7 @@
     },
     {
         "card_name": "Steeler Snail",
-        "number": 209,
+        "number": 210,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3904,7 +3952,7 @@
     },
     {
         "card_name": "Stoneback Dugbog",
-        "number": 210,
+        "number": 211,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3912,7 +3960,7 @@
     },
     {
         "card_name": "Traveling Potioneer",
-        "number": 214,
+        "number": 215,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3920,7 +3968,7 @@
     },
     {
         "card_name": "Vampyr Mosp",
-        "number": 215,
+        "number": 216,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3928,7 +3976,7 @@
     },
     {
         "card_name": "Detention with the Gamekeeper",
-        "number": 237,
+        "number": 238,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3936,7 +3984,7 @@
     },
     {
         "card_name": "Journey through the Vaults",
-        "number": 260,
+        "number": 261,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3944,7 +3992,7 @@
     },
     {
         "card_name": "Receipt of Hogwarts Letter",
-        "number": 292,
+        "number": 293,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3952,7 +4000,7 @@
     },
     {
         "card_name": "Rescue of the Night Bus",
-        "number": 294,
+        "number": 295,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3960,7 +4008,7 @@
     },
     {
         "card_name": "Siren Song of the Black Lake",
-        "number": 300,
+        "number": 301,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3968,7 +4016,7 @@
     },
     {
         "card_name": "Pierototum Locomotor",
-        "number": 284,
+        "number": 285,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3976,7 +4024,7 @@
     },
     {
         "card_name": "Animated Torch Token WWHP;",
-        "number": 38,
+        "number": 44,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3984,7 +4032,7 @@
     },
     {
         "card_name": "Blast Ended Screwt Token WWHP;",
-        "number": 39,
+        "number": 45,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3992,7 +4040,7 @@
     },
     {
         "card_name": "Bubotuber Token WWHP;",
-        "number": 40,
+        "number": 46,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -4000,7 +4048,7 @@
     },
     {
         "card_name": "Dementor of Azkaban",
-        "number": 41,
+        "number": 47,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -4008,7 +4056,7 @@
     },
     {
         "card_name": "Giant",
-        "number": 42,
+        "number": 48,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -4016,7 +4064,7 @@
     },
     {
         "card_name": "Proffesor Binns Token WWHP;",
-        "number": 43,
+        "number": 49,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -4024,7 +4072,7 @@
     },
     {
         "card_name": "Snatcher Token WWHP;",
-        "number": 44,
+        "number": 50,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -4032,7 +4080,7 @@
     },
     {
         "card_name": "Bubotuber",
-        "number": 227,
+        "number": 228,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -4040,7 +4088,7 @@
     },
     {
         "card_name": "Enchanted Shield Armor",
-        "number": 242,
+        "number": 243,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -4048,7 +4096,7 @@
     },
     {
         "card_name": "Portus",
-        "number": 287,
+        "number": 288,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -4056,7 +4104,7 @@
     },
     {
         "card_name": "Snatcher Ambush",
-        "number": 302,
+        "number": 303,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -4064,7 +4112,7 @@
     },
     {
         "card_name": "Madam Pince, School Librarian",
-        "number": 268,
+        "number": 269,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -4072,7 +4120,7 @@
     },
     {
         "card_name": "Pomona Sprout, Head of Hufflepuff",
-        "number": 286,
+        "number": 287,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -4080,7 +4128,7 @@
     },
     {
         "card_name": "Blaize Zabini, Entitled Beneficiary",
-        "number": 225,
+        "number": 226,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -4088,7 +4136,7 @@
     },
     {
         "card_name": "Horace Slughorn, Old Potions Master",
-        "number": 256,
+        "number": 257,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -4096,7 +4144,7 @@
     },
     {
         "card_name": "Lucius Malfoy, Self-Served Loyalist",
-        "number": 265,
+        "number": 266,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -4104,7 +4152,7 @@
     },
     {
         "card_name": "Pansi Parkinson, Combatent Instigator",
-        "number": 282,
+        "number": 283,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -4112,7 +4160,7 @@
     },
     {
         "card_name": "The Fat Friar, Ghost of Hufflepuff",
-        "number": 243,
+        "number": 244,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -4120,7 +4168,7 @@
     },
     {
         "card_name": "Narcissa Malfoy, Devoted Mother",
-        "number": 275,
+        "number": 276,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -4128,7 +4176,7 @@
     },
     {
         "card_name": "Durmstrang Prefect",
-        "number": 241,
+        "number": 242,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -4136,14 +4184,11 @@
     },
     {
         "card_name": "Hufflepuff Prefect",
-        "number": 257,
+        "number": 258,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
         "position": "66"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"

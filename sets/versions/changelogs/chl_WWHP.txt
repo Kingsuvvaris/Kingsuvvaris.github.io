@@ -1,4 +1,466 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+Goblin added.
+Vampire added.
+Centaur added.
+Wizard added.
+Spirit Ambush added.
+Spirit added.
+
+
+Crucio
+rules_text: The controller of target creature an opponent controls discards a card. If they can't, Crucio deals 3 damage to them.
+Bewitchment storm [i](When you cast this spell, copy it for each bewitchment spell cast before it this turn. You may choose new targets for the copies. Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i] => The controller of target creature an opponent controls discards a card. If they can't, Crucio deals 3 damage to them.
+Bewitchment storm
+
+Severus Snape, Head of Slytherin House
+rules_text: Soulbond
+Whenever Severus Snape becomes paired, attacks while paired or a creature paired with him attacks, brew. [i](You may reveal a Potion card you own from outside the game and put it into your hand, or exile the top card of your library. You may play it this turn.)[/i]
+Whenever you exile the top card of your library, you may instead search your library for a Potion card, reveal it, put it into your hand, then shuffle. => Soulbond
+Whenever Severus Snape becomes paired, attacks while paired or a creature paired with him attacks, brew.
+Whenever you exile the top card of your library, you may instead search your library for a Potion card, reveal it, put it into your hand, then shuffle.
+
+Sword of Godrick Gryffindor
+rules_text: Equipped creature gets +2/+2.
+As long as a creature with deathtouch is blocking, equipped creature has deathtouch. The same is true for flying, haste, first strike, double strike, indestructible, trample, lifelink, hexproof.
+Equip {R}{G}{W}
+Equip courageous creature {2} => Equipped creature gets +2/+2.
+As long as a creature with deathtouch is blocking, equipped creature has deathtouch. The same is true for flying, first strike, double strike, indestructible, trample, lifelink, hexproof, ward, and menace.
+Equip {R}{G}{W}
+Equip courageous creature {2}
+
+Hermione Granger, Brightest Witch of Her Age
+rules_text: Gallant 1 [i](Whenever a creature an opponent controls with greater power enters or attacks and this creature isn't courageous, put a +1/+1 counter on this creature and it becomes courageous.)[/i]
+Whenever a courageous creature you control deals damage to a player, if Hermione Granger is courageous, choose one—
+• Put a +1/+1 counter on each courageous creature you control.
+• Learn. Then if a +1/+1 counter was put on a creature you control this turn, you may learn again. => Gallant 1
+Whenever one or more courageous creatures you control deal damage to a player, if Hermione Granger is courageous, choose one—
+• Put a +1/+1 counter on each courageous creature you control.
+• Learn. Then if a +1/+1 counter was put on a creature you control this turn, you may learn again.
+
+Nymphadora Tonks, Metamorphmagus Auror
+rules_text: Alteration {3}{W} [i](You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield for {3}{W}.)[/i]
+Dedication to Wizard {W}{W} [i](Whenever this creature attacks or blocks, you may pay {W}{W}. If you do it gets +1/+1 for each Wizard you control until end of turn.)[/i]
+Whenever Nymphadora Tonks attacks, until end of turn Wizards in your hand have Alteration {X} where X is its mana value minus {2} and whenever you cast a Wizard, if it was cast from the battlefield, put a first-strike counter on it then you may draw a card. => Alteration {3}{W} [i](You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield any time for {3}{W}.)[/i]
+Dedication to Wizard {W}{W} [i](Whenever this creature attacks or blocks, you may pay {W}{W}. If you do it gets +1/+1 for each Wizard you control until end of turn.)[/i]
+Whenever Nymphadora Tonks attacks, until end of turn Wizards in your hand have Alteration {X} where X is its mana value minus {2} and whenever you cast a Wizard, if it was cast from the battlefield, put a first-strike counter on it then you may draw a card.
+
+Amazonian Fire Salamander Pit
+rules_text: Whenever an opponent casts a creature spell, they may pay {2U}. If they don't, create a 2/2 red Salamander Beast token with “{RG}, {T}: Regenerate this token.” and “{1}{R}: This token gets +1/+0 until end of turn.” [i](The next time a regenerating creature would be destroyed this turn, instead tap it, remove it from combat, and heal all damage on it.)[/i] => Whenever an opponent casts a creature spell, they may pay {2U}. If they don't, create a 2/2 red Salamander Beast token with “{RG}, {T}: Regenerate this token.” and “{1}{R}: This token gets +1/+0 until end of turn.”
+
+Lonesome Phoenix
+rules_text: Flash
+Flying, haste, first-strike
+{W}{W}: Target creature gains flying until end of turn.
+{W}: Regenerate another target creature
+{R}{W}: Regenerate Lonesome Phoenix. Put a shield counter on another target creature you control. => Flash
+Flying, haste, first-strike
+{W}: Regenerate another target creature and put a shield counter on it.
+{2R}: Regenerate Lonesome Phoenix.
+
+Newt Scamander, First Magizolologist
+rules_text: Dedication to Beast {G}{G} [i](Whenever this creature attacks or blocks, you may pay {G}{G}. If you do it gets +1/+1 for each Beast you control until end of turn.)[/i]
+Whenever an opponent attacks you, you may put a Beast you control from your hand onto the battlefield. Return it to your hand during the next end step. Gain control of all Beasts until end of turn.
+Other Wizards you control have Dedication to beast {0}. => Dedication to Beast {G}{G}
+Whenever an opponent attacks you, you may put a Beast you control from your hand onto the battlefield. Return it to your hand during the next end step. Gain control of all Beasts until end of turn.
+Other Wizards you control have Dedication to beast {0}.
+
+Pomona Sprout, Head of Hufflepuff
+rules_text: Whenever an opponent attacks you, you may pay {3}. If you do, create a token that's a copy of target plant you control and plants you control gain deathtouch, vigilance, and lifelink until end of turn. Then learn. [i](you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)[/i]
+Wizards you control have Dedication to Plant {G} [i](Whenever this creature attacks or blocks, you may pay {G}. If you do it gets +1/+1 for each Plant you control until end of turn.)[/i] => Whenever an opponent attacks you, you may pay {3}. If you do, create a token that's a copy of target plant you control and plants you control gain deathtouch, vigilance, and lifelink until end of turn. Then learn.
+Wizards you control have Dedication to Plant {G} [i](Whenever this creature attacks or blocks, you may pay {G}. If you do it gets +1/+1 for each Plant you control until end of turn.)[/i]
+
+Serpensortia
+rules_text: Alteration {G} [i](You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield for {G}.)[/i]
+Create a 1/1 black Snake creature token with deathtouch. If Serpensortia was cast from the battlefield, create three of them instead. => Alteration {G} [i](You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield any time for {G}.)[/i]
+Create a 1/1 black Snake creature token with deathtouch. If Serpensortia was cast from the battlefield, create three of them instead.
+
+Erkling
+rules_text: Alteration {1}{B} [i](You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield for {1}{B}.)[/i]
+{1}{B}, Sacrifice Erkling: Target creature gets -2/-2 until end of turn.
+When Erkling dies, exile it. Until end of turn, you may cast it from exile face down as a 2/2 creature for {3}. => Alteration {1}{B} [i](You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield any time for {1}{B}.)[/i]
+{1}{B}, Sacrifice Erkling: Target creature gets -2/-2 until end of turn.
+When Erkling dies, exile it. Until end of turn, you may cast it from exile face down as a 2/2 creature for {3}.
+
+Vermiculus
+rules_text: Destroy up to one target creature with flying or reach. Its controller creates a 0/1 green Worm creature token with “{T}: Add one mana of any color.”
+Bewitchment storm [i](When you cast this spell, copy it for each bewitchment spell cast before it this turn. You may choose new targets for the copies. Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i] => Destroy up to one target creature with flying or reach. Its controller creates a 0/1 green Worm creature token with “{T}: Add one mana of any color.”
+Bewitchment storm
+
+Vanishing Cabinet
+rules_text: {3}: Equipped creature phases out. [i](Treat it and anything attached to it as though they don't exist until its controller's next turn.)[/i]
+The first time you commit a crime each turn, if this artifact isn't attached to a creature, you may attach this Equipment to target creature an opponent control.
+{3}: Attach this Equipment to target creature you control. => {3}: Equipped creature phases out.
+The first time you commit a crime each turn, if this artifact isn't attached to a creature, you may attach this Equipment to target creature an opponent control.
+{3}: Attach this Equipment to target creature you control.
+
+Flame Infused Armour
+rules_text: Alteration {W}{W} [i](You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield for {W}{W}.)[/i]
+Double strike, trample
+Discard a red card: Regenerate Flame Infused Armour. 
+If this creature was cast from the battlefield, you may draw two cards. If you do, discard a card. => Alteration {W}{W} [i](You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield any time for {W}{W}.)[/i]
+Double strike, trample
+Discard a red card: Regenerate Flame Infused Armour unless an opponent pays {2U}. 
+If this creature was cast from the battlefield, you may draw two cards. If you do, discard a card.
+pt: 3/3 => 3/6
+
+Rennervate
+rules_text: Target creature you control gains indestructible until end of turn remove all stun counters from that creature, then untap it.
+Bewitchment storm [i](When you cast this spell, copy it for each bewitchment spell cast before it this turn. You may choose new targets for the copies. Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i] => Target creature you control gains indestructible until end of turn remove all stun counters from that creature, then untap it.
+Bewitchment storm
+
+Ronald Weasley, House King
+rules_text: Haste
+Gallant 1 [i](Whenever a creature an opponent controls with greater power enters or attacks and this creature isn't courageous, put a +1/+1 counter on this creature and it becomes courageous.)[/i]
+Whenever one or more +1/+1 counters are put on Ronald Weasley, if he is already courageous, he deals that much damage to any target. => Haste
+Gallant 2 [i](Whenever a creature an opponent controls with greater power enters or attacks and this creature isn't courageous, put two +1/+1 counters on this creature and it becomes courageous.)[/i]
+Whenever one or more +1/+1 counters are put on Ronald Weasley, if he is already courageous, he deals that much damage to any target.
+pt: 2/3 => 3/3
+
+Hidden Boggart
+rules_text: Alteration {3}{W}{W} [i](You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield for {3}{W}{W}.)[/i]
+You may have this creature enter as a copy of a creature an opponent controls. When this creature enters, if it was cast from the battlefield, each other creature with the same name as it can't attack or block and its activated abilities can't be activated. => Alteration {3}{W}{W} [i](You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield any time for {3}{W}{W}.)[/i]
+You may have this creature enter as a copy of a creature an opponent controls. When this creature enters, if it was cast from the battlefield, each other creature with the same name as it can't attack or block and its activated abilities can't be activated.
+
+Theseus Scamander, Loyal Auror
+rules_text: Dedication to Wizard {2}{W}{B} [i](Whenever this creature attacks or blocks, you may pay {2}{W}{B}. If you do it gets +1/+1 for each Wizard you control until end of turn.)[/i]
+Whenever Theseus Scamander attacks, attacking Wizards you control gain lifelink until end of turn. Draw a card for each wizard that deals combat damage to a player this turn. => Dedication to Wizard {2}{W}{B}
+Whenever Theseus Scamander attacks, attacking Wizards you control gain lifelink until end of turn. Draw a card for each wizard that deals combat damage to a player this turn.
+
+Pierototum Locomotor
+rules_text: Alteration {1}{G}{W} [i](You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield for {1}{G}{W}.)[/i]
+Create a 3/3 Golem artifact creature token for each bewitchment you have cast this turn plus one. If you cast this spell from the battlefield, create an additional two of those tokens. [i](Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i] => Alteration {1}{G}{W} [i](You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield any time for {1}{G}{W}.)[/i]
+Create a 3/3 Golem artifact creature token for each bewitchment you have cast this turn plus one. If you cast this spell from the battlefield, create an additional two of those tokens. [i](Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i]
+
+The Dursleys, Antimagic Enthusiasts
+rules_text: Whenever a Wizard enters, put a -1/-1 counter on it.
+Whenever The Dursleys attack, put a -1/-1 counter on target creature defending player controls, then create a Treasure token for each -1/-1 counter among creatures your opponents control. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i] => Whenever a Wizard enters, put a -1/-1 counter on it.
+Whenever The Dursleys attack, put a -1/-1 counter on target creature defending player controls, then create a Treasure token for each -1/-1 counter among creatures your opponents control.
+
+Avifors
+rules_text: Alteration {3}{W} [i](You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield for {3}{W}.)[/i]
+Create two 1/1 white Bird creature tokens with flying. If this spell was cast from the battlefield, create four of those tokens instead. => Alteration {X}{X}{W} [i](You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield any time for {X}{X}{W}.)[/i]
+Create two 1/1 white Bird creature tokens with flying. If this spell was cast from the battlefield, create X tokens instead.
+
+Animated Torch
+rules_text: Alteration {X}{X}{W} [i](You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield for {X}{X}{W}.)[/i]
+Flying, Defender
+{R}, {T}: This creature deals damage to target creature equal to the number of creatures that share a name with it. Activate only if you were dealt damage this turn. 
+If this creature was cast from the battlefield, create X tokens that are copies of it. => Alteration {X}{X}{W} [i](You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield any time for {X}{X}{W}.)[/i]
+Flying, Defender
+{R}, {T}: This creature deals damage to target creature equal to the number of creatures that share a name with it. Activate only if you were dealt damage this turn. 
+If this creature was cast from the battlefield, create X tokens that are copies of it.
+
+Gringotts Banking Goblin
+rules_text: When this creature enters, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+Whenever a creature an opponent controls deals combat damage to a player, create a Treasure token. => When this creature enters, create a Treasure token.
+Whenever a creature an opponent controls deals combat damage to a player, create a Treasure token.
+
+Magicus Extremos
+rules_text: This spell costs {1} less to cast for each bewitchment you've cast this turn and each Wizard you control. [i](Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i]
+Whenever you cast an Bewitchment spell, put a +1/+1 counter on each Wizard you control. [i](Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i] => This spell costs {1} less to cast for each bewitchment you've cast this turn and each Wizard you control.
+Whenever you cast an Bewitchment spell, put a +1/+1 counter on each Wizard you control. [i](Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i]
+
+Drought of Living Death
+rules_text: {3}, {T}: Target player mills a card unless they pay 1 life. Repeat this effect for each brew counter on this Potion then put a brew counter on this Potion. [i](To Brew, you may reveal a Potion card you own from outside the game and put it into your hand, or exile the top card of your library. You may play it this turn.)[/i]
+Recipe — {2B}{2B}{2B}{2B}, Sacrifice this Potion: Destroy all creatures with mana value or less then or equal to the number of Potions you control.” => {3}, {T}: Target player mills a card unless they pay 1 life. Repeat this effect for each brew counter on this Potion then put a brew counter on this Potion.
+Recipe — {2B}{2B}{2B}{2B}, Sacrifice this Potion: Destroy all creatures with mana value or less then or equal to the number of Potions you control.”
+
+Mandrake Restorative Draught
+rules_text: Whenever a Potion enters, you may, put target card from a graveyard or in exile on top of its owner's library.
+Recipe— {2G}{2G}{2G}, {T}, Sacrifice this Potion: Regenerate each creature target player controls and remove all stun counters from permanents regenerated this way. [i](The next time this artifact would be destroyed this turn, it isn't. Instead tap it.)[/i] => Whenever a Potion enters, you may, put target card from a graveyard or in exile on top of its owner's library.
+Recipe— {2G}{2G}{2G}, {T}, Sacrifice this Potion: Regenerate each creature target player controls and remove all stun counters from permanents regenerated this way.
+
+Zou Wu Beast
+rules_text: Flash
+Trample, lifelink
+Whenever this creature becomes blocked while saddled, you may phase out this creature and each creature that saddled it this turn.
+Saddle 2 [i](Tap any number of other creatures you control with total power 2 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)[/i] => Flash
+Trample, lifelink
+Whenever this creature becomes blocked while saddled, you may phase out this creature and each creature that saddled it this turn.
+Saddle 2
+
+Lethifold
+rules_text: Flying
+Alteration {G}{G} [i](You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield for {G}{G}.)[/i]
+If this creature was cast from the battlefield or is destroyed while face down, target opponent sacrifices a creature they control. => Flying
+Alteration {G}{G} [i](You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield any time for {G}{G}.)[/i]
+If this creature was cast from the battlefield or is destroyed while face down, target opponent sacrifices a creature they control.
+
+Snufflifores
+rules_text: Alteration {1}{G}{G} [i](You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield for {1}{G}{G}.)[/i]
+Target player sacrifices an enchantment. Then that player creates a 1/1 black Rat creature token with “{1}, {T}, Sacrifice this token: Create a Treasure token.” If this spell was cast from the battlefield, the targeted player may sacrifice an artifact instead. => Alteration {1}{G}{G} [i](You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield any time for {1}{G}{G}.)[/i]
+Target player sacrifices an enchantment. Then that player creates a 1/1 black Rat creature token with “{1}, {T}, Sacrifice this token: Create a Treasure token.” If this spell was cast from the battlefield, the targeted player may sacrifice an artifact instead.
+
+Draconifors
+rules_text: Alteration {2}{W} [i](You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield for {2}{W}.)[/i]
+Create a 2/2 {R} Dragon creature token with Flying and “{R}: This creature gets +1/+0 until end of turn.” If this spell was cast from the battlefield create two of those token instead and tokens created this way gain haste and vigilance until end of turn. => Alteration {2}{W} [i](You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield any time for {2}{W}.)[/i]
+Create a 2/2 {R} Dragon creature token with Flying and “{R}: This creature gets +1/+0 until end of turn.” If this spell was cast from the battlefield create two of those token instead and tokens created this way gain haste and vigilance until end of turn.
+
+Lapifors
+rules_text: Alteration {1}{G} [i](You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield for {1}{G}.)[/i]
+Search your library for a land card, reveal it, put it onto the battlefield tapped, then shuffle. If this spell was cast from the battlefield, untap that land and create a 1/1 green Rabbit creature token for each Forest you control. => Alteration {1}{G} [i](You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield any time for {1}{G}.)[/i]
+Search your library for a land card, reveal it, put it onto the battlefield tapped, then shuffle. If this spell was cast from the battlefield, untap that land and create a 1/1 green Rabbit creature token for each Forest you control.
+
+Molly and Arthur Weasley, Protective Parents
+rules_text: Gallant 1 [i](Whenever a creature an opponent controls with greater power enters or attacks and this creature isn't courageous, put a +1/+1 counter on this creature and it becomes courageous.)[/i]
+When Molly and Arthur Weasley become courageous, Molly and Arthur Weasley deals 8 damage to target creature. This damage can't be prevented and that creature can't be regenerated. => Gallant 4
+Double strike
+When Molly and Arthur Weasley become courageous, Molly and Arthur Weasley deals 8 damage to target creature. This damage can't be prevented and that creature can't be regenerated.
+
+Dolores Umbridge, Lawfully Maddened Official
+rules_text: Dolores Umbridge enters tapped.
+Soulbond [i](You may pair this creature with another unpaired creature when either enters. They remain paired for as long as you control both of them.)[/i]
+{2}{U}{U}{B}{B}, {T}, Put two stun counters on Dolores Umbridge: For each creature, its controller sacrifices a permanent of their choice unless they pay {1} or 2 life. Activate only if Dolores Umbridge is paired with a creature. => Dolores Umbridge enters tapped.
+Soulbond
+{2}{U}{U}{B}{B}, {T}, Put two stun counters on Dolores Umbridge: For each creature, its controller sacrifices a permanent of their choice unless they pay {1} or 2 life. Activate only if Dolores Umbridge is paired with a creature.
+
+Non-Verbal Cast
+rules_text: Exile the top six cards from your. You may put any Incantations exiled this way onto the battlefield face down as a 2/2 creature. Incantations put onto the battlefield this way have Alteration {X} where X is its mana value and can be cast as though they had flash. [i](You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield for {X}.)[/i]
+Goad each creature target opponent controls. [i](Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)[/i] => Exile the top six cards from your. You may put any Incantations exiled this way onto the battlefield face down as a 2/2 creature. Incantations put onto the battlefield this way have Alteration {X} where X is its mana value and can be cast as though they had flash. [i](You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield any time for {X}.)[/i]
+Goad each creature target opponent controls. [i](Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)[/i]
+
+Merlin's Trial
+rules_text: Create a Mallowsweet token. Its a 0/1 {G} Plant creature token with defender, “{1}, {T}, Sacrifice a land: Search your library for up to two basic lands and put them onto the battlefield tapped, then shuffle.” and “{2}, {T}: Add an amount of mana of any one color equal to the number of land cards in your graveyard.”
+Bewitchment storm => Create a Mallowsweet token. [i](Its a 0/1 green Plant creature token with defender, “{1}, {T}, Sacrifice a land: Search your library for up to two basic lands and put them onto the battlefield tapped, then shuffle.” and “{2}, {T}: Add an amount of mana of any one color equal to the number of land cards in your graveyard.”)[/i]
+Bewitchment storm
+
+Madam Pince, School Librarian
+rules_text: Whenever a creature you control enters, if it has Scholarly, you may learn. [i](you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)[/i]
+{2U}{2U}: Choose one—
+• Create a 1/1 blue Book enchantment creature tokens with flying and “Whenever this token deals combat damage to a player sacrifice it. You draw a card.”
+• Search your library for a Book card, reveal it, put it to your hand or learn. If your library was searched this way, shuffle it. => Whenever a creature you control enters, if it has Scholarly, you may learn.
+{2U}{2U}: Choose one—
+• Create a 1/1 blue Book enchantment creature tokens with flying and “Whenever this token deals combat damage to a player sacrifice it. You draw a card.”
+• Search your library for a Book card, reveal it, put it to your hand or learn. If your library was searched this way, shuffle it.
+
+Watchful Observer
+rules_text: Vigilance
+Alteration {RG}{W} [i](You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield for {RG}{W}.)[/i]
+The first face-down creature spell you cast each turn costs {3} less to cast.
+Whenever you cast a spell from the battlefield, transform Watchful Observer. => Vigilance
+Alteration {RG}{W} [i](You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield any time for {RG}{W}.)[/i]
+The first face-down creature spell you cast each turn costs {3} less to cast.
+Whenever you cast a spell from the battlefield, transform Watchful Observer.
+
+Harry Potter, The Boy Who Lived
+rules_text: Gallant 3 [i](Whenever a creature an opponent controls with greater power enters or attacks and this creature isn't courageous, put three +1/+1 counters on this creature and it becomes courageous.)[/i]
+Whenever Harry Potter attacks or blocks, he gets +1/+1 for each creature you control that is courageous.
+When Harry Potter dies or is exiled, return him to the battlefield transformed. => Gallant 4 [i](Whenever a creature an opponent controls with greater power enters or attacks and this creature isn't courageous, put four +1/+1 counters on this creature and it becomes courageous.)[/i]
+Whenever Harry Potter attacks or blocks, he gets +1/+1 for each creature you control that is courageous.
+When Harry Potter dies or is exiled, return him to the battlefield transformed.
+
+Secrets of the Dark Lord
+cost: {1}{U} => {X}{U}
+rules_text: Look at target players hand and the top three cards of their library. You may put cards from that player's library back in any order. Investigate three times. [i](To investigate, create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+If you control a legendary creature, exile this spell, then cast it transformed. => Look at target players hand and the top X cards of their library. You may put cards from that player's library back in any order. Investigate X times.
+If you control a legendary creature, exile this spell, then cast it transformed.
+
+Ordinary Wizarding Level Examinations
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Draw two cards. You gain 2 life.
+II — Spells you cast this turn cost {1} less to cast for each studious creature you control.
+III — Each creature that isn't studious phases out. [i](Treat it and anything attached to it as though they don't exist until its controller's next turn.)[/i] => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Draw two cards. You gain 2 life.
+II — Spells you cast this turn cost {1} less to cast for each studious creature you control.
+III — Each creature that isn't studious phases out.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Draw two cards. You gain 2 life.
+II — Spells you cast this turn cost {1} less to cast for each studious creature you control.
+III — Each creature that isn't studious phases out. [i](Treat it and anything attached to it as though they don't exist until its controller's next turn.)[/i] => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Draw two cards. You gain 2 life.
+II — Spells you cast this turn cost {1} less to cast for each studious creature you control.
+III — Each creature that isn't studious phases out.
+
+Nastily Exhausting Wizarding Tests
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — This saga gains “Creatures you control have Scholarly”
+II — This Saga gains “Creatures can't attack you or permanents you protect unless their controller pays {X}, where X is the number of cards in your hand for each attacking creature they control.” [i](Players protect permanents that can be attacked.)[/i]
+III — You gain a life and draw a card for each studious creature you control. You have no maximum hand size the rest of the game. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — This saga gains “Creatures you control have Scholarly”
+II — This Saga gains “Creatures can't attack you or permanents you protect unless their controller pays {X}, where X is the number of cards in your hand for each attacking creature they control.” 
+III — You gain a life and draw a card for each studious creature you control. You have no maximum hand size the rest of the game.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — This saga gains “Creatures you control have Scholarly”
+II — This Saga gains “Creatures can't attack you or permanents you protect unless their controller pays {X}, where X is the number of cards in your hand for each attacking creature they control.” [i](Players protect permanents that can be attacked.)[/i]
+III — You gain a life and draw a card for each studious creature you control. You have no maximum hand size the rest of the game. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — This saga gains “Creatures you control have Scholarly”
+II — This Saga gains “Creatures can't attack you or permanents you protect unless their controller pays {X}, where X is the number of cards in your hand for each attacking creature they control.” 
+III — You gain a life and draw a card for each studious creature you control. You have no maximum hand size the rest of the game.
+
+Tom Riddle, Prodigal Orphan
+rules_text: As Tom Riddle enters, if you control a Horcrux, you may have him enter transformed.
+Whenever a player loses 4 or more life, each opponent faces a villainous choice — You gain that much life, or you create X 1/1 {B} Snake creature token with deathtouch, where X is equal to the amount of life lost this way.
+Whenever a Horcrux you control enters, transform this card then learn. => As Tom Riddle enters, if you control a Horcrux, you may have him enter transformed.
+Whenever a player loses 4 or more life, each opponent faces a villainous choice — You gain that much life, or you create X 1/1 black Snake creature token with deathtouch, where X is equal to the amount of life lost this way.
+Whenever a Horcrux you control enters, transform this card then learn.
+
+Intro to Transfiguration
+
+WWHP Archetypes 1;
+rules_text: {WU}:[b]Divination[/b] [i]Scry and Card Draw[/i]
+{WB}:[b]History of Magic[/b] [i]Historic[/i] [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+{RW}:[b]DADA[/b] [i]Shield counters[/i] [i](If a permanent with a shield counter on it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+{GW}:[b]Transfiguration[/b] [i]Alteration X[/i] [i](You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield for {X}.)[/i]
+{UB}:[b]Dark arts:[/b] Commit a crime [i](Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)[/i]
+{UR}:[b]Charms[/b]: [i]Incantations tribal[/i]
+{GU}:[b]Potions[/b] [i]Brew[/i] [i](You may reveal a Potion card you own from outside the game and put it into your hand, or exile the top card of your library. You may play it this turn.)[/i]
+{BR}: [b]Alchemy[/b]: Turn resources into Treasure tokens
+{BG}: [b]Herbology [/b][i]Plant tribal[/i]
+{RG}: [b]Care of Magical Creatures[/b]: [i]Beast tribal[/i][b][/i] => {WU}:[b]Divination[/b] [i]Scry and Card Draw[/i]
+{WB}:[b]History of Magic[/b] [i]Historic[/i] [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+{RW}:[b]DADA[/b] [i]Shield counters[/i] [i](If a permanent with a shield counter on it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+{GW}:[b]Transfiguration[/b] [i]Alteration X[/i] [i](You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield any time for {X}.)[/i]
+{UB}:[b]Dark arts:[/b] Commit a crime [i](Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)[/i]
+{UR}:[b]Charms[/b]: [i]Incantations tribal[/i]
+{GU}:[b]Potions[/b] [i]Brew[/i] [i](You may reveal a Potion card you own from outside the game and put it into your hand, or exile the top card of your library. You may play it this turn.)[/i]
+{BR}: [b]Alchemy[/b]: Turn resources into Treasure tokens
+{BG}: [b]Herbology [/b][i]Plant tribal[/i]
+{RG}: [b]Care of Magical Creatures[/b]: [i]Beast tribal[/i][b][/i]
+
+Bird Token WWHP;
+rules_text: Flying => Flying [i](This creature can't be blocked except by creatures with flying or reach.)[/i]
+
+Ministry Tribunal Token WWHP;
+
+OWL Token WWHP;
+
+Student Token WWHP;
+
+Bubotuber Token WWHP;
+
+Book Token WWHP;
+
+Cornish Pixie Token WWHP;
+
+Doxy Token WWHP;
+
+Swarm of Grindylows Token WWHP;
+
+Death Eater Token WWHP;
+
+Matagot Familiar Token WWHP;
+
+Rat Token WWHP;
+
+Skeleton Token WWHP;
+
+Snake Token WWHP;
+rules_text: Deathtouch => Deathtouch [i](Any amount of damage this deals to a creature is enough to destroy it.)[/i]
+
+Blast Ended Screwt Token WWHP;
+
+Dragon Token WWHP;
+
+Elemental Token WWHP;
+
+Red Cap Tower Guard Token WWHP;
+
+Salamander Beast Token WWHP;
+rules_text: {RG}, {T}: Regenerate this token.
+{1}{R}: This token gets +1/+0 until end of turn. => {RG}, {T}: Regenerate this token. [i](The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)[/i]
+{1}{R}: This token gets +1/+0 until end of turn.
+
+Bowtruckle Token WWHP;
+
+Chinese Chomping Cabbage Token WWHP;
+
+Fang Token WWHP;
+
+Insect Manticore Token WWHP;
+
+Mallowsweet Token WWHP;
+
+Puffskein Token WWHP;
+
+Spider Token WWHP;
+
+Vampyr Mosp Token WWHP;
+
+Snatcher Token WWHP;
+
+Animated Torch Token WWHP;
+rules_text: Alteration {X}{X}{W}
+Flying, Defender
+{R}, {T}: This creature deals damage to target creature equal to the number of creatures that share a name with it. Activate only if you were dealt damage this turn. => Flying [i](This creature can't be blocked except by creatures with flying or reach.)[/i]
+ Defender [i](This creature can't attack.)[/i]
+{R}, {T}: This creature deals damage to target creature equal to the number of creatures that share a name with it. Activate only if you were dealt damage this turn.
+
+Clue Token WWHP;
+
+Copy Token WWHP;
+
+Black Lake Merperson Token WWHP
+
+Proffesor Binns Token WWHP;
+
+Tale of the Three Brothers
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create three 1/1 {B} Wizard creature tokens with “Whenever you cast an instant or sorcery each opponent loses 1 life. You gain life equal to the amount lost this way..
+II — Search your library for an artifact, battle, instant, or sorcery card, reveal it, put it into your hand, then shuffle.
+III — Exile this Saga. Then return it to the battlefield transformed. When it enters, attach it to target creature you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create three 1/1 black Wizard creature tokens with “Whenever you cast an instant or sorcery each opponent loses 1 life. You gain life equal to the amount lost this way.
+II — Search your library for an artifact, battle, instant, or sorcery card, reveal it, put it into your hand, then shuffle.
+III — Exile this Saga. Then return it to the battlefield transformed. When it enters, attach it to target creature you control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create three 1/1 {B} Wizard creature tokens with “Whenever you cast an instant or sorcery each opponent loses 1 life. You gain life equal to the amount lost this way..
+II — Search your library for an artifact, battle, instant, or sorcery card, reveal it, put it into your hand, then shuffle.
+III — Exile this Saga. Then return it to the battlefield transformed. When it enters, attach it to target creature you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create three 1/1 black Wizard creature tokens with “Whenever you cast an instant or sorcery each opponent loses 1 life. You gain life equal to the amount lost this way.
+II — Search your library for an artifact, battle, instant, or sorcery card, reveal it, put it into your hand, then shuffle.
+III — Exile this Saga. Then return it to the battlefield transformed. When it enters, attach it to target creature you control.
+
+Rescue of the Night Bus
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a tapped Treasure token. Then create another Treasure token for each permanent you control with a counter on it.
+II — Draw a card for each treasure token you control.
+III — Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a tapped Treasure token. Then create another Treasure token for each permanent you control with a counter on it.
+II — Draw a card for each Treasure token you control.
+III — Exile this Saga, then return it to the battlefield transformed under your control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a tapped Treasure token. Then create another Treasure token for each permanent you control with a counter on it.
+II — Draw a card for each treasure token you control.
+III — Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a tapped Treasure token. Then create another Treasure token for each permanent you control with a counter on it.
+II — Draw a card for each Treasure token you control.
+III — Exile this Saga, then return it to the battlefield transformed under your control.
+
+Journey through the Vaults
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a 1/1 {R} Goblin creature token. Then create a number of 1/1 {R} Goblin tokens equal to half the number of lands you control rounded down.
+II — Then create a tapped treasure token for each Goblin you control plus one.
+III — Search your library for an artifact card, reveal it, put that card on top, then shuffle and exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a 1/1 red Goblin creature token. Then create a number of 1/1 red Goblin tokens equal to half the number of lands you control rounded down.
+II — Then create a tapped Treasure token for each Goblin you control plus one.
+III — Search your library for an artifact card, reveal it, put that card on top, then shuffle and exile this Saga, then return it to the battlefield transformed under your control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a 1/1 {R} Goblin creature token. Then create a number of 1/1 {R} Goblin tokens equal to half the number of lands you control rounded down.
+II — Then create a tapped treasure token for each Goblin you control plus one.
+III — Search your library for an artifact card, reveal it, put that card on top, then shuffle and exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a 1/1 red Goblin creature token. Then create a number of 1/1 red Goblin tokens equal to half the number of lands you control rounded down.
+II — Then create a tapped Treasure token for each Goblin you control plus one.
+III — Search your library for an artifact card, reveal it, put that card on top, then shuffle and exile this Saga, then return it to the battlefield transformed under your control.
+
+Traverse the Secret Passage
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a number of Map tokens equal to half the number of lands you control rounded up. [i](They're artifacts with “{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.”)[/i]
+II — This saga has “Whenever a creature explores, target creature can't block this turn.” [i](To have this creature explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+III — Create a tapped Treasure token for each +1/+1 counter among creatures you control. Then exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a number of Map tokens equal to half the number of lands you control rounded up. [i](They're artifacts with “{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.”)[/i]
+II — This saga has “Whenever a creature explores, target creature can't block this turn.”
+III — Create a tapped Treasure token for each +1/+1 counter among creatures you control. Then exile this Saga, then return it to the battlefield transformed under your control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a number of Map tokens equal to half the number of lands you control rounded up. [i](They're artifacts with “{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.”)[/i]
+II — This saga has “Whenever a creature explores, target creature can't block this turn.” [i](To have this creature explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+III — Create a tapped Treasure token for each +1/+1 counter among creatures you control. Then exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a number of Map tokens equal to half the number of lands you control rounded up. [i](They're artifacts with “{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.”)[/i]
+II — This saga has “Whenever a creature explores, target creature can't block this turn.”
+III — Create a tapped Treasure token for each +1/+1 counter among creatures you control. Then exile this Saga, then return it to the battlefield transformed under your control.
+
+
+VERSION 7 CHANGELOG
 ====================
 
 
