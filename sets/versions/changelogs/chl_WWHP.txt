@@ -1,4 +1,99 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+
+
+Durmstrang Prefect
+rules_text: {U}, {T}: Draw a card, then discard a card.
+{1}{B}, {T}, Exile a card from a graveyard: Create a 2/1 {B} Skeleton creature token.
+{2}{R}, {T}: Target creature can't block this turn. This creature deals 1 damage that creature's controller. => {U}, {T}: Draw a card, then discard a card.
+{1}{B}, {T}, Exile a card from a graveyard: Create a 2/1 black Skeleton creature token.
+{2}{R}, {T}: Target creature can't block this turn. This creature deals 1 damage that creature's controller.
+
+Bird Token WWHP;
+
+Ministry Tribunal Token WWHP;
+
+OWL Token WWHP;
+
+Student Token WWHP;
+
+Bubotuber Token WWHP;
+
+Book Token WWHP;
+
+Cornish Pixie Token WWHP;
+
+Doxy Token WWHP;
+
+Swarm of Grindylows Token WWHP;
+
+Death Eater Token WWHP;
+
+Inferi Hoard Token WWHP;
+
+Matagot Familiar Token WWHP;
+
+Rat Token WWHP;
+
+Skeleton Token WWHP;
+
+Snake Token WWHP;
+
+Thestral Token WWHP;
+
+Wizard-Cracker Imp Token WWHP;
+
+Blast Ended Screwt Token WWHP;
+
+Dragon Token WWHP;
+
+Elemental Token WWHP;
+
+Red Cap Tower Guard Token WWHP;
+
+Salamander Beast Token WWHP;
+
+Bowtruckle Token WWHP;
+
+Chinese Chomping Cabbage Token WWHP;
+
+Fang Token WWHP;
+
+Insect Manticore Token WWHP;
+
+Mallowsweet Token WWHP;
+
+Puffskein Token WWHP;
+
+Spider Token WWHP;
+
+Steeler Snail Token WWHP;
+
+Stoneback Dugbog Token WWHP;
+
+Vampyr Mosp Token WWHP;
+
+Worm Token WWHP;
+
+Snatcher Token WWHP;
+
+Animated Torch Token WWHP;
+
+Clue Token WWHP;
+
+Portkey Token WWHP;
+
+Wizard-Cracker Token WWHP;
+
+Copy Token WWHP;
+
+Black Lake Merperson Token WWHP
+
+Proffesor Binns Token WWHP;
+
+
+VERSION 6 CHANGELOG
 ====================
 
 

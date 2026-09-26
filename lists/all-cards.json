@@ -1020,7 +1020,7 @@
             "number": 241,
             "color_identity": "UBR",
             "cost": "{U}{B}{R}",
-            "rules_text": "{U}, {T}: Draw a card, then discard a card.\n{1}{B}, {T}, Exile a card from a graveyard: Create a 2/1 {B} Skeleton creature token.\n{2}{R}, {T}: Target creature can't block this turn. This creature deals 1 damage that creature's controller.",
+            "rules_text": "{U}, {T}: Draw a card, then discard a card.\n{1}{B}, {T}, Exile a card from a graveyard: Create a 2/1 black Skeleton creature token.\n{2}{R}, {T}: Target creature can't block this turn. This creature deals 1 damage that creature's controller.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -9368,7 +9368,7 @@
             "alias": "",
             "position": "414",
             "rotated": false,
-            "notes": "!exportname Bird Token WWHP;\n!token;\n!related Avifors<2>;",
+            "notes": "!exportname Bird Token WWHP;\n!token;\n",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9391,7 +9391,7 @@
             "alias": "",
             "position": "415",
             "rotated": false,
-            "notes": "!exportname Ministry Tribunal Token WWHP;\n!token;\n!related Trial of the Wizengamot;",
+            "notes": "!exportname Ministry Tribunal Token WWHP;\n!token;\n",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9414,7 +9414,7 @@
             "alias": "",
             "position": "416",
             "rotated": false,
-            "notes": "!exportname OWL Token WWHP;\n!token;\n!related Letters from No one; Reciept of Hogwarts Letter;",
+            "notes": "!exportname OWL Token WWHP;\n!token;\n",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9437,7 +9437,7 @@
             "alias": "",
             "position": "417",
             "rotated": false,
-            "notes": "!exportname Student Token WWHP;\n!token;\n!related Creation of Dumoldore's Army; Receipt of Hogwarts Letter; Welcome to the Wizarding World;",
+            "notes": "!exportname Student Token WWHP;\n!token;\n",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9460,7 +9460,7 @@
             "alias": "",
             "position": "418",
             "rotated": false,
-            "notes": "!exportname Bubotuber Token WWHP;\n!token;\n!related Bubotuber;",
+            "notes": "!exportname Bubotuber Token WWHP;\n!token;\n",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9483,7 +9483,7 @@
             "alias": "",
             "position": "419",
             "rotated": false,
-            "notes": "!exportname Book Token WWHP;\n!token;\n!related Explore the Restricted Section; Madam Pince, School Librarian;",
+            "notes": "!exportname Book Token WWHP;\n!token;\n",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9506,7 +9506,7 @@
             "alias": "",
             "position": "420",
             "rotated": false,
-            "notes": "!exportname Cornish Pixie Token WWHP;\n!token;\n!related Cornish Pixie;",
+            "notes": "!exportname Cornish Pixie Token WWHP;\n!token;\n",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9529,7 +9529,7 @@
             "alias": "",
             "position": "421",
             "rotated": false,
-            "notes": "!exportname Doxy Token WWHP;\n!token;\n!related Doxy;",
+            "notes": "!exportname Doxy Token WWHP;\n!token;\n",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9552,7 +9552,7 @@
             "alias": "",
             "position": "422",
             "rotated": false,
-            "notes": "!exportname Swarm of Grindylows Token WWHP;\n!token;\n!related Swarm of Grindylows;",
+            "notes": "!exportname Swarm of Grindylows Token WWHP;\n!token;\n",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9575,7 +9575,7 @@
             "alias": "",
             "position": "423",
             "rotated": false,
-            "notes": "!exportname Death Eater Token WWHP;\n!token;\n!related Death Eater;",
+            "notes": "!exportname Death Eater Token WWHP;\n!token;\n",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9598,7 +9598,7 @@
             "alias": "",
             "position": "424",
             "rotated": false,
-            "notes": "!exportname Inferi Hoard Token WWHP;\n!token;\n!related Inferi Hoard;",
+            "notes": "!exportname Inferi Hoard Token WWHP;\n!token",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9621,7 +9621,7 @@
             "alias": "",
             "position": "425",
             "rotated": false,
-            "notes": "!exportname Matagot Familiar Token WWHP;\n!token;\n!related Matagot Familiar;",
+            "notes": "!exportname Matagot Familiar Token WWHP;\n!token;\n",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9644,7 +9644,7 @@
             "alias": "",
             "position": "426",
             "rotated": false,
-            "notes": "!exportname Rat Token WWHP;\n!token;\n!related Snufflifores;",
+            "notes": "!exportname Rat Token WWHP;\n!token;\n",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9667,7 +9667,7 @@
             "alias": "",
             "position": "427",
             "rotated": false,
-            "notes": "!exportname Skeleton Token WWHP;\n!token;\n!related Durmstrang Prefect; Portkey to Little Hangleton Graveyard;",
+            "notes": "!exportname Skeleton Token WWHP;\n!token;\n",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9690,7 +9690,7 @@
             "alias": "",
             "position": "428",
             "rotated": false,
-            "notes": "!exportname Snake Token WWHP;\n!token;\n!related Serpensortia;Serpensortia<3>;Tom Riddle, Prodigal Orphan;",
+            "notes": "!exportname Snake Token WWHP;\n!token;\n",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9713,7 +9713,7 @@
             "alias": "",
             "position": "429",
             "rotated": false,
-            "notes": "!exportname Thestral Token WWHP;\n!token;\n!related Thestral;\nreart",
+            "notes": "!exportname Thestral Token WWHP;\n!token;\nreart",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9736,7 +9736,7 @@
             "alias": "",
             "position": "430",
             "rotated": false,
-            "notes": "!exportname Wizard-Cracker Imp Token WWHP;\n!token;\n!related Wizard-Cracker Imp;",
+            "notes": "!exportname Wizard-Cracker Imp Token WWHP;\n!token;",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9759,7 +9759,7 @@
             "alias": "",
             "position": "431",
             "rotated": false,
-            "notes": "!exportname Blast Ended Screwt Token WWHP;\n!token;\n!related Blast Ended Screwt;",
+            "notes": "!exportname Blast Ended Screwt Token WWHP;\n!token;\n",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9782,7 +9782,7 @@
             "alias": "",
             "position": "432",
             "rotated": false,
-            "notes": "!exportname Dragon Token WWHP;\n!token;\n!related Draconifors;Draconifors<2>;Chinese Fireball<2>;",
+            "notes": "!exportname Dragon Token WWHP;\n!token;\n",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9805,7 +9805,7 @@
             "alias": "",
             "position": "433",
             "rotated": false,
-            "notes": "!exportname Elemental Token WWHP;\n!token;\n!related Pestis Incendium, Fiendfyre;",
+            "notes": "!exportname Elemental Token WWHP;\n!token;\n",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9828,7 +9828,7 @@
             "alias": "",
             "position": "434",
             "rotated": false,
-            "notes": "!exportname Red Cap Tower Guard Token WWHP;\n!token;\n!related Red Cap Tower Guard;",
+            "notes": "!exportname Red Cap Tower Guard Token WWHP;\n!token;\n",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9851,7 +9851,7 @@
             "alias": "",
             "position": "435",
             "rotated": false,
-            "notes": "!exportname Salamander Beast Token WWHP;\n!token;\n!related Amazonian Fire Salamander Pit;",
+            "notes": "!exportname Salamander Beast Token WWHP;\n!token;\n",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9874,7 +9874,7 @@
             "alias": "",
             "position": "436",
             "rotated": false,
-            "notes": "!exportname Bowtruckle Token WWHP;\n!token;\n!related Bowtruckle;",
+            "notes": "!exportname Bowtruckle Token WWHP;\n!token;\n",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9897,7 +9897,7 @@
             "alias": "",
             "position": "437",
             "rotated": false,
-            "notes": "!exportname Chinese Chomping Cabbage Token WWHP;\n!token;\n!related Chinese Chomping Cabbage;",
+            "notes": "!exportname Chinese Chomping Cabbage Token WWHP;\n!token;\n",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9920,7 +9920,7 @@
             "alias": "",
             "position": "438",
             "rotated": false,
-            "notes": "!exportname Fang Token WWHP;\n!token;\n!related Rubeus Hagrid, Keeper of Keys;",
+            "notes": "!exportname Fang Token WWHP;\n!token;\n",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9943,7 +9943,7 @@
             "alias": "",
             "position": "439",
             "rotated": false,
-            "notes": "!exportname Insect Manticore Token WWHP;\n!token;\n!related Insectoid Manticore Mother<3>;",
+            "notes": "!exportname Insect Manticore Token WWHP;\n!token;\n",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9966,7 +9966,7 @@
             "alias": "",
             "position": "440",
             "rotated": false,
-            "notes": "!exportname Mallowsweet Token WWHP;\n!token;\n!related Merlin's Trial;",
+            "notes": "!exportname Mallowsweet Token WWHP;\n\n",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9989,7 +9989,7 @@
             "alias": "",
             "position": "441",
             "rotated": false,
-            "notes": "!exportname Puffskein Token WWHP;\n!token;\n!related Puffskein;",
+            "notes": "!exportname Puffskein Token WWHP;\n!token;\n",
             "image_type": "png",
             "v_mana": ""
         },
@@ -10012,7 +10012,7 @@
             "alias": "",
             "position": "442",
             "rotated": false,
-            "notes": "!exportname Spider Token WWHP;\n!token;\n!related Acromantula;Acromantula<6>;Follow the Spiders;",
+            "notes": "!exportname Spider Token WWHP;\n!token;\n",
             "image_type": "png",
             "v_mana": ""
         },
@@ -10035,7 +10035,7 @@
             "alias": "",
             "position": "443",
             "rotated": false,
-            "notes": "!exportname Steeler Snail Token WWHP;\n!token;\n!related Steeler Snail;\nreart",
+            "notes": "!exportname Steeler Snail Token WWHP;\n!token;\n\nreart",
             "image_type": "png",
             "v_mana": ""
         },
@@ -10058,7 +10058,7 @@
             "alias": "",
             "position": "444",
             "rotated": false,
-            "notes": "!exportname Stoneback Dugbog Token WWHP;\n!token;\n!related Stoneback Dugbog;\nreart",
+            "notes": "!exportname Stoneback Dugbog Token WWHP;\n!token;\n\nreart",
             "image_type": "png",
             "v_mana": ""
         },
@@ -10081,7 +10081,7 @@
             "alias": "",
             "position": "445",
             "rotated": false,
-            "notes": "!exportname Vampyr Mosp Token WWHP;\n!token;\n!related Vampyr Mosp;",
+            "notes": "!exportname Vampyr Mosp Token WWHP;\n!token;\n",
             "image_type": "png",
             "v_mana": ""
         },
@@ -10104,7 +10104,7 @@
             "alias": "",
             "position": "446",
             "rotated": false,
-            "notes": "!exportname Worm Token WWHP;\n!token;\n!related Vermiculus;\nreart",
+            "notes": "!exportname Worm Token WWHP;\n!token;\nreart",
             "image_type": "png",
             "v_mana": ""
         },
@@ -10127,7 +10127,7 @@
             "alias": "",
             "position": "447",
             "rotated": false,
-            "notes": "!exportname Snatcher Token WWHP;\n!token;\n!related Fenrir Grayback;Snatcher Ambush;",
+            "notes": "!exportname Snatcher Token WWHP;\n!token;\n",
             "image_type": "png",
             "v_mana": ""
         },
@@ -10150,7 +10150,7 @@
             "alias": "",
             "position": "448",
             "rotated": false,
-            "notes": "!exportname Animated Torch Token WWHP;\n!token;\n!related Animated Torch;",
+            "notes": "!exportname Animated Torch Token WWHP;\n!token;\n",
             "image_type": "png",
             "v_mana": ""
         },
@@ -10173,7 +10173,7 @@
             "alias": "",
             "position": "449",
             "rotated": false,
-            "notes": "!exportname Clue Token WWHP;\n!token;\n!related ;",
+            "notes": "!exportname Clue Token WWHP;\n!token;\n",
             "image_type": "png",
             "v_mana": ""
         },
@@ -10265,7 +10265,7 @@
             "alias": "",
             "position": "453",
             "rotated": false,
-            "notes": "!exportname Portkey Token WWHP;\n!token;\n!related Portus;",
+            "notes": "!exportname Portkey Token WWHP;\n!token",
             "image_type": "png",
             "v_mana": ""
         },
@@ -10334,7 +10334,7 @@
             "alias": "",
             "position": "456",
             "rotated": false,
-            "notes": "!exportname Wizard-Cracker Token WWHP;\n!token;\n!related Hogsmeade Potioneer;Wizard-Cracker Imp;Wizard-Cracker Imp Token;Wizard School Supply List;",
+            "notes": "!exportname Wizard-Cracker Token WWHP;\n!token;",
             "image_type": "png",
             "v_mana": ""
         },
@@ -10357,7 +10357,7 @@
             "alias": "",
             "position": "457",
             "rotated": false,
-            "notes": "!exportname Copy Token WWHP;\n!token;\n!related Novice Herbologist;Pomona Sprout, Head of Hufflepuff;OWL Herbology;",
+            "notes": "!exportname Copy Token WWHP;\n!token;\n",
             "image_type": "png",
             "v_mana": ""
         },
@@ -10380,7 +10380,7 @@
             "alias": "",
             "position": "458",
             "rotated": false,
-            "notes": "!exportname Black Lake Merperson Token WWHP\n!token;\n!related Black Lake Merperson;",
+            "notes": "!exportname Black Lake Merperson Token WWHP\n!token;\n",
             "image_type": "png",
             "v_mana": ""
         },
@@ -10403,7 +10403,7 @@
             "alias": "",
             "position": "459",
             "rotated": false,
-            "notes": "!exportname Proffesor Binns Token WWHP;\n!token;\n!related OWL History of Magic;",
+            "notes": "!exportname Proffesor Binns Token WWHP;\n!token;\n",
             "image_type": "png",
             "v_mana": ""
         },
