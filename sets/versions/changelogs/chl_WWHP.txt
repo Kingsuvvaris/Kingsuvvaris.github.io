@@ -1,4 +1,77 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Disillusionment Charm
+cost: {3}{B}{B} => {1}{B}{B}
+rules_text: Target creature can't be blocked this turn. Whenever that creature deals combat damage to a player this turn, that player discards a card. => Target creature can't be blocked this turn. Whenever that creature deals combat damage to a player this turn, that player discards a card.
+Bewitchment storm [i](When you cast this spell, copy it for each bewitchment spell cast before it this turn. You may choose new targets for the copies. Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i]
+
+Maxima Perfect Cast
+cost: {2}{U}{U}{U} => {2U}{2U}{2U}
+
+Erumpent Horn
+cost: {5}{G}{G} => {4}{G}{G}
+pt: 6/5 => 6/6
+
+The Grim
+cost: {2}{B}{B} => {1}{B}{B}
+
+Enchanted Field Guide
+cost: {3}{W}{W}{W} => {1}{W}{W}{W}
+
+Girding Potion
+cost: {2W}{2W} => {1}{2W}
+
+Invisibility Potion
+cost: {2U}{2U} => {1}{2U}
+
+Sleeping Potion
+cost: {2U}{2U} => {1}{2U}
+
+Drink of Despair
+cost: {2B}{2B}{2B}{2B} => {2}{2B}{2B}
+
+Weakness Potion
+cost: {2B}{2B} => {1}{2B}
+
+Wiggenweld Potion
+cost: {2G}{2G} => {2G}
+
+Potion Storage Cabinet
+cost: {2B}{2B}{2G}{2G} => {2B}{2G}
+
+Aging Potion
+cost: {2W}{2W}{2B}{2B} => {2W}{2B}
+
+Hate Potion
+cost: {2R}{2R}{2B}{2B} => {2R}{2B}
+
+Flagrante
+cost: {2}{B}{B} => {B}{B}
+
+Non-Verbal Cast
+cost: {4}{W} => {3}{W}
+rules_text: Exile the top six cards from your. You may put any Incantations exiled this way onto the battlefield face down as a 2/2 creature. Incantations put onto the battlefield this way have Alteration {X} where X is its mana value and can be cast as though they had flash. [i](You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield any time for {X}.)[/i]
+Goad each creature target opponent controls. [i](Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)[/i] => Exile the top six cards from your. You may put any Incantations exiled this way onto the battlefield face down as a 2/2 creature. Incantations put onto the battlefield this way have Alteration {X} where X is its mana value . [i](You may cast this face down as a 2/2 creature for 3. Its controller may cast it from the battlefield any time for its mana value.)[/i]
+
+Aspiring Dueling Students
+cost: {2}{G}{G} => {1}{G}{G}
+pt: 2/1 => 1/1
+
+Alaster Mad-Eye Moody
+cost: {2}{U}{R}{WB} => {2}{U}{B}{R}
+rules_text: Trample
+At the beginning of your upkeep, you may sacrifice a land or Potion. When you do, return target noncreature card from your graveyard to your hand.
+{3}{U}{B}{R}: Exile Alaster Mad-Eye Moody, then return him to the battlefield transformed. => Trample
+At the beginning of your upkeep, you may sacrifice a Land, Potion or discard an Incantation. When you do, return a card from your graveyard to your hand.
+{1}{U}{B}{R}: Exile Alaster Mad-Eye Moody, then return him to the battlefield transformed.
+
+Tale of the Three Brothers
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

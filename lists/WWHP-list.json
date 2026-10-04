@@ -1519,7 +1519,7 @@
     "a->gold",
     {
         "card_name": "Ordinary Wizarding Level Examinations",
-        "number": 281,
+        "number": 282,
         "shape": "saga",
         "set": "WWHP",
         "rotated": false,
@@ -1527,7 +1527,7 @@
     },
     {
         "card_name": "Imperio",
-        "number": 260,
+        "number": 261,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1535,7 +1535,7 @@
     },
     {
         "card_name": "Avada Kedavra",
-        "number": 223,
+        "number": 224,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1543,7 +1543,7 @@
     },
     {
         "card_name": "Traverse the Secret Passage",
-        "number": 310,
+        "number": 311,
         "shape": "transform double faced",
         "set": "WWHP",
         "rotated": false,
@@ -1551,7 +1551,7 @@
     },
     {
         "card_name": "Society for the Promotion of Elfish Welfare",
-        "number": 304,
+        "number": 305,
         "shape": "saga",
         "set": "WWHP",
         "rotated": false,
@@ -1559,7 +1559,7 @@
     },
     {
         "card_name": "Sybill Trelawney, Unreliable Seer",
-        "number": 306,
+        "number": 307,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1567,7 +1567,7 @@
     },
     {
         "card_name": "Protego Diabolica",
-        "number": 289,
+        "number": 290,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1575,7 +1575,7 @@
     },
     {
         "card_name": "Reawakening of the Dark Mark",
-        "number": 292,
+        "number": 293,
         "shape": "transform double faced",
         "set": "WWHP",
         "rotated": false,
@@ -1583,7 +1583,7 @@
     },
     {
         "card_name": "Blast-Ended Skrewt",
-        "number": 227,
+        "number": 228,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1591,7 +1591,7 @@
     },
     {
         "card_name": "Madam Pomfrey",
-        "number": 270,
+        "number": 271,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1599,7 +1599,7 @@
     },
     {
         "card_name": "Langlock",
-        "number": 263,
+        "number": 264,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1607,7 +1607,7 @@
     },
     {
         "card_name": "Dolores Umbridge, Lawfully Maddened Official",
-        "number": 240,
+        "number": 241,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1647,7 +1647,7 @@
     },
     {
         "card_name": "Lessons with the Headmaster",
-        "number": 264,
+        "number": 265,
         "shape": "transform double faced",
         "set": "WWHP",
         "rotated": false,
@@ -1682,7 +1682,7 @@
     },
     {
         "card_name": "Dementor of Azkaban",
-        "number": 236,
+        "number": 237,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1702,7 +1702,7 @@
     },
     {
         "card_name": "Rita Skeeter, Gossip Reporter",
-        "number": 296,
+        "number": 297,
         "shape": "modal double faced",
         "set": "WWHP",
         "rotated": false,
@@ -1774,7 +1774,7 @@
     },
     {
         "card_name": "Welcome to the Wizarding World",
-        "number": 315,
+        "number": 316,
         "shape": "transform double faced",
         "set": "WWHP",
         "rotated": false,
@@ -1789,16 +1789,16 @@
         "position": "386"
     },
     {
-        "card_name": "Garden Gnome",
-        "number": 250,
+        "card_name": "Potion Storage Cabinet",
+        "number": 347,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
-        "position": "10"
+        "position": "235"
     },
     {
         "card_name": "Lonesome Phoenix",
-        "number": 265,
+        "number": 266,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1822,23 +1822,23 @@
     },
     {
         "card_name": "Finite Incantatem",
-        "number": 247,
+        "number": 248,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
         "position": "161"
     },
     {
-        "card_name": "Mandrake Root",
-        "number": 271,
+        "card_name": "Garden Gnome",
+        "number": 251,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
-        "position": "25"
+        "position": "10"
     },
     {
         "card_name": "Olympe Maxime, Headmistress of Beauxbatons",
-        "number": 280,
+        "number": 281,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -1869,12 +1869,12 @@
         "position": "410"
     },
     {
-        "card_name": "Sea Kelpie",
-        "number": 299,
+        "card_name": "Mandrake Root",
+        "number": 272,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
-        "position": "154"
+        "position": "25"
     },
     {
         "card_name": "Grand Pepperup Potion",
@@ -1894,20 +1894,45 @@
         "card_name": "e"
     },
     {
+        "card_name": "Sea Kelpie",
+        "number": 300,
+        "shape": "normal",
+        "set": "WWHP",
+        "rotated": false,
+        "position": "154"
+    },
+    {
+        "card_name": "Parley with the Giants",
+        "number": 285,
+        "shape": "transform double faced",
+        "set": "WWHP",
+        "rotated": false,
+        "position": "476"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
         "card_name": "Venomous Tentacula",
-        "number": 311,
+        "number": 312,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
         "position": "8"
     },
     {
-        "card_name": "Parley with the Giants",
-        "number": 284,
-        "shape": "transform double faced",
+        "card_name": "Swedish Shortsnout",
+        "number": 306,
+        "shape": "normal",
         "set": "WWHP",
         "rotated": false,
-        "position": "476"
+        "position": "288"
     },
     {
         "card_name": "e"
@@ -1927,33 +1952,8 @@
         "position": "409"
     },
     {
-        "card_name": "Swedish Shortsnout",
-        "number": 305,
-        "shape": "normal",
-        "set": "WWHP",
-        "rotated": false,
-        "position": "288"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Potion Storage Cabinet",
-        "number": 347,
-        "shape": "normal",
-        "set": "WWHP",
-        "rotated": false,
-        "position": "235"
-    },
-    {
         "card_name": "Quidditch Match",
-        "number": 290,
+        "number": 291,
         "shape": "saga",
         "set": "WWHP",
         "rotated": false,
@@ -1973,7 +1973,7 @@
     },
     {
         "card_name": "Animated Torch",
-        "number": 222,
+        "number": 223,
         "shape": "transform double faced",
         "set": "WWHP",
         "rotated": false,
@@ -2022,7 +2022,7 @@
     },
     {
         "card_name": "Igor Karkaroff, Durmstrang Headmaster",
-        "number": 259,
+        "number": 260,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2033,7 +2033,7 @@
     },
     {
         "card_name": "Watchful Observer",
-        "number": 314,
+        "number": 315,
         "shape": "transform double faced",
         "set": "WWHP",
         "rotated": false,
@@ -2047,7 +2047,7 @@
     },
     {
         "card_name": "Tom Riddle, Prodigal Orphan",
-        "number": 308,
+        "number": 309,
         "shape": "transform double faced",
         "set": "WWHP",
         "rotated": false,
@@ -2058,7 +2058,7 @@
     },
     {
         "card_name": "Cornelius Fudge, Misguided Minister",
-        "number": 233,
+        "number": 234,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2072,7 +2072,7 @@
     },
     {
         "card_name": "Bellatrix Lestrange, Enthralled Death Eater",
-        "number": 224,
+        "number": 225,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2083,7 +2083,7 @@
     },
     {
         "card_name": "Flight of the Seven Potters",
-        "number": 248,
+        "number": 249,
         "shape": "transform double faced split",
         "set": "WWHP",
         "rotated": true,
@@ -2097,7 +2097,7 @@
     },
     {
         "card_name": "Crucio",
-        "number": 235,
+        "number": 236,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2108,7 +2108,7 @@
     },
     {
         "card_name": "Hermione Granger, Brightest Witch of Her Age",
-        "number": 256,
+        "number": 257,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2122,7 +2122,7 @@
     },
     {
         "card_name": "Dolohov's Curse",
-        "number": 239,
+        "number": 240,
         "shape": "transform double faced",
         "set": "WWHP",
         "rotated": false,
@@ -2133,7 +2133,7 @@
     },
     {
         "card_name": "Molly and Arthur Weasley, Protective Parents",
-        "number": 274,
+        "number": 275,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2147,7 +2147,7 @@
     },
     {
         "card_name": "Pius Thicknesse, Dark Lord Puppet",
-        "number": 286,
+        "number": 287,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2158,7 +2158,7 @@
     },
     {
         "card_name": "Fred and George Weasley, Mischievous Twins",
-        "number": 249,
+        "number": 250,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2172,7 +2172,7 @@
     },
     {
         "card_name": "Tragedy at the World Cup",
-        "number": 309,
+        "number": 310,
         "shape": "transform double faced split",
         "set": "WWHP",
         "rotated": true,
@@ -2183,7 +2183,7 @@
     },
     {
         "card_name": "Ginny Weasley, Underestimated Power",
-        "number": 252,
+        "number": 253,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2208,7 +2208,7 @@
     },
     {
         "card_name": "Gryffindor Prefect",
-        "number": 253,
+        "number": 254,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2221,19 +2221,19 @@
         "card_name": "e"
     },
     {
-        "card_name": "The Carrow Siblings",
-        "number": 229,
-        "shape": "normal",
+        "card_name": "Alaster Mad-Eye Moody",
+        "number": 221,
+        "shape": "transform double faced",
         "set": "WWHP",
         "rotated": false,
-        "position": "333"
+        "position": "367"
     },
     {
         "card_name": "e"
     },
     {
         "card_name": "Neville Longbottom, Courageous Friend",
-        "number": 277,
+        "number": 278,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2246,19 +2246,19 @@
         "card_name": "e"
     },
     {
-        "card_name": "Corban Yaxley, Registered Interrogator",
-        "number": 232,
+        "card_name": "The Carrow Siblings",
+        "number": 230,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
-        "position": "115"
+        "position": "333"
     },
     {
         "card_name": "e"
     },
     {
         "card_name": "Padfoot, Protective Marauder",
-        "number": 282,
+        "number": 283,
         "shape": "transform double faced",
         "set": "WWHP",
         "rotated": false,
@@ -2271,19 +2271,19 @@
         "card_name": "e"
     },
     {
-        "card_name": "Fenrir Grayback",
-        "number": 245,
+        "card_name": "Corban Yaxley, Registered Interrogator",
+        "number": 233,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
-        "position": "3"
+        "position": "115"
     },
     {
         "card_name": "e"
     },
     {
         "card_name": "Remus Lupin, Master of the Dark Arts",
-        "number": 294,
+        "number": 295,
         "shape": "transform double faced",
         "set": "WWHP",
         "rotated": false,
@@ -2296,19 +2296,19 @@
         "card_name": "e"
     },
     {
-        "card_name": "Viktor Krum, Durmstrang Champion",
-        "number": 312,
+        "card_name": "Fenrir Grayback",
+        "number": 246,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
-        "position": "211"
+        "position": "3"
     },
     {
         "card_name": "e"
     },
     {
         "card_name": "Ronald Weasley, House King",
-        "number": 297,
+        "number": 298,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2321,19 +2321,19 @@
         "card_name": "e"
     },
     {
-        "card_name": "Walden Macnair, Dark Executioner",
+        "card_name": "Viktor Krum, Durmstrang Champion",
         "number": 313,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
-        "position": "201"
+        "position": "211"
     },
     {
         "card_name": "e"
     },
     {
         "card_name": "Rubeus Hagrid, Keeper of Keys",
-        "number": 298,
+        "number": 299,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2346,12 +2346,12 @@
         "card_name": "e"
     },
     {
-        "card_name": "Dobby, the House Elf",
-        "number": 318,
+        "card_name": "Walden Macnair, Dark Executioner",
+        "number": 314,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
-        "position": "77"
+        "position": "201"
     },
     {
         "card_name": "e"
@@ -2371,19 +2371,19 @@
         "card_name": "e"
     },
     {
-        "card_name": "First-Week Snatcher",
-        "number": 319,
+        "card_name": "Dobby, the House Elf",
+        "number": 318,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
-        "position": "332"
+        "position": "77"
     },
     {
         "card_name": "e"
     },
     {
         "card_name": "Harry Potter, The Boy Who Lived",
-        "number": 254,
+        "number": 255,
         "shape": "transform double faced",
         "set": "WWHP",
         "rotated": false,
@@ -2396,7 +2396,12 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
+        "card_name": "First-Week Snatcher",
+        "number": 319,
+        "shape": "normal",
+        "set": "WWHP",
+        "rotated": false,
+        "position": "332"
     },
     {
         "card_name": "e"
@@ -2435,7 +2440,7 @@
     },
     {
         "card_name": "Mystery of the Golden Egg",
-        "number": 275,
+        "number": 276,
         "shape": "transform double faced split",
         "set": "WWHP",
         "rotated": true,
@@ -2443,7 +2448,7 @@
     },
     {
         "card_name": "Filius Flitwick, Head of Ravenclaw House",
-        "number": 246,
+        "number": 247,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2451,7 +2456,7 @@
     },
     {
         "card_name": "Severus Snape, Head of Slytherin House",
-        "number": 300,
+        "number": 301,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2465,7 +2470,7 @@
     },
     {
         "card_name": "Newt Scamander, First Magizoologist",
-        "number": 278,
+        "number": 279,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2473,7 +2478,7 @@
     },
     {
         "card_name": "Department of Mysteries",
-        "number": 237,
+        "number": 238,
         "shape": "transform double faced split",
         "set": "WWHP",
         "rotated": true,
@@ -2481,7 +2486,7 @@
     },
     {
         "card_name": "Beneath Hogwarts Plumbing",
-        "number": 225,
+        "number": 226,
         "shape": "transform double faced split",
         "set": "WWHP",
         "rotated": true,
@@ -2495,7 +2500,7 @@
     },
     {
         "card_name": "Theseus Scamander, Loyal Auror",
-        "number": 307,
+        "number": 308,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2503,7 +2508,7 @@
     },
     {
         "card_name": "Luna Lovegood, Enthused Researcher",
-        "number": 267,
+        "number": 268,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2511,7 +2516,7 @@
     },
     {
         "card_name": "Crab & Goyle",
-        "number": 234,
+        "number": 235,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2525,7 +2530,7 @@
     },
     {
         "card_name": "Cedric Diggory, Fiercely Loyal Friend",
-        "number": 230,
+        "number": 231,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2533,7 +2538,7 @@
     },
     {
         "card_name": "Cho Chang, Ravenclaw Seeker",
-        "number": 231,
+        "number": 232,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2541,7 +2546,7 @@
     },
     {
         "card_name": "Draco Malfoy",
-        "number": 241,
+        "number": 242,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2555,7 +2560,7 @@
     },
     {
         "card_name": "Justin Flinchfletchly, Wandering Student",
-        "number": 262,
+        "number": 263,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2563,7 +2568,7 @@
     },
     {
         "card_name": "Gilderoy Lockhart, Oblivious Fraud",
-        "number": 251,
+        "number": 252,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2571,7 +2576,7 @@
     },
     {
         "card_name": "Marcus Flint, Slytherin Quidditch Captain",
-        "number": 272,
+        "number": 273,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2585,7 +2590,7 @@
     },
     {
         "card_name": "Nymphadora Tonks, Metamorphmagus Auror",
-        "number": 279,
+        "number": 280,
         "shape": "transform double faced",
         "set": "WWHP",
         "rotated": false,
@@ -2593,7 +2598,7 @@
     },
     {
         "card_name": "Helena, Ghost of Ravenclaw",
-        "number": 255,
+        "number": 256,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2601,7 +2606,7 @@
     },
     {
         "card_name": "Slytherin Prefect",
-        "number": 302,
+        "number": 303,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2623,7 +2628,7 @@
     },
     {
         "card_name": "Madam Hooch, Quidditch Referee",
-        "number": 268,
+        "number": 269,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2653,7 +2658,7 @@
     },
     {
         "card_name": "Marietta Edgecomb, Ministry Sneak",
-        "number": 273,
+        "number": 274,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2683,7 +2688,7 @@
     },
     {
         "card_name": "Ravenclaw Prefect",
-        "number": 291,
+        "number": 292,
         "shape": "normal",
         "set": "WWHP",
         "rotated": false,
@@ -2769,19 +2774,11 @@
     },
     {
         "card_name": "Albus Dumbledore",
-        "number": 221,
+        "number": 222,
         "shape": "transform double faced",
         "set": "WWHP",
         "rotated": false,
         "position": "380"
-    },
-    {
-        "card_name": "Alaster Mad-Eye Moody",
-        "number": 316,
-        "shape": "transform double faced",
-        "set": "WWHP",
-        "rotated": false,
-        "position": "367"
     },
     {
         "card_name": "Nagini, Maladictus Performer",
@@ -2806,6 +2803,9 @@
         "set": "WWHP",
         "rotated": false,
         "position": "465"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -3976,7 +3976,7 @@
     },
     {
         "card_name": "Detention with the Gamekeeper",
-        "number": 238,
+        "number": 239,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3984,7 +3984,7 @@
     },
     {
         "card_name": "Journey through the Vaults",
-        "number": 261,
+        "number": 262,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -3992,7 +3992,7 @@
     },
     {
         "card_name": "Receipt of Hogwarts Letter",
-        "number": 293,
+        "number": 294,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -4000,7 +4000,7 @@
     },
     {
         "card_name": "Rescue of the Night Bus",
-        "number": 295,
+        "number": 296,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -4008,7 +4008,7 @@
     },
     {
         "card_name": "Siren Song of the Black Lake",
-        "number": 301,
+        "number": 302,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -4024,7 +4024,7 @@
     },
     {
         "card_name": "Piertotum Locomotor",
-        "number": 285,
+        "number": 286,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -4080,7 +4080,7 @@
     },
     {
         "card_name": "Bubotuber",
-        "number": 228,
+        "number": 229,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -4088,7 +4088,7 @@
     },
     {
         "card_name": "Enchanted Shield Armor",
-        "number": 243,
+        "number": 244,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -4096,7 +4096,7 @@
     },
     {
         "card_name": "Portus",
-        "number": 288,
+        "number": 289,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -4104,7 +4104,7 @@
     },
     {
         "card_name": "Snatcher Ambush",
-        "number": 303,
+        "number": 304,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -4112,7 +4112,7 @@
     },
     {
         "card_name": "Madam Pince, School Librarian",
-        "number": 269,
+        "number": 270,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -4120,7 +4120,7 @@
     },
     {
         "card_name": "Pomona Sprout, Head of Hufflepuff",
-        "number": 287,
+        "number": 288,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -4128,7 +4128,7 @@
     },
     {
         "card_name": "Blaize Zabini, Entitled Beneficiary",
-        "number": 226,
+        "number": 227,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -4136,7 +4136,7 @@
     },
     {
         "card_name": "Horace Slughorn, Old Potions Master",
-        "number": 257,
+        "number": 258,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -4144,7 +4144,7 @@
     },
     {
         "card_name": "Lucius Malfoy, Self-Served Loyalist",
-        "number": 266,
+        "number": 267,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -4152,7 +4152,7 @@
     },
     {
         "card_name": "Pansi Parkinson, Combatant Instigator",
-        "number": 283,
+        "number": 284,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -4160,7 +4160,7 @@
     },
     {
         "card_name": "Durmstrang Prefect",
-        "number": 242,
+        "number": 243,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -4168,7 +4168,7 @@
     },
     {
         "card_name": "The Fat Friar, Ghost of Hufflepuff",
-        "number": 244,
+        "number": 245,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -4176,7 +4176,7 @@
     },
     {
         "card_name": "Hufflepuff Prefect",
-        "number": 258,
+        "number": 259,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
@@ -4184,7 +4184,7 @@
     },
     {
         "card_name": "Narcissa Malfoy, Devoted Mother",
-        "number": 276,
+        "number": 277,
         "shape": "token",
         "set": "WWHP",
         "rotated": false,
