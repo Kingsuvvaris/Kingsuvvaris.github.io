@@ -1,0 +1,2354 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>WWHP EDH AW (In-Progress)</name>
+			<longname>Corruption of The Dark Arts</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-10-09</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Delphini Diggory, Dark Heir</name>
+			<text>Split second
+Haste, Lifelink, Ward {4}
+Whenever Delphini Diggory enters and during the beginning of each upkeep of extra turns, each opponent faces a villainous choice — You gain control of target permanent that player controls, or you may search your library for a card and add it to your hand. If a card was added to your hand, this way, shuffle.
+{T}, Sacrifice three lands or pay {U}{U}{B}{R}{R}{G}{G}, Put a stun counter on Delphini Diggory: Take an extra turn after this one. Spells you cast from your hand during extra turns have discover 8.</text>
+			<set rarity="masterpiece" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/0.png" num="1">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>UBRG</manacost>
+				<cmc>4</cmc>
+				<colors>UBRG</colors>
+				<coloridentity>UBRG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dark Wizard Robes</name>
+			<text>Whenever you commit a crime or an opponent faces a villainous choice, equipped creature gets +1/+1 until end of turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)
+Equip {3}
+Equip Wizard {UBR}</text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/1.png" num="61">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<coloridentity>UBR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Basilisk Horn Wand</name>
+			<text>{T}: Put a charge counter on Basilisk Horn Wand.
+{T}, Remove a charge counter from Basilisk Horn Wand: Add {U}, {B}, or {R}.
+{T}, Remove two charge counters from Basilisk Horn Wand: Add {U}{B} or {U}{R}.</text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/2.png" num="55">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<coloridentity>UBR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Slytherin Robes</name>
+			<text>Whenever a Potion you control enters ,you sacrifice a Potion, or complete a recipe, equipped creature gets +1/+1 until end of turn. (You may activate a Recipe ability of a permanent you control without paying its activation cost.)
+Equip {3}
+Equip Wizard {GUB}</text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/3.png" num="64">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<coloridentity>UBG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Veela Hair Wand</name>
+			<text>{T}: Put a charge counter on Veela Hair Wand.
+{T}, Remove a charge counter from Veela Hair Wand: Add {B}, {G}, or {U}.
+{T}, Remove two charge counters from Veela Hair Wand: Add {B}{G} or {G}{U}.</text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/4.png" num="66">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<coloridentity>UBG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Unbreakable Vow</name>
+			<text>Enchant player
+Whenever enchanted player commits a crime, each opponent faces a villainous choice — That player sacrifices a creature and Unbreakable Vow deals damage equal to the sacrificed creatures power to that player, or that player gains protection from enchanted player and creatures they control until end of turn (Targeting opponents, anything they control, and/or cards in their graveyards is a crime. This permanent can&apos;t be targeted or dealt damage by enchanted player and creatures they control until end of turn.)</text>
+			<set rarity="mythic" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/5.png" num="48">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura Curse</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2UBR</manacost>
+				<cmc>5</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Protego Diabolica</name>
+			<text>Each opponent faces a villainous choice — You draw a card for each nonland permanent that player controls. They can&apos;t attack you until your next turn, or they sacrifice each nonland permanent they control.</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/6.png" num="41">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery — Incantation</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2UUBB</manacost>
+				<cmc>6</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Imperio</name>
+			<text>You control each opponent during that player&apos;s next turn. They lose life equal to the number of Wizards you and that player control. Exile Imperio.</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/7.png" num="34">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery — Incantation</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2UUUBBB</manacost>
+				<cmc>8</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fenrir Grayback</name>
+			<text>{1}{U}{B}{R}, {T}: Fenrir Grayback deals 2 damage to any target nontoken nonartifact creature. Then create a 2/2 black and red Werewolf creature token named Snatcher with haste and a treasure token.</text>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/8.png" num="30">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Wizard Werewolf</type>
+				<maintype>Creature</maintype>
+				<manacost>UBR</manacost>
+				<cmc>3</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dementor of Azkaban</name>
+			<text>Flying, deathtouch
+{UB}, {T}: Put a -1/-1 counter on target creature. When that creature dies this turn, create a token copy of Dementor of Azkaban at the beginning of your next upkeep.</text>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/9.png" num="26">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>2UBB</manacost>
+				<cmc>5</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gellert Grindelwald, The first Dark Lord</name>
+			<text>You may look at the top card of any players library at any time. You may cast the top card of your library if it is a Wizard and you may spend mana as though it were mana of any color to cast those spells. 
+Players can&apos;t draw cards or activate abilities of permanents they control more then once each turn.
+Landfall — Whenever a land you control enters, until the start of your next turn&apos;s first main phase, at the beginning of each player&apos;s draw step, that player loses 3 life, searches their library for a card and puts it into their hand instead of drawing a card, then shuffles..</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/10.png" num="31">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1UBRG</manacost>
+				<cmc>5</cmc>
+				<colors>UBRG</colors>
+				<coloridentity>UBRG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Herpo the Foul</name>
+			<text>Wizards you control have haste.
+When Herpo the Foul enters, draw a card.Then you may reveal the drawn card. If you do discover X where X is equal to the drawn cards mana value. (To discover X, exile cards from the top of your library until you exile a nonland card with mana value X or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)
+As you discover, you may put a land card from among the exiled cards onto the battlefield tapped. If you do, you lose 2 life. (Do this after the last card is exiled but before deciding to cast a nonland card.)</text>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/11.png" num="32">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2UBRG</manacost>
+				<cmc>6</cmc>
+				<colors>UBRG</colors>
+				<coloridentity>UBRG</coloridentity>
+				<pt>4/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ekrizdis, Founder of Azkaban</name>
+			<text>Creatures with -1/-1 counters on them can&apos;t attack you.
+Protection from spirits
+{2}{U}{U}, {T}: Gain control of all Spirits.
+{T}: Target player sacrifices a nontoken creature and creates a Dementor token. Then if the sacrificed creature had a -1/-1 counter on it, draw a card. (It&apos;s a 2/2 black spirit creature with &quot;Flying,Wither, and Whenever this token attacks, creatures defending player controls get -1/-0 until end of turn.&quot;)</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/12.png" num="29">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2UUB</manacost>
+				<cmc>5</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Salazar Slytherin, Hogwarts Founder</name>
+			<text>Deathtouch, lifelink
+Whenever you cast an artifact, you may pay {B}{G}{U} any number of times. When that artifact enters, create that many tokens that are a copy of it. If a legendary token would be created this way, create a student token instead. (Its an 1/1 Wizard Human creatures that are the same color as the card that created them with &quot;Studious 1.&quot;)
+Whenever you sacrifice a permanent, create a 1/1 Black Snake creature token with deathtouch and a potion token. (It&apos;s an artifact token with &quot;{2}, {T}, Sacrifice this Potion: Complete a Recipe.&quot;)</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/13.png" num="43">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2BGU</manacost>
+				<cmc>5</cmc>
+				<colors>UBG</colors>
+				<coloridentity>UBG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Raczidian, Keeper of Dementors</name>
+			<text>Protection from spirits
+The first time a nontoken creature dies each turn and for each player, its owner creates a tapped Dementor token. (It&apos;s a 2/2 black spirit creature with &quot;Flying,Wither, and Whenever this token attacks, creatures defending player controls get -1/-0 until end of turn.&quot;)
+Whenever Raczidian dies, create four 0/1 black grub creature tokens with &quot;Sacrifice this token: Add {C}{C}. You lose 2 life&quot;</text>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/14.png" num="13">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Emeric the Evil</name>
+			<text>Whenever you cast Emeric or he attacks, you may pay {1}{U}. If you do, search your library for an bewitchment card, reveal it, shuffle, then put that card on top. (Auras, Conjurations, Curses, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)
+Whenever an opponent casts a spell, you may draw a card unless that player pays {1}.</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/15.png" num="1">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Merwyn the Malicious</name>
+			<text>When Merwyn enters or attacks, you may search your library for an bewitchment or target a bewitchment in exile that shares a color with him and add it to your hand. Shuffle your library if it was searched this way. (Auras, Conjurations, Curses, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)
+Incantations in your graveyard have escape. The escape cost is equal to the cards mana cost plus exile three other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)</text>
+			<set rarity="mythic" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/16.png" num="38">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1URR</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Barnabas Deverill, Dueling Warlock</name>
+			<text>Whenever you cast an bewitchment or complete a recipe you may pay {2}{G} and tap Barnabas Deverill. If you do, permanents you control gain hexproof and indestructible until end of turn and you gain 5 life. (Auras, Conjurations, Curses, Horcruxs, Incantations, Lessons, and Potions are Bewitchments. You may activate a Recipe ability of a permanent you control without paying its activation cost.)
+{3}{B}{G}, {T}: Destroy target nonland permanent. If an artifact or enchantment was destroyed this way, you lose 5 life.</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/17.png" num="6">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Loxias, Master of the Deathstick</name>
+			<text>{T}: Add a mana of any color for each -1/-1 counter on the field. Spend this mana only to cast a Legendary spell or activate the abilities of legendary creatures.
+Landfall — Whenever a land enters the battlefield under your control, put a -1/-1 counter on up to one target creature.</text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/18.png" num="36">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Catecombe Relic</name>
+			<text>This artifact enters tapped.
+Whenever a creature dies or a crime is committed, put a charge counter on Catecombe Relic.
+{T}: Add {U} or {B} or {R} or {G}.
+{4}, {T}: Remove a charge counter. Until end of turn whenever you tap a permanent for mana that this artifact can produce, add an additional mana of that color.</text>
+			<set rarity="mythic" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/19.png" num="58">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<coloridentity>UBRG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Black Family Ring</name>
+			<text>{T}: Add one mana of any color in your commander&apos;s identity.</text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/20.png" num="56">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Horcrux Creation Ritual</name>
+			<text>Pay half your life rounded up (minimum 1): Destroy target creature. Then put a Horcrux counter on target artifact or creature that doesn&apos;t have one. Permanents you control with a Horcrux counter are Horcrux&apos;s in addition to their other types. Activate only as a sorcery.
+Horcrux&apos;s you control have &quot;You can&apos;t lose the game and your opponent&apos;s can&apos;t win the game.</text>
+			<set rarity="mythic" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/21.png" num="33">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Incantation.</type>
+				<maintype>Enchantment</maintype>
+				<manacost>UBRG</manacost>
+				<cmc>4</cmc>
+				<colors>UBRG</colors>
+				<coloridentity>UBRG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ancient Magic Portkey</name>
+			<text>{T}: Add {C}{C}.</text>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/22.png" num="54">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Blood Pact Trothe</name>
+			<text>This artifact cannot be destroyed, exiled, returned to its owner&apos;s hand, or sacrificed except by its own effect.
+Whenever this artifact enters, choose target opponent.
+The chosen opponent has protection from you and you have protection from that opponent unless you or your opponent pays half their life. (You and the chosen opponent can&apos;t target each other with spells or abilities, nor deal damage to each other with permanents you both control.)
+Whenever you cast a spell or activate an ability in response to a spell or ability controlled by the chosen opponent, sacrifice this artifact.</text>
+			<set rarity="mythic" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/23.png" num="57">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>8</manacost>
+				<cmc>8</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Scrounge for Forbidden Magic</name>
+			<text>Search your library for two cards, put those cards into your hand, then shuffle your library. If {U} was paid to cast this spell, reveal those cards before putting them in your hand. If {B} was paid to cast this spell, you lose 4 life. If {R} was paid to cast this spell, discard a card at random from your hand. If {G} was paid to cast this spell, search your library for a creature and land card and reveal them instead .</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/24.png" num="52">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2/UB/R/G</manacost>
+				<cmc>3</cmc>
+				<colors>UBRG</colors>
+				<coloridentity>UBRG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Dark Mark</name>
+			<text>{T}: Add one mana of any color.
+{4}, {T}: Look at the top card of your library. If it&apos;s a land card, you may put it onto the battlefield tapped. If you don&apos;t put the card onto the battlefield, you may put it on the bottom of your library.</text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/25.png" num="60">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Cup of Helga Hufflepuff</name>
+			<text>Cup of Helga Hufflepuff enters with X charge counters.
+{T}: Create a Food token for each charge counter on Cup of Helga Hufflepuff.
+Foods you control have &quot;{2}{B}, {T}, Sacrifice this artifact. Target player loses 3 life. Activate only if you control Lord Voldemort, The Dark Lord&quot;</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/26.png" num="59">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Horcrux</type>
+				<maintype>Artifact</maintype>
+				<manacost>XXX</manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lost Diadem of Rowena Ravenclaw</name>
+			<text>Instant and sorcery spells you cast cost {1} less to cast
+You may cast sorcery spells as though hey had flash.
+As long as you control Lord Voldemort, The Dark Lord, you may look at the top card of your library at any time and you may cast instant and sorcery spells from the top of your library.</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/27.png" num="63">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Horcrux</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Reservoir of Ancient Magic</name>
+			<text>Whenever a nonbasic land you control enters tapped, untap it.
+{2}, {T}: You may play lands you own from exile or your graveyard and play up to two additional lands until end of turn.</text>
+			<set rarity="mythic" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/28.png" num="53">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2/U2/G</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Swarm of Grindylows</name>
+			<text>Squad {1}{2U} (As an additional cost to cast this spell, you may pay {1}{2U} any number of times. When this creature enters, create that many tokens that are copies of it.)
+Skulk (This creature can&apos;t be blocked by creatures with greater power.)</text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/29.png" num="5">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crucio</name>
+			<text>When you cast Crucio, copy it for each other creature it could target. Each of those copies targets a different one of those creatures.
+The controller of target creature an opponent controls discards a card. If they can&apos;t, Crucio deals 3 damage to them.</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/30.png" num="25">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery — Incantation</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3UBR</manacost>
+				<cmc>6</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lucius Malfoy</name>
+			<text>Deathtouch
+Soulbond (You may pair this creature with another unpaired creature when either enters. They remain paired for as long as you control both of them.)
+Whenever Lucius Malfoy or a creature it&apos;s paired with attacks, create a treasure token and surveil 1.</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/31.png" num="37">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2BGU</manacost>
+				<cmc>5</cmc>
+				<colors>UBG</colors>
+				<coloridentity>UBG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Locket of Salazar Slytherin</name>
+			<text>Each spell a player that doesn&apos;t control &quot; a creature with &quot;Voldemort&quot; in its name.&quot; casts costs {1} more to cast for each other spell that player has cast this turn.
+During the beginning of each players upkeep, creatures that are a color that equipped creature isn&apos;t, put a -1/-1 counter on it. 
+Equip {4}</text>
+			<set rarity="mythic" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/32.png" num="12">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Horcrux</type>
+				<maintype>Artifact</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Avada Kedavra</name>
+			<text>Whenever this spell becomes the target of a spell or ability an opponent controls, counter that spell or ability unless its controller sacrifices a creature.
+Remove all shield counters from target nonartifact creature. Destroy that creature. If a creature is destroyed this way, Avada Kedavra deals damage equal to the creature&apos;s mana value to that creature&apos;s controller.
+Bewitchment Storm</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/33.png" num="22">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery — Incantation</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2BBR</manacost>
+				<cmc>5</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Durmstrang Prefect</name>
+			<text>{U}, {T}: Draw a card, then discard a card.
+{1}{B}, {T}, Exile a card from your graveyard: Create a 1/1 black Skeleton creature token.
+{2}{R}, {T}: Target creature can&apos;t block this turn. This creature deals 1 damage that creature&apos;s controller.</text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/34.png" num="28">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>UBR</manacost>
+				<cmc>3</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Slytherin Prefect</name>
+			<text>{B}, {T}: Target creature gets -2/-0 until end of turn.
+{1}{G}, {T}: Sacrifice a creature. Return target creature from your graveyard to your hand.
+{2}{U}, {T}: Scry 1. Draw a card.</text>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/35.png" num="44">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>BGU</manacost>
+				<cmc>3</cmc>
+				<colors>UBG</colors>
+				<coloridentity>UBG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Forgetfulness Potion</name>
+			<text>Whenever a Potion enters, each opponent discards and mills a card.
+Recipe — {2U}{2U}{2U}: Sacrifice this Potion. Counter target spell. Its controller can&apos;t cast spells until the beginning of their next turn.</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/36.png" num="2">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Potion</type>
+				<maintype>Artifact</maintype>
+				<manacost>2/U2/U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text>This land enters tapped.
+When this land enters scry 1.
+{T}: Add {U} or {B}.</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/37.png" num="67">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text>This land enters tapped.
+Cycling {3} ({3}, Discard this card: Draw a card.)</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/38.png" num="69">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Swamp Mountain Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BRG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Minisrtry Court Room 10</name>
+			<text>This land enters tapped.
+When this land enters, Scry 1.
+{T}: Add {B} or {R}.</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/39.png" num="86">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Azkaban Prison Fortress</name>
+			<text>When Azkaban Prison Fortress enters, sacrifice it unless you return a non-lair land to your hand.
+{T}: Add {U} or {B} or {R} or {G}. Then you may remove a charge counter. If you do, add an additional {U} or {B} or {R} or {G}.
+{2}{U}{B}{R}{G}, {T}: Gain control of target creature until end of turn. Untap it. It gains haste until end of turn then you may sacrifice a non-spirit creature. If you do, put a charge counter on Azkaban Prison Fortress and create a Dementor token. (It&apos;s a 2/2 black spirit creature with &quot;Flying,Wither, and Whenever this token attacks, creatures defending player controls get -1/-0 until end of turn.&quot;)</text>
+			<set rarity="mythic" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/40.png" num="70">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land — Lair</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UBRG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Borgen and Burkes</name>
+			<text>({T}: Add {U} or {B})
+As Borgen and Burkes enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/41.png" num="71">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Island Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Chamber of Secrets</name>
+			<text>({T}: Add {U} or {B} or {G}.)
+This land enters tapped.
+Cycling {3} ({3}, Discard this card: Draw a card.)</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/42.png" num="72">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Island Swamp Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UBG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Department of Mysteries</name>
+			<text>{T}: Add {U} or {B}.</text>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/43.png" num="73">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Swamp Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Divination Classroom</name>
+			<text>This land enters tapped.
+When this land enters, scry 1.
+{T}: Add {U} or {R}.</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/44.png" num="74">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Dogweed and Deathcap</name>
+			<text>({T}: Add {B} or {G}.)
+As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/45.png" num="75">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Swamp Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Dueling Arena</name>
+			<text>({T}: Add {R} or {G}.)
+As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/46.png" num="76">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Mountain Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Dungeon Depths</name>
+			<text>This land enters tapped.
+When this Land enters, add {B}.
+{T}: Add {G} or {U}.</text>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/47.png" num="77">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UBG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Durmstrang Ship</name>
+			<text>This land enters tapped unless you control an Island or a Mountain.
+{T}: Add {U} or {R}.</text>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/48.png" num="78">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Erkstag Prison</name>
+			<text>This land enters tapped unless you control a Swamp or a Forest.
+{T}: Add {B} or {G}.</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/49.png" num="79">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Flourish and Blotts</name>
+			<text>({T}: Add {G} or {U}.)
+As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/50.png" num="80">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Forest Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Game Keeper&apos;s Hut</name>
+			<text>This land enters tapped.
+When this land enters scry 1.
+{T}: Add {R} or {G}</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/51.png" num="81">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Gand Stair Case</name>
+			<text>{T}: Add one mana of any color in your commanders identity.</text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/52.png" num="82">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Hidden Torturer&apos;s Cavern</name>
+			<text>({T}: Add {U} or {B} or {R}.)
+This land enters tapped.
+Cycling {3} ({3}, Discard this card: Draw a card.)</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/53.png" num="84">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Island Swamp Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UBR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Pureblood Manner</name>
+			<text>This land enters tapped.
+When this Land enters, add {R}.
+{T}: Add {U} or {B}.</text>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/54.png" num="87">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UBR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Quidditch World Cup Camp</name>
+			<text>This land enters tapped unless you control a Mountain or a Forest.
+{T}: Add {R} or {G}.</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/55.png" num="88">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Shreiking Shack</name>
+			<text>This land enters tapped.
+When this land enters, scry 1.
+{T}: Add {B} or {G}.</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/56.png" num="89">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Triwizard Maze</name>
+			<text>This land enters tapped unless you control a Forest or an Island.
+{T}: Add {G} or {U}.</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/57.png" num="90">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Zonko&apos;s Joke Shop</name>
+			<text>({T}: Add {U} or {R}.)
+As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/58.png" num="91">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Island Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island 1</name>
+			<text></text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/59.png" num="92">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island 4</name>
+			<text></text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/60.png" num="93">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/61.png" num="95">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/62.png" num="94">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/63.png" num="97">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/64.png" num="96">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/65.png" num="98">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Drink of Dispair</name>
+			<text>Whenever a Potion enters, you may put a -1/-1 counter on target creature.
+Recipe — {2B}{2B}{2B}{2B}, {T}, Sacrifice this Potion: Put a -1/-1 counter on each creature target player controls. That player loses life for each -1/-1 counter among creatures they control.</text>
+			<set rarity="mythic" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/66.png" num="9">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Potion</type>
+				<maintype>Artifact</maintype>
+				<manacost>2/B2/B2/B2/B</manacost>
+				<cmc>8</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Pius Thicknesse, Dark Lord Puppet</name>
+			<text>Whenever you commit a crime, scry 1 then draw a card. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)
+If you draw a creature spell, you may reveal it. If its a wizard, tap target creature and put a stun counter on it.</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/67.png" num="4">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Walden Macnair, Dark Executioner</name>
+			<text>When Walden Macnair enters or a player commits a crime, you may tap this creature. If you do, each opponent faces a villainous choice — That player discards a card and Walden Macnair deals damage to that player equal to the converted mana value of the card discarded this way, or each that player sacrifices a creature and you return this creature to its owner&apos;s hand. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)</text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/68.png" num="49">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2UBR</manacost>
+				<cmc>5</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tradgey at the World Cup</name>
+			<text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it is defeated, exile it, then cast it transformed.)
+When this Siege enters, each opponent faces a villainous choice — You search your library for a mountain and put it onto the battlefield. or Tradgey at the World Cup deals 1 damage to each creature that player control and that player discards or mills a card for each creature dealt damage this way</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/69.png" num="46">WWHP</set>
+			<prop>
+				<layout>battle</layout>
+				<side>front</side>
+				<type>Battle — Siege</type>
+				<maintype>Battle</maintype>
+				<manacost>2UBR</manacost>
+				<cmc>5</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Little Hanglton Graveyard</name>
+			<text>{T}: Add {B} or {G}.</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/70.png" num="85">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Swamp Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Godric&apos;s Hollow</name>
+			<text>{T}: Add {R} or {G}.</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/71.png" num="83">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Mountain Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text>{T}: Add {G} or {U}.</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/72.png" num="68">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Forest Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/73.png" num="99">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Chizpurfle Parasite WWHP</name>
+			<text>{B}, {T}, Pay 2 life: Remove a counter from target artifact or creature. When a counter is removed from a permanent you control this way, you may put a counter of the same kind on another target permanent. If you do, create a Potion token. (It&apos;s an artifact token with &quot;{2}, {T}, Sacrifice this Potion: Complete a Recipe.&quot;)
+Recipe— {B}, Pay 2 life: Untap target creature.</text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/74.png" num="7">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Crab Beast Reagent</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Death Eater WWHP</name>
+			<text>Squad {2}{B} (As an additional cost to cast this spell, you may pay {2}{B} any number of times. When this creature enters, create that many tokens that are copies of it.)
+Whenever you commit a crime, each opponent loses 1 life unless they pay {1}. You gain life equal to the amount lost this way. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)</text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/75.png" num="8">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Inferi Hoard WWHP</name>
+			<text>Squad {2B}{2B}, — Pay 4 life (As an additional cost to cast this spell, you may pay {2B} and 4 life any number of times. When this creature enters, create that many tokens that are copies of it.)
+Prevent all damage that would be dealt to this creature unless the damage was dealt from a red spell or permanent.</text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/76.png" num="10">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Lethifold</name>
+			<text>Flying
+Alteration {G}{G} (You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield face up for {G}{G}.)
+If this creature was cast from the battlefield or is destroyed while face down, target opponent sacrifices a creature they control.</text>
+			<set rarity="mythic" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/77.png" num="11">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Return of the Dark Lord</name>
+			<text>The spell costs {2} less to cast for each time you&apos;ve committed a crime this turn and each Horcrux you control.
+Return up to X target creature cards from your graveyard to the battlefield. They gain haste until end of turn.</text>
+			<set rarity="mythic" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/78.png" num="14">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery — Lesson</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XXBBB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Underground Potioneer WWHP</name>
+			<text>Whenever you commit a crime, you may tap this creature. If you do, create a tapped Potion token. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime. A Potion token is an artifact with &quot;{2}, {T}, Sacrifice this Potion: Complete a Recipe.&quot;)
+Whenever a creature dies, untap this creature.
+Recipe — Draw a card. You lose 2 life.</text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/79.png" num="15">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Pestis Incendium, Fiendfyre WWHP</name>
+			<text>If you control a legendary creature, creatures you control gain protection from red until end of turn.
+Until this spell resolves, creatures lose indestructible and can&apos;t gain or have indestructible. Pestis Incendium, Fiendfyre deals X damage to each creature, where X is the number of other bewitchments you&apos;ve cast this turn plus one. If X is equal to or greater than {4}, this spell can&apos;t be countered. When a creature dealt damage this way dies this turn, create an X/X {R} Elemental creature token. Exile this incantation. (Auras, Conjurations, Curses, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)</text>
+			<set rarity="mythic" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/80.png" num="17">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery — Incantation</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Acromantula WWHP</name>
+			<text>Reach, Trample, Deathtouch
+Whenever this creature is dealt combat damage, create a 1/2 {G} Spider creature tokens with reach and deathtouch. 
+When this creature dies, create six 1/2 {G} Spider creature tokens with reach and deathtouch.</text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/81.png" num="19">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spider Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>4GGG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Chase the Hidden Traitor WWHP</name>
+			<text>Whenever this Siege is dealt damage, investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)
+When Chase the Hidden Traitor is put into a graveyard or exiled, its owner shuffle it and all cards they own in exile and in their graveyard into their library.</text>
+			<set rarity="mythic" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/82.png" num="20">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Battle — Siege</type>
+				<maintype>Battle</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5</pt>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Bellatrix Lestrange, Enthralled Death Eater</name>
+			<text>Whenever you commit a crime, the next bewitchment spell you cast this turn costs {1}{U}, {1}{B}, or {1}{R} less to cast. Put a +1/+1 counter on Bellatrix Lestrange.
+Whenever you cast a bewitchment, you may remove a counter from a creature you control. If you do, each opponent faces a villainous choice — That player sacrifices a creature, or that player discards a card and you draw a card. (Auras, Conjurations, Curses, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/83.png" num="23">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2UBR</manacost>
+				<cmc>5</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Beneath Hogwarts Plumbing</name>
+			<text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it&apos;s defeated, exile it, then cast it transformed.)
+Whenever a creature you control deals combat damage to this Siege, put a stun counter on up to one target creature an opponent controls, then investigate.</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/84.png" num="24">WWHP</set>
+			<prop>
+				<layout>battle</layout>
+				<side>front</side>
+				<type>Battle — Siege</type>
+				<maintype>Battle</maintype>
+				<manacost>2BGU</manacost>
+				<cmc>5</cmc>
+				<colors>UBG</colors>
+				<coloridentity>UBG</coloridentity>
+				<pt>6</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Morgan Le Fey</name>
+			<text>When this card transforms into Morgan Le Fey, search your library for a bewitchment and add it to your hand. (Auras, Conjurations, Curses, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)
+Whenever a crime is committed, you gain 3 life and creatures you control gain hexproof until end of turn.
+When Morgan Le Fey dies or is exiled, return her to the battlefield transformed.
+---
+(Back): Morgana The Eternal Night</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/85_front.png" num="39a">WWHP</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Animagus Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2UUBR</manacost>
+				<cmc>6</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Morgana The Eternal Night</related>
+		</card>
+		<card>
+			<name>Morgana The Eternal Night</name>
+			<text>Flying
+During your turn, spells you cast from your hand with a mana value of X or less have discover 6, where X is the number of Bewitchments in your graveyard. (Auras, Conjurations, Curses, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)
+{U}{B}{R}: Transform Morgana The Eternal Night. Target player discards a card and loses 2 life.
+---
+(Front): Morgan Le Fey</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/85_back.png" num="39b">WWHP</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Morgan Le Fey</related>
+		</card>
+		<card>
+			<name>Gaunt Family Ring</name>
+			<text>Whenever you cast a black spell, draw a card. If you control Lord Voldemort, The Dark Lord, you gain 1 life. Otherwise, you lose 1 life.
+Sacrifice a creature: Transform Gaunt Family Ring.
+---
+(Back): The Resurrection Stone</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/87_front.png" num="62a">WWHP</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Horcrux</type>
+				<maintype>Artifact</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">The Resurrection Stone</related>
+		</card>
+		<card>
+			<name>The Resurrection Stone</name>
+			<text>{2}{2B}{2B}, {T}: Choose target creature card in a graveyard or in exile. Return it from its owner&apos;s graveyard or exile to the battlefield under your control with a finality counter. It gains haste and is a Spirit in addition to its other types. Sacrifice it at the beginning of the next end step unless you control both The Elder Wand and The Cloak of Invisibility. Activate only as a sorcery.
+---
+(Front): Gaunt Family Ring</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/87_back.png" num="62b">WWHP</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Gaunt Family Ring</related>
+		</card>
+		<card>
+			<name>Tom Riddles Diary</name>
+			<text>Equipped creature has &quot;{T}: Scry X, where X is this creature&apos;s power. Then if you control Lord Voldemort, The Dark Lord, draw a card.&quot;
+Whenever equipped creature leaves the battlefield, transform Tom Riddles Diary.
+Equip {2}
+---
+(Back): Tom Riddle, Memory of the Heir</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/89_front.png" num="65a">WWHP</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Equipment Horcrux</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Tom Riddle, Memory of the Heir</related>
+		</card>
+		<card>
+			<name>Tom Riddle, Memory of the Heir</name>
+			<text>When Tom Riddle enters, gain control of target creature for as long as you control Tom Riddle. That creature can&apos;t attack or block and its activated abilities can&apos;t be activated while you control it.
+{1}{B}{B}, {T}: Search your library for a card named Beneath Hogwarts Plumbing or a Horcrux card, reveal it, put it into your hand, then shuffle.
+---
+(Front): Tom Riddles Diary</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/89_back.png" num="65b">WWHP</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Spirit Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Tom Riddles Diary</related>
+		</card>
+		<card>
+			<name>Dementor of Azkaban WWHP</name>
+			<text>Flying, deathtouch
+{U}{B}, {T}: Put a -1/-1 counter on target creature. When that creature dies this turn, create a token copy of Dementor of Azkaban at the beginning of your next upkeep.</text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/91.png" num="11">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Snake WWHP</name>
+			<text>Deathtouch</text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/92.png" num="7">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Snake</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Tom Riddle, Heir of Slytherin</name>
+			<text>As Tom Riddle, Heir of Slytherin enters, if you control a Horcrux, you may have him enter transformed.
+Whenever a player loses 4 or more life, each opponent faces a villainous choice — You gain that much life, or you create X 1/1 black Snake creature token with deathtouch, where X is equal to the amount of life lost this way.
+Whenever a Horcrux you control enters, transform this card then learn.
+---
+(Back): Lord Voldemort, The Dark Lord</text>
+			<set rarity="mythic" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/93_front.png" num="45a">WWHP</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2UBR</manacost>
+				<cmc>5</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Lord Voldemort, The Dark Lord</related>
+		</card>
+		<card>
+			<name>Lord Voldemort, The Dark Lord</name>
+			<text>Ward—Sacrifice a creature
+Lord Voldemort gets +1/+1 for each Horcrux you control and has indestructible as long as you control a Horcrux.
+When Lord Voldemort enters for each Horcrux you control and when ever a Horcrux enters under control, each opponent faces a villainous choice — You put your choice of a flying, deathtouch, menace, or -1/-1 counter on target creature, or that player discard their hand and mills a number of cards equal to Lord Voldemort&apos;s combined power and toughness.
+---
+(Front): Tom Riddle, Heir of Slytherin</text>
+			<set rarity="mythic" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/93_back.png" num="45b">WWHP</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Tom Riddle, Heir of Slytherin</related>
+		</card>
+		<card>
+			<name>Dementor WWHP</name>
+			<text>Flying (This creature can&apos;t be blocked except by creatures with flying or reach.)
+Wither (This deals damage to creatures in the form of -1/-1 counters.)
+Whenever this token attacks, creatures defending player controls get -1/-0 until end of turn.</text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/96.png" num="3">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Swarm of Grindylows WWHP</name>
+			<text>Squad {1}{2U} (As an additional cost to cast this spell, you may pay {1}{2U} any number of times. When this creature enters, create that many tokens that are copies of it.)
+Skulk (This creature can&apos;t be blocked by creatures with greater power.) (This creature can&apos;t be blocked by creatures with greater power.)</text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/97.png" num="1">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Merfolk Beast</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Death Eater WWHP</name>
+			<text>Squad {3}{B} (As an additional cost to cast this spell, you may pay {3}{B} any number of times. When this creature enters, create that many tokens that are copies of it.)
+Whenever you commit a crime, each opponent may pay {1}. Each opponent that doesn&apos;t, loses 1 life. You gain life equal to the amount lost this way. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)</text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/98.png" num="2">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Inferi Hoard WWHP</name>
+			<text>Squad—4 life (As an additional cost to cast this spell, you may pay 4 life any number of times. When this creature enters, create that many tokens that are copies of it.)
+Decayed (This creature can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/99.png" num="5">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Zombie Beast</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Student WWHP</name>
+			<text>Studious 1</text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/100.png" num="13">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>UBG</colors>
+				<coloridentity>UBG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Skeleton WWHP</name>
+			<text></text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/101.png" num="6">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Skeleton</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Clue WWHP</name>
+			<text>{2}, Sacrifice this artifact: Draw a card.</text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/102.png" num="14">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Spider WWHP</name>
+			<text>Reach</text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/103.png" num="10">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Spider</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Elemental WWHP</name>
+			<text></text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/104.png" num="9">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>X/X</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Zombie WWHP</name>
+			<text></text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/105.png" num="8">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Grub WWHP</name>
+			<text>{T}, Sacrifice this creature: Add {C}{C}. You lose 2 life.</text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/106.png" num="4">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Grub</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Snatcher WWHP</name>
+			<text></text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/107.png" num="12">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Werewolf</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Nagini, Maladictus Performer</name>
+			<text>Deathtouch
+{1}{R}, {T}: Nagini deals 1 damage to any nonartifact target. Transform Nagini.
+---
+(Back): Nagini, Loyal Darklord Servant</text>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/108_front.png" num="40a">WWHP</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Nagini, Loyal Darklord Servant</related>
+		</card>
+		<card>
+			<name>Nagini, Loyal Darklord Servant</name>
+			<text>First strike, deathtouch
+As long as you control Lord Voldemort, The Dark Lord, Nagini, Loyal Darklord Servant gets +0/+2 and has &quot;Ward—-pay 3 life.&quot; (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player -pays 3 life.&quot; .)
+---
+(Front): Nagini, Maladictus Performer</text>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/108_back.png" num="40b">WWHP</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Snake Horcrux</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Nagini, Maladictus Performer</related>
+		</card>
+		<card>
+			<name>Food WWHP</name>
+			<text>{2}, {T}, Sacrifice this artifact: You gain 3 life.</text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/110.png" num="15">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Potion WWHP</name>
+			<text>{2}, {T}, Sacrifice this Potion: Complete a Recipe. (You may activate a Recipe ability of a permanent you control without paying its activation cost.)</text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/111.png" num="16">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Potion</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Intro to the Dark Arts</name>
+			<text>Put two -1/-1 counters on target creature.
+If a permanent you control died this turn, after this spell resolves, exile it then return it to the battlefield transformed.
+---
+(Back): O.W.L Dark Arts</text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/116_front.png" num="50a">WWHP</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Sorcery — Lesson</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U/BU/B</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">O.W.L Dark Arts</related>
+		</card>
+		<card>
+			<name>O.W.L Dark Arts</name>
+			<text>(Gain the next Year as a sorcery to add its ability.)
+{2}{UB}{UB}:
+{3}{UB}{UB}:
+{4}{UB}{UB}:
+---
+(Front): Intro to the Dark Arts</text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/116_back.png" num="50b">WWHP</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Enchantment — Class</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U/BU/B</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Intro to the Dark Arts</related>
+		</card>
+		<card>
+			<name>Melding of Minds</name>
+			<text>Enchant creature
+This Aura enters with X Focus counters.
+You control enchanted creature as long as its mana value is less than or equal to the number of focus counters on this Aura.
+Enchanted creature&apos;s owner plays with their hand revealed.
+---
+(Back): Darklord Connection</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/117_front.png" num="3a">WWHP</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>XXUU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Darklord Connection</related>
+		</card>
+		<card>
+			<name>Darklord Connection</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+As this Saga enters, enchant player. This Saga enters with X Focus counters on it.
+I — This Saga has &quot;You may look a enchanted players hand at any time.&quot; and &quot;When this saga is sacrificed, its owner shuffles it instead.&quot;
+II — Enchanted player discards all nonland cards in their hand with a mana value equal to or less then the number of Focus counters on this Saga.
+III — Enchanted player sacrifices all nonland permanents with a mana value equal to or less then the number of Focus counters on this saga.
+---
+(Front): Melding of Minds</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/117_back.png" num="3b">WWHP</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Enchantment — Saga Aura Curse</type>
+				<maintype>Enchantment</maintype>
+				<manacost>XUUBB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Melding of Minds</related>
+		</card>
+		<card>
+			<name>Quirinus Quirrell, Traitorous Professor</name>
+			<text>Scholarly
+As long as Quirinus Quirrell is studious, bewitchment spells you cast cost {1} less to cast.
+Whenever you cast a bewitchment, untap Quirinus Quirrell. Then you may transform him. If you transform him, learn. (Auras, Conjurations, Curses, Horcruxs, Incantations, Lessons, and Potions are Bewitchments. To learn, you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)
+---
+(Back): Remnant of Lord Voldemort</text>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/118_front.png" num="51a">WWHP</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>URU/R</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Remnant of Lord Voldemort</related>
+		</card>
+		<card>
+			<name>Remnant of Lord Voldemort</name>
+			<text>Deathtouch, flying
+Whenever a creature dies, if it was dealt damage by Remnant of Lord Voldemort, return it to its owner&apos;s hand instead.
+{3}{R}: Remnant of Lord Voldemort gains first-strike until end of turn.
+---
+(Front): Quirinus Quirrell, Traitorous Professor</text>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/118_back.png" num="51b">WWHP</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Spirit Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>UB</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Quirinus Quirrell, Traitorous Professor</related>
+		</card>
+		<card>
+			<name>Scabbers, Frightend Coward</name>
+			<text>Haste
+If an opponent would exile a card from your library, add it to your hand instead.
+Whenever this creature transforms into Scabbers, Scabbers deals 1 damage to target player then return it to its owner&apos;s hand.
+When you commit a crime, you may pay 2 life or {UB} {UB}. If you do, transform Scabbers, Frightend Coward. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)
+---
+(Back): Peter Pettigrew, Traitorus Maruader</text>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/120_front.png" num="18a">WWHP</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Rat</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Peter Pettigrew, Traitorus Maruader</related>
+		</card>
+		<card>
+			<name>Peter Pettigrew, Traitorus Maruader</name>
+			<text>Whenever this creature transforms into Peter Pettigrew, Traitorus Maruader, each opponent reveals their hand. You may choose a nonland card from each hand revealed this way. Players discard each card chosen this way.
+{U}{B}{R}, {T}, Pay 2 life: Transform Peter Pettigrew, Traitorus Maruader.
+---
+(Front): Scabbers, Frightend Coward</text>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/120_back.png" num="18b">WWHP</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Animagus Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Scabbers, Frightend Coward</related>
+		</card>
+		<card>
+			<name>Trial of the Goblet of Fire</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter.)
+I — Put a +1/+1 counter on each creature you control. Then investigate for each creature you control.
+II — For each creature you control, you may have it fight up to one target creature you don&apos;t control. 
+III — Exile this Saga, then return it to the battlefield under transformed under your control.
+---
+(Back): The Triwizard Cup</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/122_front.png" num="21a">WWHP</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">The Triwizard Cup</related>
+		</card>
+		<card>
+			<name>The Triwizard Cup</name>
+			<text>When The Triwizard Cup enters, search your library for a creature card with mana value equal to or less then the number of Clue tokens you control, reveal it and put it onto the battlefield tapped, then shuffle.
+Whenever a creature enters, it fights target creature its owner doesn&apos;t control. Then the owner of the creature that doesn&apos;t die this way creates a Treasure token.
+---
+(Front): Trial of the Goblet of Fire</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/122_back.png" num="21b">WWHP</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Trial of the Goblet of Fire</related>
+		</card>
+		<card>
+			<name>Detention with the Gamekeeper</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Exile and return this Saga to the battlefield transformed after III.)
+I — Search your library for up to two land cards. Reveal and add them to your hand. Shuffle your library. If a basic land is revealed this way, you may put it onto the battlefield instead.
+II — Target player creates a 3/3 green Centaur creature token. Another target player creates a 1/1 black Vampire creature token with lifelink. 
+III — Create a token that is a copy of target nonhuman creature you control. Then target creature you control fights target creature you don&apos;t control.
+---
+(Back): Forbidden Forest</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/123_front.png" num="27a">WWHP</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Forbidden Forest</related>
+		</card>
+		<card>
+			<name>Forbidden Forest</name>
+			<text>Forbidden Forest enters tapped unless you control a legendary creature.
+{T}: Add {B} or {G}.
+{3}{B}{G}, {T}: Exile Forbidden Forest. Then return it the battlefield transformed.
+---
+(Front): Detention with the Gamekeeper</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/123_back.png" num="27b">WWHP</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<related attach="transform">Detention with the Gamekeeper</related>
+		</card>
+		<card>
+			<name>Journey through the Vaults</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Exile and return this Saga to the battlefield transformed after III.)
+I — Create a 1/1 red Goblin creature token. Then create a 1/1 red goblin token for each land you control.
+II — Create a tapped Treasure token. Then create a tapped treasure token for each goblin you control.
+III — Search your library for an artifact. Reveal it. Shuffle your library and put that card on top.
+---
+(Back): Gringotts Wizarding Bank</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/124_front.png" num="35a">WWHP</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3UR</manacost>
+				<cmc>5</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Gringotts Wizarding Bank</related>
+		</card>
+		<card>
+			<name>Gringotts Wizarding Bank</name>
+			<text>Gringotts Wizarding Bank enters tapped unless you control a legendary creature.
+{T}: Add {U} or {R}.
+{3}{U}{R}, {T}: Exile Gringotts Wizarding Bank. Then return it the battlefield transformed.
+---
+(Front): Journey through the Vaults</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/124_back.png" num="35b">WWHP</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Land — Island Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<related attach="transform">Journey through the Vaults</related>
+		</card>
+		<card>
+			<name>Traverse the Secret Passage</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Exile and return this Saga to the battlefield transformed after III.)
+I — Create a Map token. Then create a Map token for each land you control. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.&quot;)
+II — This saga has &quot; Whenever a creature explores, target creature can&apos;t block this turn.&quot; (To have this creature explore, reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)
+III — Create a tapped Treasure token for each +1/+1 counter among creatures you control.
+---
+(Back): Hogsmeade, Isolated Wizard Village</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/125_front.png" num="47a">WWHP</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2RG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Hogsmeade, Isolated Wizard Village</related>
+		</card>
+		<card>
+			<name>Hogsmeade, Isolated Wizard Village</name>
+			<text>Hogsmeade enters tapped unless you control a legendary creature.
+{T}: Add {R} or {G}.
+{3}{R}{G}, {T}: Exile Hogsmeade. Then return it the battlefield transformed.
+---
+(Front): Traverse the Secret Passage</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/125_back.png" num="47b">WWHP</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Land — Mountain Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<related attach="transform">Traverse the Secret Passage</related>
+		</card>
+		<card>
+			<name>Reawakining of the Dark Mark</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Exile and return this Saga to the battlefield transformed after III.)
+I — Destroy target creature. It can&apos;t be regenerated. It&apos;s controller loses life equal to that creature&apos;s toughness.
+II — Sagas you control have &quot;At the beginning of each players upkeep, exile the top card of that players library. You may cast cards exiled this way without paying their mana value. If you do, you lose life equal to that cards mana value.&quot; 
+III — Until the start of your next turn, whenever one or more player loses life, that player shuffles all nonland permanents they control into their library and lose life equal to the number of permanents they shuffled this way.
+---
+(Back): Durmstrang, Institute of Dark Magic</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/126_front.png" num="42a">WWHP</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3BR</manacost>
+				<cmc>5</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Durmstrang, Institute of Dark Magic</related>
+		</card>
+		<card>
+			<name>Durmstrang, Institute of Dark Magic</name>
+			<text>Durmstrang enters tapped unless you control a legendary creature.
+{T}: Add {B} or {R}.
+{3}{B}{R}, {T}: Exile Durmstrang. Then return it the battlefield transformed.
+---
+(Front): Reawakining of the Dark Mark</text>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/126_back.png" num="42b">WWHP</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Land — Mountain Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<related attach="transform">Reawakining of the Dark Mark</related>
+		</card>
+		<card>
+			<name>Basic Cast</name>
+			<text>As an additional cost to cast this spell you may pay {1}. If you do, after it resolves return it to your hand instead.
+Basic Cast deals 1 damage to any target.
+Bewitchment storm (When you cast this spell, copy it for each bewitchment spell cast before it this turn. You may choose new targets for the copies. Auras, Conjurations, Curses, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)</text>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/129.png" num="16">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant — Incantation</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

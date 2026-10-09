@@ -1,4 +1,52 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Explore the Restricted Section
+loyalty:  => 5
+
+Department of Mysteries
+loyalty:  => 4
+
+Portkey to Little Hangleton Graveyard
+loyalty:  => X
+
+Tragedy at the World Cup
+loyalty:  => 5
+
+Journey Beneath Gringotts Bank
+loyalty:  => 5
+
+Chase the Hidden Traitor
+loyalty:  => 4
+
+Flight of the Seven Potters
+loyalty:  => 5
+
+Beneath Hogwarts Plumbing
+loyalty:  => 5
+
+Follow the Spiders
+loyalty:  => 4
+
+Battle of Hogwarts
+loyalty:  => 5
+
+Trial of the Wizengamot
+loyalty:  => X
+
+Letters from No One
+loyalty:  => X
+
+Permission to Visit Hogsmeade
+loyalty:  => 5
+
+Mystery of the Golden Egg
+loyalty:  => 4
+
+
+VERSION 2 CHANGELOG
 ====================
 
 
