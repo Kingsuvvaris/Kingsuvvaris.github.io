@@ -1,0 +1,1349 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Delphini Diggory, Dark Heir",
+			"rarity": "special",
+			"mana_cost": "{U}{B}{R}{G}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/0.png"
+			}
+		},
+		{
+			"name": "Dark Wizard Robes",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/1.png"
+			}
+		},
+		{
+			"name": "Basilisk Horn Wand",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/2.png"
+			}
+		},
+		{
+			"name": "Slytherin Robes",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/3.png"
+			}
+		},
+		{
+			"name": "Veela Hair Wand",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/4.png"
+			}
+		},
+		{
+			"name": "Unbreakable Vow",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}{R}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/5.png"
+			}
+		},
+		{
+			"name": "Protego Diabolica",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}{B}{B}",
+			"type": "Sorcery — Incantation",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/6.png"
+			}
+		},
+		{
+			"name": "Imperio",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}{U}{B}{B}{B}",
+			"type": "Sorcery — Incantation",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/7.png"
+			}
+		},
+		{
+			"name": "Fenrir Grayback",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Legendary Creature — Wizard Werewolf",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/8.png"
+			}
+		},
+		{
+			"name": "Dementor of Azkaban",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/9.png"
+			}
+		},
+		{
+			"name": "Gellert Grindelwald, The first Dark Lord",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}{R}{G}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/10.png"
+			}
+		},
+		{
+			"name": "Herpo the Foul",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}{R}{G}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/11.png"
+			}
+		},
+		{
+			"name": "Ekrizdis, Founder of Azkaban",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}{B}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/12.png"
+			}
+		},
+		{
+			"name": "Salazar Slytherin, Hogwarts Founder",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/13.png"
+			}
+		},
+		{
+			"name": "Raczidian, Keeper of Dementors",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/14.png"
+			}
+		},
+		{
+			"name": "Emeric the Evil",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/15.png"
+			}
+		},
+		{
+			"name": "Merwyn the Malicious",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{R}{R}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/16.png"
+			}
+		},
+		{
+			"name": "Barnabas Deverill, Dueling Warlock",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/17.png"
+			}
+		},
+		{
+			"name": "Loxias, Master of the Deathstick",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/18.png"
+			}
+		},
+		{
+			"name": "Catecombe Relic",
+			"rarity": "mythic",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/19.png"
+			}
+		},
+		{
+			"name": "Black Family Ring",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/20.png"
+			}
+		},
+		{
+			"name": "Horcrux Creation Ritual",
+			"rarity": "mythic",
+			"mana_cost": "{U}{B}{R}{G}",
+			"type": "Enchantment — Incantation.",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/21.png"
+			}
+		},
+		{
+			"name": "Ancient Magic Portkey",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/22.png"
+			}
+		},
+		{
+			"name": "Blood Pact Trothe",
+			"rarity": "mythic",
+			"mana_cost": "{8}",
+			"type": "Legendary Artifact",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/23.png"
+			}
+		},
+		{
+			"name": "Scrounge for Forbidden Magic",
+			"rarity": "rare",
+			"mana_cost": "{2/U}{BRG}",
+			"type": "Sorcery",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/24.png"
+			}
+		},
+		{
+			"name": "The Dark Mark",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/25.png"
+			}
+		},
+		{
+			"name": "Cup of Helga Hufflepuff",
+			"rarity": "rare",
+			"mana_cost": "{X}{X}{X}",
+			"type": "Legendary Artifact — Horcrux",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/26.png"
+			}
+		},
+		{
+			"name": "Lost Diadem of Rowena Ravenclaw",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact — Horcrux",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/27.png"
+			}
+		},
+		{
+			"name": "Reservoir of Ancient Magic",
+			"rarity": "mythic",
+			"mana_cost": "{2/U}{2/G}",
+			"type": "Legendary Artifact",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/28.png"
+			}
+		},
+		{
+			"name": "Swarm of Grindylows",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Merfolk Beast",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/29.png"
+			}
+		},
+		{
+			"name": "Crucio",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{B}{R}",
+			"type": "Sorcery — Incantation",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/30.png"
+			}
+		},
+		{
+			"name": "Lucius Malfoy",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/31.png"
+			}
+		},
+		{
+			"name": "Locket of Salazar Slytherin",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Artifact — Horcrux",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/32.png"
+			}
+		},
+		{
+			"name": "Avada Kedavra",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}{R}",
+			"type": "Sorcery — Incantation",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/33.png"
+			}
+		},
+		{
+			"name": "Durmstrang Prefect",
+			"rarity": "common",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/34.png"
+			}
+		},
+		{
+			"name": "Slytherin Prefect",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/35.png"
+			}
+		},
+		{
+			"name": "Forgetfulness Potion",
+			"rarity": "rare",
+			"mana_cost": "{2/U}{2/U}",
+			"type": "Artifact — Potion",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/36.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/37.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain Forest",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/38.png"
+			}
+		},
+		{
+			"name": "Minisrtry Court Room 10",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/39.png"
+			}
+		},
+		{
+			"name": "Azkaban Prison Fortress",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Land — Lair",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/40.png"
+			}
+		},
+		{
+			"name": "Borgen and Burkes",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Swamp",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/41.png"
+			}
+		},
+		{
+			"name": "Chamber of Secrets",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Swamp Forest",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/42.png"
+			}
+		},
+		{
+			"name": "Department of Mysteries",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Swamp Island",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/43.png"
+			}
+		},
+		{
+			"name": "Divination Classroom",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/44.png"
+			}
+		},
+		{
+			"name": "Dogweed and Deathcap",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/45.png"
+			}
+		},
+		{
+			"name": "Dueling Arena",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/46.png"
+			}
+		},
+		{
+			"name": "Dungeon Depths",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/47.png"
+			}
+		},
+		{
+			"name": "Durmstrang Ship",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/48.png"
+			}
+		},
+		{
+			"name": "Erkstag Prison",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/49.png"
+			}
+		},
+		{
+			"name": "Flourish and Blotts",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest Island",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/50.png"
+			}
+		},
+		{
+			"name": "Game Keeper's Hut",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/51.png"
+			}
+		},
+		{
+			"name": "Gand Stair Case",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/52.png"
+			}
+		},
+		{
+			"name": "Hidden Torturer's Cavern",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Swamp Mountain",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/53.png"
+			}
+		},
+		{
+			"name": "Pureblood Manner",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/54.png"
+			}
+		},
+		{
+			"name": "Quidditch World Cup Camp",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/55.png"
+			}
+		},
+		{
+			"name": "Shreiking Shack",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/56.png"
+			}
+		},
+		{
+			"name": "Triwizard Maze",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/57.png"
+			}
+		},
+		{
+			"name": "Zonko's Joke Shop",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Mountain",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/58.png"
+			}
+		},
+		{
+			"name": "Island 1",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/59.png"
+			}
+		},
+		{
+			"name": "Island 4",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/60.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/61.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/62.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/63.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/64.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/65.png"
+			}
+		},
+		{
+			"name": "Drink of Dispair",
+			"rarity": "mythic",
+			"mana_cost": "{2/B}{2/B}{2/B}{2/B}",
+			"type": "Artifact — Potion",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/66.png"
+			}
+		},
+		{
+			"name": "Pius Thicknesse, Dark Lord Puppet",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/67.png"
+			}
+		},
+		{
+			"name": "Walden Macnair, Dark Executioner",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{B}{R}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/68.png"
+			}
+		},
+		{
+			"name": "Tradgey at the World Cup",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}{R}",
+			"type": "Battle — Siege",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/69.png"
+			}
+		},
+		{
+			"name": "Little Hanglton Graveyard",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/70.png"
+			}
+		},
+		{
+			"name": "Godric's Hollow",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/71.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest Island",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/72.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/73.png"
+			}
+		},
+		{
+			"name": "Chizpurfle Parasite",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Crab Beast Reagent",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/74.png"
+			}
+		},
+		{
+			"name": "Death Eater",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/75.png"
+			}
+		},
+		{
+			"name": "Inferi Hoard",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Zombie Beast",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/76.png"
+			}
+		},
+		{
+			"name": "Lethifold",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Spirit Beast",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/77.png"
+			}
+		},
+		{
+			"name": "Return of the Dark Lord",
+			"rarity": "mythic",
+			"mana_cost": "{X}{X}{B}{B}{B}",
+			"type": "Sorcery — Lesson",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/78.png"
+			}
+		},
+		{
+			"name": "Underground Potioneer",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/79.png"
+			}
+		},
+		{
+			"name": "Pestis Incendium, Fiendfyre",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery — Incantation",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/80.png"
+			}
+		},
+		{
+			"name": "Acromantula",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}{G}",
+			"type": "Creature — Spider Beast",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/81.png"
+			}
+		},
+		{
+			"name": "Chase the Hidden Traitor",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}",
+			"type": "Battle — Siege",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/82.png"
+			}
+		},
+		{
+			"name": "Bellatrix Lestrange, Enthralled Death Eater",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}{R}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/83.png"
+			}
+		},
+		{
+			"name": "Beneath Hogwarts Plumbing",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}{U}",
+			"type": "Battle — Siege",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/84.png"
+			}
+		},
+		{
+			"name": "Morgan Le Fey",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}{B}{R}",
+			"type": "Legendary Creature — Animagus Wizard",
+			"collector_number": "39",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/85_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/85_front.png"
+			}
+		},
+		{
+			"name": "Gaunt Family Ring",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact — Horcrux",
+			"collector_number": "62",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/87_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/87_front.png"
+			}
+		},
+		{
+			"name": "Tom Riddles Diary",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact — Equipment Horcrux",
+			"collector_number": "65",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/89_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/89_front.png"
+			}
+		},
+		{
+			"name": "Dementor of Azkaban",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/91.png"
+			}
+		},
+		{
+			"name": "Snake",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Snake",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/92.png"
+			}
+		},
+		{
+			"name": "Tom Riddle, Heir of Slytherin",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}{R}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "45",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/93_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/93_front.png"
+			}
+		},
+		{
+			"name": "Dementor",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/96.png"
+			}
+		},
+		{
+			"name": "Swarm of Grindylows",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Merfolk Beast",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/97.png"
+			}
+		},
+		{
+			"name": "Death Eater",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Human Wizard",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/98.png"
+			}
+		},
+		{
+			"name": "Inferi Hoard",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Zombie Beast",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/99.png"
+			}
+		},
+		{
+			"name": "Student",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Human Wizard",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/100.png"
+			}
+		},
+		{
+			"name": "Skeleton",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Skeleton",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/101.png"
+			}
+		},
+		{
+			"name": "Clue",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/102.png"
+			}
+		},
+		{
+			"name": "Spider",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Spider",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/103.png"
+			}
+		},
+		{
+			"name": "Elemental",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Elemental",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/104.png"
+			}
+		},
+		{
+			"name": "Zombie",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Zombie",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/105.png"
+			}
+		},
+		{
+			"name": "Grub",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Grub",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/106.png"
+			}
+		},
+		{
+			"name": "Snatcher",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Werewolf",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/107.png"
+			}
+		},
+		{
+			"name": "Nagini, Maladictus Performer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Creature — Human Beast",
+			"collector_number": "40",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/108_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/108_front.png"
+			}
+		},
+		{
+			"name": "Food",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/110.png"
+			}
+		},
+		{
+			"name": "Potion",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Potion",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/111.png"
+			}
+		},
+		{
+			"name": "Intro to the Dark Arts",
+			"rarity": "common",
+			"mana_cost": "{1}{U/B}{U/B}",
+			"type": "Sorcery — Lesson",
+			"collector_number": "50",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/116_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/116_front.png"
+			}
+		},
+		{
+			"name": "Melding of Minds",
+			"rarity": "rare",
+			"mana_cost": "{X}{X}{U}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "3",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/117_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/117_front.png"
+			}
+		},
+		{
+			"name": "Quirinus Quirrell, Traitorous Professor",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}{U/R}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "51",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/118_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/118_front.png"
+			}
+		},
+		{
+			"name": "Scabbers, Frightend Coward",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Rat",
+			"collector_number": "18",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/120_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/120_front.png"
+			}
+		},
+		{
+			"name": "Trial of the Goblet of Fire",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "21",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/122_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/122_front.png"
+			}
+		},
+		{
+			"name": "Detention with the Gamekeeper",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "27",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/123_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/123_front.png"
+			}
+		},
+		{
+			"name": "Journey through the Vaults",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "35",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/124_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/124_front.png"
+			}
+		},
+		{
+			"name": "Traverse the Secret Passage",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "47",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/125_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/125_front.png"
+			}
+		},
+		{
+			"name": "Reawakining of the Dark Mark",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "42",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/126_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/126_front.png"
+			}
+		},
+		{
+			"name": "Basic Cast",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant — Incantation",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/129.png"
+			}
+		}
+	]
+
+[rare(1)]
+	5 Unbreakable Vow
+	5 Protego Diabolica
+	5 Imperio
+	5 Gellert Grindelwald, The first Dark Lord
+	5 Ekrizdis, Founder of Azkaban
+	5 Salazar Slytherin, Hogwarts Founder
+	5 Emeric the Evil
+	5 Merwyn the Malicious
+	5 Barnabas Deverill, Dueling Warlock
+	5 Catecombe Relic
+	5 Horcrux Creation Ritual
+	5 Blood Pact Trothe
+	5 Scrounge for Forbidden Magic
+	5 Cup of Helga Hufflepuff
+	5 Lost Diadem of Rowena Ravenclaw
+	5 Reservoir of Ancient Magic
+	5 Crucio
+	5 Lucius Malfoy
+	5 Locket of Salazar Slytherin
+	5 Avada Kedavra
+	5 Forgetfulness Potion
+	5 
+	5 
+	5 Minisrtry Court Room 10
+	5 Azkaban Prison Fortress
+	5 Borgen and Burkes
+	5 Chamber of Secrets
+	5 Divination Classroom
+	5 Dogweed and Deathcap
+	5 Dueling Arena
+	5 Erkstag Prison
+	5 Flourish and Blotts
+	5 Game Keeper's Hut
+	5 Hidden Torturer's Cavern
+	5 Quidditch World Cup Camp
+	5 Shreiking Shack
+	5 Triwizard Maze
+	5 Zonko's Joke Shop
+	5 Drink of Dispair
+	5 Pius Thicknesse, Dark Lord Puppet
+	5 Tradgey at the World Cup
+	5 Little Hanglton Graveyard
+	5 Godric's Hollow
+	5 
+	5 Lethifold
+	5 Return of the Dark Lord
+	5 Bellatrix Lestrange, Enthralled Death Eater
+	5 Beneath Hogwarts Plumbing
+	5 Morgan Le Fey
+	5 Gaunt Family Ring
+	5 Tom Riddles Diary
+	5 Tom Riddle, Heir of Slytherin
+	5 Melding of Minds
+	5 Trial of the Goblet of Fire
+	5 Detention with the Gamekeeper
+	5 Journey through the Vaults
+	5 Traverse the Secret Passage
+	5 Reawakining of the Dark Mark
+[uncommon(3)]
+	5 Fenrir Grayback
+	5 Dementor of Azkaban
+	5 Herpo the Foul
+	5 Raczidian, Keeper of Dementors
+	5 Ancient Magic Portkey
+	5 Slytherin Prefect
+	5 Department of Mysteries
+	5 Dungeon Depths
+	5 Durmstrang Ship
+	5 Pureblood Manner
+	5 Nagini, Maladictus Performer
+	5 Quirinus Quirrell, Traitorous Professor
+	5 Scabbers, Frightend Coward
+	5 Basic Cast
+[common(10)]
+	5 Dark Wizard Robes
+	5 Basilisk Horn Wand
+	5 Slytherin Robes
+	5 Veela Hair Wand
+	5 Loxias, Master of the Deathstick
+	5 Black Family Ring
+	5 The Dark Mark
+	5 Swarm of Grindylows
+	5 Durmstrang Prefect
+	5 Gand Stair Case
+	5 Walden Macnair, Dark Executioner
+	5 Intro to the Dark Arts

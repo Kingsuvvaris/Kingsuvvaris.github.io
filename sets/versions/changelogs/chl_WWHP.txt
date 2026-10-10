@@ -762,6 +762,2298 @@ II — This saga has “Whenever a creature explores, target creature can't bloc
 III — Create a tapped Treasure token for each +1/+1 counter among creatures you control. Then exile this Saga, then return it to the battlefield transformed under your control.
 
 
+VERSION 2 CHANGELOG
+====================
+
+Crucio added.
+Imperio added.
+Fenrir Grayback added.
+Severus Snape, Head of Slytherin House added.
+Inferi Protector added.
+Lumos added.
+Venomous Tentacula added.
+Devil's Snare added.
+Garden Gnome added.
+Dementor of Azkaban added.
+Cup of Helga Hufflepuff added.
+Lost Diadem of Rowena Ravenclaw added.
+Inferi Hoard added.
+Invading Mountain Troll added.
+Forest Giant added.
+Puffskein added.
+Kneazle added.
+Confringo added.
+Bombarda added.
+Accio added.
+Mandrake Root added.
+Quidditch Broom added.
+Demiguise added.
+Sectumsempera added.
+Crab & Goyle added.
+Cornish Pixie added.
+Hungarian Horntail added.
+Levicorpus added.
+Langlock added.
+Winery Cellar added.
+Dungeon Depths added.
+Cozey Hearth added.
+Pureblood Manner added.
+Engorgio added.
+Reducio added.
+Slytherin Prefect added.
+Ravenclaw Prefect added.
+Durmstrang Prefect added.
+Luna Lovegood, Enthused Researcher added.
+Draco Malfoy added.
+Hermione Granger, Brightest Witch of Her Age added.
+Nymphadora Tonks, Metamorphmagus Auror added.
+Blast-Ended Skrewt added.
+Obscurial Parasite added.
+Amazonian Fire Salamander Pit added.
+Oppugno added.
+Reducto added.
+Bowtruckle added.
+Whomping Willow added.
+Self-Stiring Pewter Cauldron added.
+Newt Scamander, First Magizoologist added.
+Pomona Sprout, Head of Hufflepuff added.
+Cedric Diggory, Fiercely Loyal Friend added.
+Veela Hair Wand added.
+Phoenix Feather Wand added.
+Dragon Heart String Wand added.
+Basilisk Horn Wand added.
+Hufflepuff Prefect added.
+Bubotuber added.
+Broken Wand added.
+Serpensortia added.
+Disillusionment Charm added.
+Vera Verto added.
+Melofors added.
+Erkling added.
+Herbivicous added.
+Death Eater added.
+Dobby, the House Elf added.
+Cornelius Fudge, Misguided Minister added.
+Thestral added.
+Zacharias Smith, Jealous Friend added.
+Wizard-Cracker Imp added.
+Dungeon Red Cap Aggressor added.
+Doxy added.
+Point Me added.
+Vermiculus added.
+Orchideous added.
+Helena, Ghost of Ravenclaw added.
+Horace Slughorn, Old Potions Master added.
+Vanishing Cabinet added.
+Department of Mysteries added.
+Legilimens added.
+Skirmish in Underground Chambers added.
+Peeves, Poltergeist Trickster added.
+Return of the Dark Lord added.
+Portkey to Little Hangleton Graveyard added.
+Flame Infused Armour added.
+Tragedy at the World Cup added.
+Journey Beneath Gringotts Bank added.
+Nearly Headless Nick, Ghost of Gryffindor added.
+Rennervate added.
+Bloody Barron, Ghost of Slytherin added.
+Chase the Hidden Traitor added.
+Ronald Weasley, House King added.
+Hidden Boggart added.
+Rictusempra added.
+Inflatus added.
+Giant Purple Toad added.
+Screaming Howler added.
+Densaugeo added.
+Theseus Scamander, Loyal Auror added.
+Bundimun added.
+Surgito added.
+Corban Yaxley, Registered Interrogator added.
+Capacious Extremis added.
+Priori Incantatem added.
+Maxima Perfect Cast added.
+Three Headed Guard Dog added.
+Furnunculus added.
+Brain Eater added.
+Swarm of Grindylows added.
+Red Cap Tower Guard added.
+Narcissa Malfoy, Devoted Mother added.
+Fanged Frisbee added.
+Dark Wizard Robes added.
+Slytherin Robes added.
+Hufflepuff Robes added.
+Protego Diabolica added.
+Piertotum Locomotor added.
+Portus added.
+Beneath Hogwarts Plumbing added.
+Sea Kelpie added.
+Cho Chang, Ravenclaw Seeker added.
+Erumpent Horn added.
+The Grim added.
+Black Lake Merperson added.
+Confundus added.
+Finite Incantatem added.
+Remembrall added.
+Standard Book of Spells added.
+Dragon Hide Gloves added.
+Follow the Spiders added.
+Snatcher Ambush added.
+The British Prime Minister added.
+Frank Bryce, Riddle's Grounds Keeper added.
+The Dursleys, Antimagic Enthusiasts added.
+Avifors added.
+Locomotor Mortis added.
+Volamucus added.
+Animated Torch added.
+Gringotts Banking Goblin added.
+Auror Initiate added.
+Auror Scout added.
+Auror Tracker added.
+Battle of Hogwarts added.
+Cautious Hipogriff added.
+Episkey added.
+The Fat Friar, Ghost of Hufflepuff added.
+Fianto Duri added.
+Friendly Unicorn added.
+International Magical Cooperation added.
+Kitchen House-Elf added.
+Magicus Extremos added.
+Ministry Representative added.
+Petrificus Totalus added.
+Protego added.
+Reparo added.
+Sybill Trelawney, Unreliable Seer added.
+Trial of the Wizengamot added.
+The Wand Chooses the Wizard added.
+Wingardium Leviosa added.
+Wondering Hinkypunk added.
+Dragon Hatchling added.
+Walden Macnair, Dark Executioner added.
+Diagon Alley Shopkeeper added.
+Enchanted Field Guide added.
+Marietta Edgecomb, Ministry Sneak added.
+Potioneer Duelist added.
+Apothecary Shopkeeper added.
+Traveling Potioneer added.
+The Sorting Hat added.
+Viktor Krum, Durmstrang Champion added.
+Chizpurfle Parasite added.
+Underground Potioneer added.
+Dungbomb added.
+Edurus Potion added.
+Girding Potion added.
+Focus Potion added.
+Forgetfulness Potion added.
+Invisibility Potion added.
+Sleeping Potion added.
+Drink of Despair added.
+Drought of Living Death added.
+Veritaserum added.
+Weakness Potion added.
+Amortentia, Love Potion added.
+Existmulo Maxima Potion added.
+Exploding Potion added.
+Potion Mishap added.
+Thunder Brew Potion added.
+Antidote to Poisons added.
+Felix Felicis, Liquid Luck added.
+Mandrake Restorative Draught added.
+Wiggenweld Potion added.
+Potion Storage Cabinet added.
+Aging Potion added.
+Elixir of Life added.
+Gilleyweed added.
+Grand Pepperup Potion added.
+Hate Potion added.
+Polyjuice Potion added.
+Stink Pellet added.
+Whit-Sharpening Potion added.
+Wolfsbane Potion added.
+Hogsmeade Shopkeeper added.
+Knockturn Alley Potioneer added.
+Corrupted Potioneer added.
+Durmstrang Potioneer added.
+Student Potioneer added.
+Aparecium added.
+Depulso added.
+Descendo added.
+Evanesco added.
+Flipendo added.
+Glacius added.
+Moaning Myrtle added.
+Repello Inimicum added.
+Zou Wu Beast added.
+Black Lake Giant Squid added.
+Desert Thunderbird added.
+Diricawl added.
+Fwooper Bird added.
+Gilderoy Lockhart, Oblivious Fraud added.
+Jobberknoll added.
+Marcus Flint, Slytherin Quidditch Captain added.
+Murtlap added.
+Greedy Niffler added.
+Obliviate added.
+Pius Thicknesse, Dark Lord Puppet added.
+Blaize Zabini, Entitled Beneficiary added.
+Colloshoo added.
+Family Attic Ghoul added.
+Flagrante added.
+Lethifold added.
+Matagot Familiar added.
+Snufflifores added.
+Swooping Evil added.
+Withering Curse of the Wearer added.
+Carpe Retractem added.
+Chinese Fireball added.
+Common Welsh Green added.
+Diffindo added.
+Draconifors added.
+Geminio Curse added.
+The Patil Twins, Padma and Parvati added.
+Skiving Snack Boxes added.
+Swedish Shortsnout added.
+Cauldron Cake added.
+Chinese Chomping Cabbage added.
+Chocolate Frog added.
+Graphorn added.
+Greatspined Dugbog added.
+Insectoid Manticore Mother added.
+Justin Flinchfletchly, Wandering Student added.
+Nundu Leopard added.
+Pansi Parkinson, Combatant Instigator added.
+Pumpkin Pasty added.
+Skurge added.
+Steeler Snail added.
+Stoneback Dugbog added.
+Vampyr Mosp added.
+Bertie Botts Every Flavor Beans added.
+Fleur Delacour, Beauxbatons Champion added.
+Fred and George Weasley, Mischievous Twins added.
+Igor Karkaroff, Durmstrang Headmaster added.
+Neville Longbottom, Courageous Friend added.
+Fire Crab added.
+Letters from No One added.
+Permission to Visit Hogsmeade added.
+Mystery of the Golden Egg added.
+Locket of Salazar Slytherin added.
+Pestis Incendium, Fiendfyre added.
+Acromantula added.
+Avada Kedavra added.
+Bellatrix Lestrange, Enthralled Death Eater added.
+Lucius Malfoy, Self-Served Loyalist added.
+Dolores Umbridge, Lawfully Maddened Official added.
+Magizoologist Trainee added.
+Novice Herbologist added.
+Charms Adept added.
+First-Year Ravenclaw added.
+First-Year Gryffindor added.
+First-Year Slytherin added.
+First-Year Hufflepuff added.
+First-Week Snatcher added.
+The Carrow Siblings added.
+Non-Verbal Cast added.
+Burned-Out Fifth-Year added.
+Aspiring Dueling Students added.
+Caught Out of Bed added.
+Merlin's Trial added.
+Join Us or Die! added.
+Minister's Censorship added.
+Madam Hooch, Quidditch Referee added.
+Ministry Spy added.
+Spot Ministry Raid added.
+Agustus Rookwood, Unspeakable Spy added.
+Tom Riddles Diary added.
+Nagini, Maladictus Performer added.
+Harry Potter, The Boy Who Lived added.
+Gaunt Family Ring added.
+Harry Potter the Gathering Commander Decks added.
+Rita Skeeter, Gossip Reporter added.
+Secrets of the Dark Lord added.
+Writing on the Wall added.
+Mrs Norris added.
+Alaster Mad-Eye Moody added.
+Ordinary Wizarding Level Examinations added.
+Quidditch Match added.
+The Monster Book of Monsters added.
+Society for the Promotion of Elfish Welfare added.
+WWHP Archetypes 2; added.
+Folio Magi added.
+Melding of Minds added.
+Nastily Exhausting Wizarding Tests added.
+Quirinus Quirrell, Traitorous Professor added.
+Scabbers, Frightened Coward added.
+Tom Riddle, Prodigal Orphan added.
+Intro to Defence Against the Dark Arts added.
+Intro to Transfiguration added.
+Intro to the Dark Arts added.
+Intro to Potions added.
+Intro to Care of Magical Creatures added.
+Intro to History of Magic added.
+Intro to Herbology added.
+Intro to Charms added.
+Intro to Divination added.
+Intro to Alchemy added.
+WWHP Archetypes 1; added.
+Bird Token WWHP; added.
+Ministry Tribunal Token WWHP; added.
+OWL Token WWHP; added.
+Student Token WWHP; added.
+Bubotuber Token WWHP; added.
+Book Token WWHP; added.
+Cornish Pixie Token WWHP; added.
+Doxy Token WWHP; added.
+Swarm of Grindylows Token WWHP; added.
+Death Eater Token WWHP; added.
+Inferi Hoard Token WWHP; added.
+Matagot Familiar Token WWHP; added.
+Rat Token WWHP; added.
+Skeleton Token WWHP; added.
+Snake Token WWHP; added.
+Thestral Token WWHP; added.
+Wizard-Cracker Imp Token WWHP; added.
+Blast Ended Screwt Token WWHP; added.
+Dragon Token WWHP; added.
+Elemental Token WWHP; added.
+Red Cap Tower Guard Token WWHP; added.
+Salamander Beast Token WWHP; added.
+Bowtruckle Token WWHP; added.
+Chinese Chomping Cabbage Token WWHP; added.
+Fang Token WWHP; added.
+Insect Manticore Token WWHP; added.
+Mallowsweet Token WWHP; added.
+Puffskein Token WWHP; added.
+Spider Token WWHP; added.
+Steeler Snail Token WWHP; added.
+Stoneback Dugbog Token WWHP; added.
+Vampyr Mosp Token WWHP; added.
+Worm Token WWHP; added.
+Snatcher Token WWHP; added.
+Animated Torch Token WWHP; added.
+Clue Token WWHP; added.
+Food Token WWHP; added.
+Golem Token WWHP; added.
+Map Token WWHP; added.
+Portkey Token WWHP; added.
+Potion Token WWHP; added.
+Treasure Token WWHP; added.
+Wizard-Cracker Token WWHP; added.
+Copy Token WWHP; added.
+Black Lake Merperson Token WWHP added.
+Proffesor Binns Token WWHP; added.
+Rabbit added.
+Dementor of Azkaban added.
+Giant added.
+Dolohov's Curse added.
+Tale of the Three Brothers added.
+Escape of the Azkaban Prisoner added.
+Goblet of Fire Trials added.
+Detention with the Gamekeeper added.
+Welcome to the Wizarding World added.
+Lessons with the Headmaster added.
+Reawakening of the Dark Mark added.
+Goblin added.
+Vampire added.
+Centaur added.
+Wizard added.
+Spirit Ambush added.
+Spirit added.
+
+Alaster Moody, Keeper of the Phoenix Order removed.
+Godrick Gryffindor, Hogwarts Founder removed.
+Grimauld Place, House of Black removed.
+Discretion of the Order removed.
+Reservoir of Ancient Magic removed.
+Nymphadora Lupin, Childish Auror removed.
+Severus Snape, Triple Agent Spy removed.
+Aberforth Dumbledore, Reclusive Guardian removed.
+Fred and George Weasley, Mischevious Twins removed.
+Neville Longbottem, Courageous Friend removed.
+Harry Potter, Vanquisher of the Dark Lord removed.
+Hermione Granger, Rebellious Student removed.
+Luna Lovegood, Enthused Reasearcher removed.
+Black Family Ring removed.
+Dumbledore's Army Coin removed.
+Pheonix Feather Wand removed.
+Fleur and Bill Weasly removed.
+Adorned Halls removed.
+Buckbeak, Condemed Protector removed.
+Hogwarts Headmaster Pensieve removed.
+Pierototum Locomotor removed.
+Flame Infused Armor removed.
+Gand Stair Case removed.
+Ron Weasly, Enraged Protector removed.
+Nicholas Flemel, Renowed Alchemist removed.
+Elixer of Life removed.
+Patil Twins, Padma and Parvati removed.
+Felix Felicis removed.
+Viaduct Courtyard removed.
+Xenophilius Lovegood, Eccentric Quibbler Editor removed.
+Ancient Magic Portkey removed.
+Godric's Hollow removed.
+Game Keeper's Hut removed.
+Flourish and Blotts removed.
+Divination Classroom removed.
+Dueling Arena removed.
+Durmstrang Ship removed.
+Zonko's Joke Shop removed.
+Boat House removed.
+Quidditch World Cup Camp removed.
+Triwizard Maze removed.
+DADA Classroom removed.
+Trophy Room removed.
+Herbology Greenhouse removed.
+Scotish Highlands removed.
+Owelry removed.
+Headmaster's Office removed.
+Astronomy Tower removed.
+Ancient Magic Traces removed.
+
+Expelliarmus
+rules_text: Return target noncreature artifact to its owner's hand. Expelliarmus deals damage equal to the artifact's mana value to its owner.
+Bewitchment Storm [i](When you cast this spell, copy it for each bewitchment spell cast before it this turn. You may choose new targets for the copies. Auras, Curses, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i] => Return target noncreature artifact to its owner's hand. Expelliarmus deals damage equal to the artifact's mana value to its owner.
+Bewitchment storm [i](When you cast this spell, copy it for each bewitchment spell cast before it this turn. You may choose new targets for the copies. Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i]
+
+Filius Flitwick, Head of Ravenclaw House
+rules_text: Scholarly [i](Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this ability has resolved this turn, this creature becomes studious if it isn't already.)[/i]
+As long as Filius Flitwick is studious, Incantation spells you cast cost {1}{RWU} less to cast and during your upkeep, you may reveal your hand. If you do, shuffle each non-Incantation card revealed this way into your library. Then you may search your library for up to that many Incantation cards, reveal them, put them into your hand, then shuffle.
+Whenever you cast your first Incantation each of your turns, Learn. => Scholarly
+At the beginning of your upkeep, if Filius Flitwick is studious, you may reveal your hand. If you do, shuffle each non-Incantation card revealed this way. Then you may reveal cards from the top of your library until you reveal that many Incantation cards, put them into your hand, then shuffle all other cards revealed this way.
+Whenever you cast your first Incantation on each of your turns, learn.
+
+Sword of Godrick Gryffindor
+rules_text: Equipped creature gets +2/+2.
+As long as a creature with deathtouch is blocking, equipped creature has deathtouch. The same is true for flying, haste, first-strike, double-strike, indestructible, trample, lifelink, hexproof.
+Equip {R}{G}{W}
+Equip courageous creature {2} => Equipped creature gets +2/+2.
+As long as a creature with deathtouch is blocking, equipped creature has deathtouch. The same is true for flying, first strike, double strike, indestructible, trample, lifelink, hexproof, ward, and menace.
+Equip {R}{G}{W}
+Equip courageous creature {2}
+artist: Pauline Mooney => Atomhawk
+
+Incendio
+rules_text: Incendio deals 3 damage to any target.
+Bewitchment Storm [i](When you cast this spell, copy it for each bewitchment spell cast before it this turn. You may choose new targets for the copies. Auras, Curses, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i] => Incendio deals 3 damage to any target.
+Bewitchment storm [i](When you cast this spell, copy it for each bewitchment spell cast before it this turn. You may choose new targets for the copies. Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i]
+
+Arresto Momento
+rules_text: Until end of turn, creatures can't attack or block unless their controller pays {X} for each of those creatures, where X is equal to the number of other Incantations you've cast this turn plus one. [i](Attacks are declared at the start of the declare attackers step. The value of X can only be changed before this step.)[/i] => Until end of turn, creatures can't attack or block unless their controller pays {X} for each of those creatures, where X is equal to the number of other bewitchments you've cast this turn plus one. [i](Attacks are declared at the start of the declare attackers step. The value of X can only be changed before this step.)[/i] [i](Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i]
+
+Castle Heights
+rules_text: This land enters tapped.
+When this Land enters, add {U}.
+{T}: Add {R} or {W}. => This land enters tapped.
+When this land enters, add {U}.
+{T}: Add {R} or {W}.
+
+Lonesome Phoenix
+cost: {3}{R}{W}{W} => {R}{R}{W}{W}
+rules_text: Flash
+Flying, haste
+{W}{W}: Target creature gains flying and haste until end of turn.
+{W}, {T}: Regenerate another target creature
+{R}{W}: Regenerate Lonesome Phoenix. Put a shield counter on another target creature you control. => Flash
+Flying, haste, first-strike
+{W}: Regenerate another target creature and put a shield counter on it.
+{2R}: Regenerate Lonesome Phoenix.
+flavor_text: [i][/i] => [i]Harry Potter: “Professor. Your bird — I couldn't do anything — he just caught fire —“
+Albus Dumbledore: “About time, too. He's been looking dreadful for days; I've been telling him to get a move on.”
+— After Fawkes burst into flames in Dumbledore's office.[/i]
+
+Unicorn Hair Wand
+type: Artifact => Artifact — Wand
+rules_text: {T}: Put a charge counter on Unicorn Hair Wand.
+{T}, Remove a charge counter from Unicorn Hair Wand: Add {U}, {R}, or {W}.
+{T}, Remove two charge counters from Unicorn Hair Wand: Add {U}{R} or {R}{W}. => {T}: Put a charge counter on this artifact.
+{T}, Remove a charge counter from this artifact: Add {U}, {R}, or {W}.
+{T}, Remove two charge counters from this artifact: Add {U}{R} or {R}{W}.
+artist: https://www.deviantart.com/aleksandvagne => aleksandvagne
+
+Gryffindor Prefect
+
+Explore the Restricted Section
+loyalty:  => 5
+
+Flight of the Seven Potters
+cost: {2}{RG}{W}{U} => {2}{R}{G}{W}
+rules_text: [i](As a Siege enters, choose an opponent to protect it. You and others can attack it. When it is defeated, exile it, then cast it transformed.)[/i]
+When this battle enters, choose target creature controlled by the player protecting this battle.
+Whenever damage is dealt to this battle, create a token copy of the chosen creature. Sacrifice that creature when this battle leaves the battlefield. => [i](As a Siege enters, choose an opponent to protect it. You and others can attack it. When it is defeated, exile it, then cast it transformed.)[/i]
+When this Siege enters, choose target creature controlled by the player protecting this battle.
+Whenever damage is dealt to this Siege, create a non-legendary token copy of the chosen creature. Sacrifice that creature when this Siege leaves the battlefield.
+loyalty:  => 5
+
+Ravenclaw Robes
+rules_text: Whenever you cast a Incantation spell, equipped creature gets +1/+1 until end of turn.
+Equip {3}
+Equip Wizard {RWU} => Equipped creature gets +1/+0 for each card in your hand.
+As long as equipped creature isn't studious, the first time a player would draw a card each turn, you may draw a card.
+Equip {5}
+Equip Wizard {U}{R}{W}
+artist: https://www.deviantart.com/jingwensun => jingwensun
+
+Delivery Owl
+rules_text: Flying
+At the beginning of your upkeep, you may pay {WU}{WU}. If you do, reveal the top card of your library. If a Incantation card is revealed this way, draw two cards. Otherwise, draw a card. => Flying
+At the beginning of your upkeep, you may pay {U}{U}. If you do, reveal the top card of your library. If a Bewitchment card is revealed this way, draw two cards. Otherwise, draw a card. [i](Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i]
+
+Gryffindor Robes
+rules_text: Equipped creature has gallant 1 [i](Whenever a creature an opponent controls with greater power enters or attacks and that creature isn't courageous, put a +1/+1 counter on that creature and it becomes courageous.)[/i]
+As long as the equipped creature is courageous, during each of your draw steps, draw an additional card for each creature that is courageous.
+Equip {4}
+Equip Wizard {RGW} => Equipped creature has gallant 1. [i](Whenever a creature an opponent controls with greater power enters or attacks and that creature isn't courageous, put a +1/+1 counter on that creature and it becomes courageous.)[/i]
+Whenever equipped creature attacks, put a +1/+1 counter on it. If that creature is courageous, draw a card.
+Equip {5}
+Equip Wizard {R}{G}{W}
+artist: https://www.deviantart.com/push-pulse => push-pulse
+
+Basic Cast
+rules_text: As an additional cost to cast this spell you may pay {1}. If you do, after it resolves return it to your hand instead.
+Basic Cast deals 1 damage to any target.
+Bewitchment storm [i](When you cast this spell, copy it for each bewitchment spell cast before it this turn. You may choose new targets for the copies. Auras, Curses, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i] => As an additional cost to cast this spell you may pay {1}. If you do, after it resolves return it to your hand instead.
+Basic Cast deals 1 damage to any target.
+Bewitchment storm [i](When you cast this spell, copy it for each bewitchment spell cast before it this turn. You may choose new targets for the copies. Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i]
+
+Expecto Patronum
+artist: Nenad Sarac => choodstock
+
+Madam Pomfrey
+cost: {1}{W}{W} => {G}{W}{W}
+rules_text: Lifelink
+Whenever a creature enters or leaves the battlefield, you gain 1 life.
+{T}: Put a stun counter on Madam Pomfrey. Regenerate each creature you control. [i](The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)[/i] => Lifelink, vigilance
+Whenever a creature enters or leaves the battlefield, choose one—
+• You may gain 3 life.
+• Untap Madam Pomfrey.
+{T}, Put a stun counter on Madam Pomfrey: Regenerate each creature you control.
+
+Saint Mungo's Healing Potioneer
+rules_text: {2}, {T}: Create a tapped potion token. [i](It's an artifact token with “{2}, {T}, Sacrifice this Potion: Activate a Recipe ability you control without paying its costs.”)[/i]
+Whenever you sacrifice a Treasure, a beast enters under an opponents control, or an opponent commits a crime against you, create a Potion token. [i](Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)[/i] => {2}, {T}: Create a tapped Potion token. [i](It's an artifact with “{2}, {T}, Sacrifice this token: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)[/i]
+Recipe — {4}{W}: Creatures you control get +1/+1 until end of turn.
+pt: 0/1 => 0/2
+artist: OpenAI. ChatGPT w/DALL.E => Avalanche Software
+
+Stupefy
+rules_text: Stupefy deals 4 damage to target attacking or blocking creature. Tap that creature.
+Bewitchment storm [i](When you cast this spell, copy it for each bewitchment spell cast before it this turn. You may choose new targets for the copies. Auras, Curses, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i] => Stupefy deals 4 damage to target attacking or blocking creature. Tap that creature and put a stun counter on it.
+Bewitchment storm [i](When you cast this spell, copy it for each bewitchment spell cast before it this turn. You may choose new targets for the copies. Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i]
+
+Hedwig, Loyal Protector
+cost: {1}{W}{W} => {RG}{W}
+rules_text: Flying, Gallant 2 [i](Whenever a creature an opponent controls with greater power enters or attacks and this creature isn't courageous, put two +1/+1 counters on this creature and it becomes courageous.)[/i]
+Draw an additional card for each +1/+1 counter on Hedwig during each of your draw steps. => Flying
+Gallant 2 [i](Whenever a creature an opponent controls with greater power enters or attacks and this creature isn't courageous, put two +1/+1 counters on this creature and it becomes courageous.)[/i]
+When Hedwig enters or deals combat damage to a player, draw a card. Then gain 3 life if you control a creature that is courageous.
+pt: 2/3 => 1/1
+artist: SparklingScarletpaw
+47 Watchers
+63 Deviations
+4K Pageviews => SparklingScarletpaw
+
+Fumos
+rules_text: Prevent all damage that would be dealt target creature and/or player this turn.
+Incantation storm [i](When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)[/i] => Prevent all damage that would be dealt to target creature and/or player this turn.
+Bewitchment storm [i](When you cast this spell, copy it for each bewitchment spell cast before it this turn. You may choose new targets for the copies. Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i]
+
+Lapifors
+rules_text: Alteration {1}{G} [i](You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield for {1}{G}.)[/i]
+Search your library for a land card, reveal it, put it onto the battlefield tapped, then shuffle. If this spell was cast from the battlefield, untap that land and create a 1/1 green Rabbit creature token for each Forest you control. => Alteration {1}{G} [i](You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield any time for {1}{G}.)[/i]
+Search your library for a land card, reveal it, put it onto the battlefield tapped, then shuffle. If this spell was cast from the battlefield, untap that land and create a 1/1 green Rabbit creature token for each Forest you control.
+
+Rubeus Hagrid, Keeper of Keys
+rules_text: Gallant 1 [i](Whenever a creature an opponent controls with greater power enters or attacks and this creature isn't courageous, put a +1/+1 counter on this creature and it becomes courageous.)[/i]
+Courageous creatures you control get +0/+2.
+Whenever Rubeus Hagrid becomes courageous, create a Legendary 2/2 {G} Dog creature token named Fang. then choose one—
+• Search your library for a Beast or basic land card, reveal it, put it into your hand, then shuffle.
+• Learn [i](you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)[/i] => Gallant 1 [i](Whenever a creature an opponent controls with greater power enters or attacks and this creature isn't courageous, put a +1/+1 counter on this creature and it becomes courageous.)[/i]
+Courageous creatures you control get +0/+2.
+Whenever Rubeus Hagrid becomes courageous, create a Legendary 2/2 green Dog creature token named Fang. Then choose one—
+• Search your library for a Beast or basic land card, reveal it, put it into your hand, then shuffle.
+• Learn [i](you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)[/i]
+
+Olympe Maxime, Headmistress of Beauxbatons
+type: Legendary Creature — Giant Wizard => Legendary Creature — Giant Wizard Professor
+rules_text: Scholarly [i](Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this ability has resolved this turn, this creature becomes studious if it isn't already.)[/i]
+As long as Olympe Maxime is studious, she has trample, double-strike and whenever she deals combat damage to a player, learn.
+You have no maximum hand size. => Scholarly
+As long as Olympe Maxime is studious, she has trample, double-strike and whenever she deals combat damage to a player, learn.
+You have no maximum hand size.
+
+Ginny Weasley, Underestimated Power
+rules_text: Gallant 4 [i](Whenever a creature an opponent controls with greater power enters or attacks and this creature isn't courageous, put four +1/+1 counters on this creature and it becomes courageous.)[/i]
+As long as Ginny Weasley is courageous, whenever she attacks, you may destroy target artifact or enchantment. If you do, you gain life equal to that permanents converted mana value. => Gallant 1 [i](Whenever a creature an opponent controls with greater power enters or attacks and this creature isn't courageous, put a +1/+1 counter on this creature and it becomes courageous.)[/i]
+Whenever Ginny Weasley deals combat damage to a player, if she's courageous, you may destroy target artifact or enchantment. If a permanent is destroyed this way, you gain life equal to that permanents mana value.
+artist: Emerald Weapon on artstaion => Emerald Weapon
+
+Molly and Arthur Weasley, Protective Parents
+rules_text: Gallant 2 [i](Whenever a creature an opponent controls with greater power enters or attacks and this creature isn't courageous, put two +1/+1 counters on this creature and it becomes courageous.)[/i]
+When Molly and Arthur Weasley become courageous, Molly and Arthur Weasley deals 8 damage to target creature. That creature can't be regenerated and this damage cannot be prevented. => Gallant 4
+Double strike
+When Molly and Arthur Weasley become courageous, Molly and Arthur Weasley deals 8 damage to target creature. This damage can't be prevented and that creature can't be regenerated.
+pt: 4/6 => 4/4
+
+Madam Pince, School Librarian
+rules_text: Whenever a creature you control enters, if it has Scholarly, you may learn. [i](you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)[/i]
+{2U}{2U}: Choose one—
+• Create a 1/1 {U} Book enchantment creature tokens with flying and “Whenever this token deals combat damage to a player sacrifice it. You draw a card.”
+• Search your library for a Book card, reveal it, put it to your hand or learn. If your library was searched this way, shuffle it. => Whenever a creature you control enters, if it has Scholarly, you may learn.
+{2U}{2U}: Choose one—
+• Create a 1/1 blue Book enchantment creature tokens with flying and “Whenever this token deals combat damage to a player sacrifice it. You draw a card.”
+• Search your library for a Book card, reveal it, put it to your hand or learn. If your library was searched this way, shuffle it.
+
+Watchful Observer
+rules_text: Vigilance
+Alteration {RG}{W}
+The first face-down creature spell you cast each turn costs {3} less to cast.
+Whenever you cast a spell from the battlefield, transform Watchful Observer. => Vigilance
+Alteration {RG}{W} [i](You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield any time for {RG}{W}.)[/i]
+The first face-down creature spell you cast each turn costs {3} less to cast.
+Whenever you cast a spell from the battlefield, transform Watchful Observer.
+
+Remus Lupin, Master of the Dark Arts
+rules_text: Gallant 2 [i](Whenever a creature an opponent controls with greater power enters or attacks and this creature isn't courageous, put two +1/+1 counters on this creature and it becomes courageous.)[/i]
+As long as Remus Lupin, Master of the Dark Arts is courageous, Wizard an Beast spells you cast cost {1} less to cast.
+At the beginning of each upkeep, if no spells were cast last turn, transform Remus Lupin, Master of the Dark Arts. => Gallant 2 [i](Whenever a creature an opponent controls with greater power enters or attacks and this creature isn't courageous, put two +1/+1 counters on this creature and it becomes courageous.)[/i]
+As long as Remus Lupin, Master of the Dark Arts is courageous, Wizard and Beast spells you cast cost {1} less to cast and whenever you cast a Beast, Learn [i](you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)[/i]
+At the beginning of each upkeep, if no spells were cast last turn, transform Remus Lupin, Master of the Dark Arts.
+
+Padfoot, Protective Marauder
+cost: {W}{W}{W} => {R}{G}{W}
+rules_text: Vigilance
+{1}{W}: Transform Padfoot, Protective Marauder.
+When this creature transforms into Padfoot, Protective Marauder, he cannot be blocked this turn. => Vigilance
+{1}{W}: Transform Padfoot, Protective Marauder. Activate only if you control a courageous creature.
+Whenever this creature transforms into Padfoot, Protective Marauder, he can't be blocked this turn.
+
+Albus Dumbledore
+rules_text: Albus Dumbledore's power is equal to the number of Legendary creatures you control.
+Bewitchments you cast have discover X where X is equal to their mana value. [i](Auras,, Curses, Horcruxs, Incantations, Lessons, and Potions are Bewitchments To discover X, exile cards from the top of your library until you exile a nonland card with mana value X or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)[/i]
+When Albus Dumbledore dies or is exiled, return him to the battlefield transformed. => Albus Dumbledore's power is equal to the number of Legendary creatures you control.
+Bewitchments you cast have discover X where X is equal to their mana value. [i](Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments. To discover X, exile cards from the top of your library until you exile a nonland card with mana value X or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)[/i]
+When Albus Dumbledore dies or is exiled, return him to the battlefield transformed.
+
+Enchanted Shield Armor
+type: Artifact Creature — Golem Incantation Beast => Artifact Creature — Golem Incantation
+cost: {6}{W} => {5}{R}{W}
+rules_text: Whenever this creature is dealt damage, prevent that damage and put a -1/-1 counter on it. Then create a 2/2 Golem Artifact Creature token with vigilance and “When this token enters, put a shield counter on it.” [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+When this creature dies, you may sacrifice four artifact creatures. If you do exile it and return it to the battlefield transformed instead. => Defender
+Whenever this creature is dealt damage, prevent that damage and put a -1/-1 counter on it. Then create a 3/3 Golem artifact creature token. Put a shield counter and a vigilance counter on that token. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+When this creature dies, exile it then return it to the battlefield transformed.
+
+Procure The Philosopher's Stone
+type: Enchantment — Saga => Enchantment — Case
+cost: {2}{W}{W} => {2}{W}
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Investigate for each enchantment you control.
+II — Whenever a creature you control leaves the battlefield this turn, investigate.
+III — Exile this Saga, then return it to the battlefield under transformed under your control. => Whenever you cast a bewitchment, investigate [i](Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i]
+To solve — You control or have cast seven or more bewitchments. [i](If unsolved, solve at the beginning of your end step.)[/i] 
+Solved — Sacrifice this Case: Destroy target creature with power less than the number of Clues you control. Return this Case to the battlefield transformed.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Investigate for each enchantment you control.
+II — Whenever a creature you control leaves the battlefield this turn, investigate.
+III — Exile this Saga, then return it to the battlefield under transformed under your control. => Whenever you cast a bewitchment, investigate [i](Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i]
+To solve — You control or have cast seven or more bewitchments. [i](If unsolved, solve at the beginning of your end step.)[/i] 
+Solved — Sacrifice this Case: Destroy target creature with power less than the number of Clues you control. Return this Case to the battlefield transformed.
+artist: https://www.deviantart.com/elbarien => elbarien
+
+Rescue of the Night Bus
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a tapped Treasure token. Then create another Treasure token for each permanent you control with a counter on it.
+II — Draw a card for each treasure token you control.
+III — Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a tapped Treasure token. Then create another Treasure token for each permanent you control with a counter on it.
+II — Draw a card for each Treasure token you control.
+III — Exile this Saga, then return it to the battlefield transformed under your control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a tapped Treasure token. Then create another Treasure token for each permanent you control with a counter on it.
+II — Draw a card for each treasure token you control.
+III — Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a tapped Treasure token. Then create another Treasure token for each permanent you control with a counter on it.
+II — Draw a card for each Treasure token you control.
+III — Exile this Saga, then return it to the battlefield transformed under your control.
+
+Journey through the Vaults
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a 1/1 {R} Goblin creature token. Then create a number of 1/1 {R} Goblin tokens equal to half the number of lands you control rounded down.
+II — Then create a tapped treasure token for each Goblin you control plus one.
+III — Search your library for an artifact card, reveal it, put that card on top, then shuffle and exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a 1/1 red Goblin creature token. Then create a number of 1/1 red Goblin tokens equal to half the number of lands you control rounded down.
+II — Then create a tapped Treasure token for each Goblin you control plus one.
+III — Search your library for an artifact card, reveal it, put that card on top, then shuffle and exile this Saga, then return it to the battlefield transformed under your control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a 1/1 {R} Goblin creature token. Then create a number of 1/1 {R} Goblin tokens equal to half the number of lands you control rounded down.
+II — Then create a tapped treasure token for each Goblin you control plus one.
+III — Search your library for an artifact card, reveal it, put that card on top, then shuffle and exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a 1/1 red Goblin creature token. Then create a number of 1/1 red Goblin tokens equal to half the number of lands you control rounded down.
+II — Then create a tapped Treasure token for each Goblin you control plus one.
+III — Search your library for an artifact card, reveal it, put that card on top, then shuffle and exile this Saga, then return it to the battlefield transformed under your control.
+
+Receipt of Hogwarts Letter
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — This saga has “ Whenever a land or enchantment enters under your control create a Student token. [i](Its a 1/1 white Human Wizard creature token with “As long as you have more cards in your hand then each opponent, this creature gets +1/+0 and is studious.”)[/i]
+II — For each land and enchantment you control create 1/1 white Bird creature tokens named Owl with flying, defender and “Whenever this token enters, investigate.” 
+III — Until end of turn, creatures you control have “{T}: Tap target creature and put a stun counter on it. You gain 1 life.
+Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — This saga has “ Whenever a land or enchantment enters under your control create a Student token. [i](Its a 1/1 white Human Wizard creature token with “Scholarly”.)[/i]
+II — For each land and enchantment you control create 1/1 white Bird creature tokens named Owl with flying, defender and “Whenever this token enters, investigate.” 
+III — Until end of turn, creatures you control have “{T}: Tap target creature and put a stun counter on it. You gain 1 life.
+Exile this Saga, then return it to the battlefield transformed under your control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — This saga has “ Whenever a land or enchantment enters under your control create a Student token. [i](Its a 1/1 white Human Wizard creature token with “As long as you have more cards in your hand then each opponent, this creature gets +1/+0 and is studious.”)[/i]
+II — For each land and enchantment you control create 1/1 white Bird creature tokens named Owl with flying, defender and “Whenever this token enters, investigate.” 
+III — Until end of turn, creatures you control have “{T}: Tap target creature and put a stun counter on it. You gain 1 life.
+Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — This saga has “ Whenever a land or enchantment enters under your control create a Student token. [i](Its a 1/1 white Human Wizard creature token with “Scholarly”.)[/i]
+II — For each land and enchantment you control create 1/1 white Bird creature tokens named Owl with flying, defender and “Whenever this token enters, investigate.” 
+III — Until end of turn, creatures you control have “{T}: Tap target creature and put a stun counter on it. You gain 1 life.
+Exile this Saga, then return it to the battlefield transformed under your control.
+
+Traverse the Secret Passage
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a number of Map tokens equal to half the number of lands you control rounded up. [i](They're artifacts with “{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.”)[/i]
+II — This saga has “Whenever a creature explores, target creature can't block this turn.” [i](To have this creature explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+III — Create a tapped Treasure token for each +1/+1 counter among creatures you control. Then exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a number of Map tokens equal to half the number of lands you control rounded up. [i](They're artifacts with “{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.”)[/i]
+II — This saga has “Whenever a creature explores, target creature can't block this turn.”
+III — Create a tapped Treasure token for each +1/+1 counter among creatures you control. Then exile this Saga, then return it to the battlefield transformed under your control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a number of Map tokens equal to half the number of lands you control rounded up. [i](They're artifacts with “{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.”)[/i]
+II — This saga has “Whenever a creature explores, target creature can't block this turn.” [i](To have this creature explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+III — Create a tapped Treasure token for each +1/+1 counter among creatures you control. Then exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a number of Map tokens equal to half the number of lands you control rounded up. [i](They're artifacts with “{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.”)[/i]
+II — This saga has “Whenever a creature explores, target creature can't block this turn.”
+III — Create a tapped Treasure token for each +1/+1 counter among creatures you control. Then exile this Saga, then return it to the battlefield transformed under your control.
+
+
+VERSION 2 CHANGELOG
+====================
+
+Crucio added.
+Imperio added.
+Fenrir Grayback added.
+Severus Snape, Head of Slytherin House added.
+Inferi Protector added.
+Lumos added.
+Venomous Tentacula added.
+Devil's Snare added.
+Garden Gnome added.
+Dementor of Azkaban added.
+Cup of Helga Hufflepuff added.
+Lost Diadem of Rowena Ravenclaw added.
+Inferi Hoard added.
+Invading Mountain Troll added.
+Forest Giant added.
+Puffskein added.
+Kneazle added.
+Confringo added.
+Bombarda added.
+Accio added.
+Mandrake Root added.
+Quidditch Broom added.
+Demiguise added.
+Sectumsempera added.
+Crab & Goyle added.
+Cornish Pixie added.
+Hungarian Horntail added.
+Levicorpus added.
+Langlock added.
+Winery Cellar added.
+Dungeon Depths added.
+Cozey Hearth added.
+Pureblood Manner added.
+Engorgio added.
+Reducio added.
+Slytherin Prefect added.
+Ravenclaw Prefect added.
+Durmstrang Prefect added.
+Luna Lovegood, Enthused Researcher added.
+Draco Malfoy added.
+Hermione Granger, Brightest Witch of Her Age added.
+Nymphadora Tonks, Metamorphmagus Auror added.
+Blast-Ended Skrewt added.
+Obscurial Parasite added.
+Amazonian Fire Salamander Pit added.
+Oppugno added.
+Reducto added.
+Bowtruckle added.
+Whomping Willow added.
+Self-Stiring Pewter Cauldron added.
+Newt Scamander, First Magizoologist added.
+Pomona Sprout, Head of Hufflepuff added.
+Cedric Diggory, Fiercely Loyal Friend added.
+Veela Hair Wand added.
+Phoenix Feather Wand added.
+Dragon Heart String Wand added.
+Basilisk Horn Wand added.
+Hufflepuff Prefect added.
+Bubotuber added.
+Broken Wand added.
+Serpensortia added.
+Disillusionment Charm added.
+Vera Verto added.
+Melofors added.
+Erkling added.
+Herbivicous added.
+Death Eater added.
+Dobby, the House Elf added.
+Cornelius Fudge, Misguided Minister added.
+Thestral added.
+Zacharias Smith, Jealous Friend added.
+Wizard-Cracker Imp added.
+Dungeon Red Cap Aggressor added.
+Doxy added.
+Point Me added.
+Vermiculus added.
+Orchideous added.
+Helena, Ghost of Ravenclaw added.
+Horace Slughorn, Old Potions Master added.
+Vanishing Cabinet added.
+Department of Mysteries added.
+Legilimens added.
+Skirmish in Underground Chambers added.
+Peeves, Poltergeist Trickster added.
+Return of the Dark Lord added.
+Portkey to Little Hangleton Graveyard added.
+Flame Infused Armour added.
+Tragedy at the World Cup added.
+Journey Beneath Gringotts Bank added.
+Nearly Headless Nick, Ghost of Gryffindor added.
+Rennervate added.
+Bloody Barron, Ghost of Slytherin added.
+Chase the Hidden Traitor added.
+Ronald Weasley, House King added.
+Hidden Boggart added.
+Rictusempra added.
+Inflatus added.
+Giant Purple Toad added.
+Screaming Howler added.
+Densaugeo added.
+Theseus Scamander, Loyal Auror added.
+Bundimun added.
+Surgito added.
+Corban Yaxley, Registered Interrogator added.
+Capacious Extremis added.
+Priori Incantatem added.
+Maxima Perfect Cast added.
+Three Headed Guard Dog added.
+Furnunculus added.
+Brain Eater added.
+Swarm of Grindylows added.
+Red Cap Tower Guard added.
+Narcissa Malfoy, Devoted Mother added.
+Fanged Frisbee added.
+Dark Wizard Robes added.
+Slytherin Robes added.
+Hufflepuff Robes added.
+Protego Diabolica added.
+Piertotum Locomotor added.
+Portus added.
+Beneath Hogwarts Plumbing added.
+Sea Kelpie added.
+Cho Chang, Ravenclaw Seeker added.
+Erumpent Horn added.
+The Grim added.
+Black Lake Merperson added.
+Confundus added.
+Finite Incantatem added.
+Remembrall added.
+Standard Book of Spells added.
+Dragon Hide Gloves added.
+Follow the Spiders added.
+Snatcher Ambush added.
+The British Prime Minister added.
+Frank Bryce, Riddle's Grounds Keeper added.
+The Dursleys, Antimagic Enthusiasts added.
+Avifors added.
+Locomotor Mortis added.
+Volamucus added.
+Animated Torch added.
+Gringotts Banking Goblin added.
+Auror Initiate added.
+Auror Scout added.
+Auror Tracker added.
+Battle of Hogwarts added.
+Cautious Hipogriff added.
+Episkey added.
+The Fat Friar, Ghost of Hufflepuff added.
+Fianto Duri added.
+Friendly Unicorn added.
+International Magical Cooperation added.
+Kitchen House-Elf added.
+Magicus Extremos added.
+Ministry Representative added.
+Petrificus Totalus added.
+Protego added.
+Reparo added.
+Sybill Trelawney, Unreliable Seer added.
+Trial of the Wizengamot added.
+The Wand Chooses the Wizard added.
+Wingardium Leviosa added.
+Wondering Hinkypunk added.
+Dragon Hatchling added.
+Walden Macnair, Dark Executioner added.
+Diagon Alley Shopkeeper added.
+Enchanted Field Guide added.
+Marietta Edgecomb, Ministry Sneak added.
+Potioneer Duelist added.
+Apothecary Shopkeeper added.
+Traveling Potioneer added.
+The Sorting Hat added.
+Viktor Krum, Durmstrang Champion added.
+Chizpurfle Parasite added.
+Underground Potioneer added.
+Dungbomb added.
+Edurus Potion added.
+Girding Potion added.
+Focus Potion added.
+Forgetfulness Potion added.
+Invisibility Potion added.
+Sleeping Potion added.
+Drink of Despair added.
+Drought of Living Death added.
+Veritaserum added.
+Weakness Potion added.
+Amortentia, Love Potion added.
+Existmulo Maxima Potion added.
+Exploding Potion added.
+Potion Mishap added.
+Thunder Brew Potion added.
+Antidote to Poisons added.
+Felix Felicis, Liquid Luck added.
+Mandrake Restorative Draught added.
+Wiggenweld Potion added.
+Potion Storage Cabinet added.
+Aging Potion added.
+Elixir of Life added.
+Gilleyweed added.
+Grand Pepperup Potion added.
+Hate Potion added.
+Polyjuice Potion added.
+Stink Pellet added.
+Whit-Sharpening Potion added.
+Wolfsbane Potion added.
+Hogsmeade Shopkeeper added.
+Knockturn Alley Potioneer added.
+Corrupted Potioneer added.
+Durmstrang Potioneer added.
+Student Potioneer added.
+Aparecium added.
+Depulso added.
+Descendo added.
+Evanesco added.
+Flipendo added.
+Glacius added.
+Moaning Myrtle added.
+Repello Inimicum added.
+Zou Wu Beast added.
+Black Lake Giant Squid added.
+Desert Thunderbird added.
+Diricawl added.
+Fwooper Bird added.
+Gilderoy Lockhart, Oblivious Fraud added.
+Jobberknoll added.
+Marcus Flint, Slytherin Quidditch Captain added.
+Murtlap added.
+Greedy Niffler added.
+Obliviate added.
+Pius Thicknesse, Dark Lord Puppet added.
+Blaize Zabini, Entitled Beneficiary added.
+Colloshoo added.
+Family Attic Ghoul added.
+Flagrante added.
+Lethifold added.
+Matagot Familiar added.
+Snufflifores added.
+Swooping Evil added.
+Withering Curse of the Wearer added.
+Carpe Retractem added.
+Chinese Fireball added.
+Common Welsh Green added.
+Diffindo added.
+Draconifors added.
+Geminio Curse added.
+The Patil Twins, Padma and Parvati added.
+Skiving Snack Boxes added.
+Swedish Shortsnout added.
+Cauldron Cake added.
+Chinese Chomping Cabbage added.
+Chocolate Frog added.
+Graphorn added.
+Greatspined Dugbog added.
+Insectoid Manticore Mother added.
+Justin Flinchfletchly, Wandering Student added.
+Nundu Leopard added.
+Pansi Parkinson, Combatant Instigator added.
+Pumpkin Pasty added.
+Skurge added.
+Steeler Snail added.
+Stoneback Dugbog added.
+Vampyr Mosp added.
+Bertie Botts Every Flavor Beans added.
+Fleur Delacour, Beauxbatons Champion added.
+Fred and George Weasley, Mischievous Twins added.
+Igor Karkaroff, Durmstrang Headmaster added.
+Neville Longbottom, Courageous Friend added.
+Fire Crab added.
+Letters from No One added.
+Permission to Visit Hogsmeade added.
+Mystery of the Golden Egg added.
+Locket of Salazar Slytherin added.
+Pestis Incendium, Fiendfyre added.
+Acromantula added.
+Avada Kedavra added.
+Bellatrix Lestrange, Enthralled Death Eater added.
+Lucius Malfoy, Self-Served Loyalist added.
+Dolores Umbridge, Lawfully Maddened Official added.
+Magizoologist Trainee added.
+Novice Herbologist added.
+Charms Adept added.
+First-Year Ravenclaw added.
+First-Year Gryffindor added.
+First-Year Slytherin added.
+First-Year Hufflepuff added.
+First-Week Snatcher added.
+The Carrow Siblings added.
+Non-Verbal Cast added.
+Burned-Out Fifth-Year added.
+Aspiring Dueling Students added.
+Caught Out of Bed added.
+Merlin's Trial added.
+Join Us or Die! added.
+Minister's Censorship added.
+Madam Hooch, Quidditch Referee added.
+Ministry Spy added.
+Spot Ministry Raid added.
+Agustus Rookwood, Unspeakable Spy added.
+Tom Riddles Diary added.
+Nagini, Maladictus Performer added.
+Harry Potter, The Boy Who Lived added.
+Gaunt Family Ring added.
+Harry Potter the Gathering Commander Decks added.
+Rita Skeeter, Gossip Reporter added.
+Secrets of the Dark Lord added.
+Writing on the Wall added.
+Mrs Norris added.
+Alaster Mad-Eye Moody added.
+Ordinary Wizarding Level Examinations added.
+Quidditch Match added.
+The Monster Book of Monsters added.
+Society for the Promotion of Elfish Welfare added.
+WWHP Archetypes 2; added.
+Folio Magi added.
+Melding of Minds added.
+Nastily Exhausting Wizarding Tests added.
+Quirinus Quirrell, Traitorous Professor added.
+Scabbers, Frightened Coward added.
+Tom Riddle, Prodigal Orphan added.
+Intro to Defence Against the Dark Arts added.
+Intro to Transfiguration added.
+Intro to the Dark Arts added.
+Intro to Potions added.
+Intro to Care of Magical Creatures added.
+Intro to History of Magic added.
+Intro to Herbology added.
+Intro to Charms added.
+Intro to Divination added.
+Intro to Alchemy added.
+WWHP Archetypes 1; added.
+Bird Token WWHP; added.
+Ministry Tribunal Token WWHP; added.
+OWL Token WWHP; added.
+Student Token WWHP; added.
+Bubotuber Token WWHP; added.
+Book Token WWHP; added.
+Cornish Pixie Token WWHP; added.
+Doxy Token WWHP; added.
+Swarm of Grindylows Token WWHP; added.
+Death Eater Token WWHP; added.
+Inferi Hoard Token WWHP; added.
+Matagot Familiar Token WWHP; added.
+Rat Token WWHP; added.
+Skeleton Token WWHP; added.
+Snake Token WWHP; added.
+Thestral Token WWHP; added.
+Wizard-Cracker Imp Token WWHP; added.
+Blast Ended Screwt Token WWHP; added.
+Dragon Token WWHP; added.
+Elemental Token WWHP; added.
+Red Cap Tower Guard Token WWHP; added.
+Salamander Beast Token WWHP; added.
+Bowtruckle Token WWHP; added.
+Chinese Chomping Cabbage Token WWHP; added.
+Fang Token WWHP; added.
+Insect Manticore Token WWHP; added.
+Mallowsweet Token WWHP; added.
+Puffskein Token WWHP; added.
+Spider Token WWHP; added.
+Steeler Snail Token WWHP; added.
+Stoneback Dugbog Token WWHP; added.
+Vampyr Mosp Token WWHP; added.
+Worm Token WWHP; added.
+Snatcher Token WWHP; added.
+Animated Torch Token WWHP; added.
+Clue Token WWHP; added.
+Food Token WWHP; added.
+Golem Token WWHP; added.
+Map Token WWHP; added.
+Portkey Token WWHP; added.
+Potion Token WWHP; added.
+Treasure Token WWHP; added.
+Wizard-Cracker Token WWHP; added.
+Copy Token WWHP; added.
+Black Lake Merperson Token WWHP added.
+Proffesor Binns Token WWHP; added.
+Rabbit added.
+Dementor of Azkaban added.
+Giant added.
+Dolohov's Curse added.
+Tale of the Three Brothers added.
+Escape of the Azkaban Prisoner added.
+Goblet of Fire Trials added.
+Detention with the Gamekeeper added.
+Welcome to the Wizarding World added.
+Lessons with the Headmaster added.
+Reawakening of the Dark Mark added.
+Goblin added.
+Vampire added.
+Centaur added.
+Wizard added.
+Spirit Ambush added.
+Spirit added.
+
+Alaster Moody, Keeper of the Phoenix Order removed.
+Godrick Gryffindor, Hogwarts Founder removed.
+Grimauld Place, House of Black removed.
+Discretion of the Order removed.
+Reservoir of Ancient Magic removed.
+Nymphadora Lupin, Childish Auror removed.
+Severus Snape, Triple Agent Spy removed.
+Aberforth Dumbledore, Reclusive Guardian removed.
+Fred and George Weasley, Mischevious Twins removed.
+Neville Longbottem, Courageous Friend removed.
+Harry Potter, Vanquisher of the Dark Lord removed.
+Hermione Granger, Rebellious Student removed.
+Luna Lovegood, Enthused Reasearcher removed.
+Black Family Ring removed.
+Dumbledore's Army Coin removed.
+Pheonix Feather Wand removed.
+Fleur and Bill Weasly removed.
+Adorned Halls removed.
+Buckbeak, Condemed Protector removed.
+Hogwarts Headmaster Pensieve removed.
+Pierototum Locomotor removed.
+Flame Infused Armor removed.
+Gand Stair Case removed.
+Ron Weasly, Enraged Protector removed.
+Nicholas Flemel, Renowed Alchemist removed.
+Elixer of Life removed.
+Patil Twins, Padma and Parvati removed.
+Felix Felicis removed.
+Viaduct Courtyard removed.
+Xenophilius Lovegood, Eccentric Quibbler Editor removed.
+Ancient Magic Portkey removed.
+Godric's Hollow removed.
+Game Keeper's Hut removed.
+Flourish and Blotts removed.
+Divination Classroom removed.
+Dueling Arena removed.
+Durmstrang Ship removed.
+Zonko's Joke Shop removed.
+Boat House removed.
+Quidditch World Cup Camp removed.
+Triwizard Maze removed.
+DADA Classroom removed.
+Trophy Room removed.
+Herbology Greenhouse removed.
+Scotish Highlands removed.
+Owelry removed.
+Headmaster's Office removed.
+Astronomy Tower removed.
+Ancient Magic Traces removed.
+
+Expelliarmus
+rules_text: Return target noncreature artifact to its owner's hand. Expelliarmus deals damage equal to the artifact's mana value to its owner.
+Bewitchment Storm [i](When you cast this spell, copy it for each bewitchment spell cast before it this turn. You may choose new targets for the copies. Auras, Curses, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i] => Return target noncreature artifact to its owner's hand. Expelliarmus deals damage equal to the artifact's mana value to its owner.
+Bewitchment storm [i](When you cast this spell, copy it for each bewitchment spell cast before it this turn. You may choose new targets for the copies. Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i]
+
+Filius Flitwick, Head of Ravenclaw House
+rules_text: Scholarly [i](Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this ability has resolved this turn, this creature becomes studious if it isn't already.)[/i]
+As long as Filius Flitwick is studious, Incantation spells you cast cost {1}{RWU} less to cast and during your upkeep, you may reveal your hand. If you do, shuffle each non-Incantation card revealed this way into your library. Then you may search your library for up to that many Incantation cards, reveal them, put them into your hand, then shuffle.
+Whenever you cast your first Incantation each of your turns, Learn. => Scholarly
+At the beginning of your upkeep, if Filius Flitwick is studious, you may reveal your hand. If you do, shuffle each non-Incantation card revealed this way. Then you may reveal cards from the top of your library until you reveal that many Incantation cards, put them into your hand, then shuffle all other cards revealed this way.
+Whenever you cast your first Incantation on each of your turns, learn.
+
+Sword of Godrick Gryffindor
+rules_text: Equipped creature gets +2/+2.
+As long as a creature with deathtouch is blocking, equipped creature has deathtouch. The same is true for flying, haste, first-strike, double-strike, indestructible, trample, lifelink, hexproof.
+Equip {R}{G}{W}
+Equip courageous creature {2} => Equipped creature gets +2/+2.
+As long as a creature with deathtouch is blocking, equipped creature has deathtouch. The same is true for flying, first strike, double strike, indestructible, trample, lifelink, hexproof, ward, and menace.
+Equip {R}{G}{W}
+Equip courageous creature {2}
+artist: Pauline Mooney => Atomhawk
+
+Incendio
+rules_text: Incendio deals 3 damage to any target.
+Bewitchment Storm [i](When you cast this spell, copy it for each bewitchment spell cast before it this turn. You may choose new targets for the copies. Auras, Curses, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i] => Incendio deals 3 damage to any target.
+Bewitchment storm [i](When you cast this spell, copy it for each bewitchment spell cast before it this turn. You may choose new targets for the copies. Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i]
+
+Arresto Momento
+rules_text: Until end of turn, creatures can't attack or block unless their controller pays {X} for each of those creatures, where X is equal to the number of other Incantations you've cast this turn plus one. [i](Attacks are declared at the start of the declare attackers step. The value of X can only be changed before this step.)[/i] => Until end of turn, creatures can't attack or block unless their controller pays {X} for each of those creatures, where X is equal to the number of other bewitchments you've cast this turn plus one. [i](Attacks are declared at the start of the declare attackers step. The value of X can only be changed before this step.)[/i] [i](Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i]
+
+Castle Heights
+rules_text: This land enters tapped.
+When this Land enters, add {U}.
+{T}: Add {R} or {W}. => This land enters tapped.
+When this land enters, add {U}.
+{T}: Add {R} or {W}.
+
+Lonesome Phoenix
+cost: {3}{R}{W}{W} => {R}{R}{W}{W}
+rules_text: Flash
+Flying, haste
+{W}{W}: Target creature gains flying and haste until end of turn.
+{W}, {T}: Regenerate another target creature
+{R}{W}: Regenerate Lonesome Phoenix. Put a shield counter on another target creature you control. => Flash
+Flying, haste, first-strike
+{W}: Regenerate another target creature and put a shield counter on it.
+{2R}: Regenerate Lonesome Phoenix.
+flavor_text: [i][/i] => [i]Harry Potter: “Professor. Your bird — I couldn't do anything — he just caught fire —“
+Albus Dumbledore: “About time, too. He's been looking dreadful for days; I've been telling him to get a move on.”
+— After Fawkes burst into flames in Dumbledore's office.[/i]
+
+Unicorn Hair Wand
+type: Artifact => Artifact — Wand
+rules_text: {T}: Put a charge counter on Unicorn Hair Wand.
+{T}, Remove a charge counter from Unicorn Hair Wand: Add {U}, {R}, or {W}.
+{T}, Remove two charge counters from Unicorn Hair Wand: Add {U}{R} or {R}{W}. => {T}: Put a charge counter on this artifact.
+{T}, Remove a charge counter from this artifact: Add {U}, {R}, or {W}.
+{T}, Remove two charge counters from this artifact: Add {U}{R} or {R}{W}.
+artist: https://www.deviantart.com/aleksandvagne => aleksandvagne
+
+Gryffindor Prefect
+
+Explore the Restricted Section
+loyalty:  => 5
+
+Flight of the Seven Potters
+cost: {2}{RG}{W}{U} => {2}{R}{G}{W}
+rules_text: [i](As a Siege enters, choose an opponent to protect it. You and others can attack it. When it is defeated, exile it, then cast it transformed.)[/i]
+When this battle enters, choose target creature controlled by the player protecting this battle.
+Whenever damage is dealt to this battle, create a token copy of the chosen creature. Sacrifice that creature when this battle leaves the battlefield. => [i](As a Siege enters, choose an opponent to protect it. You and others can attack it. When it is defeated, exile it, then cast it transformed.)[/i]
+When this Siege enters, choose target creature controlled by the player protecting this battle.
+Whenever damage is dealt to this Siege, create a non-legendary token copy of the chosen creature. Sacrifice that creature when this Siege leaves the battlefield.
+loyalty:  => 5
+
+Ravenclaw Robes
+rules_text: Whenever you cast a Incantation spell, equipped creature gets +1/+1 until end of turn.
+Equip {3}
+Equip Wizard {RWU} => Equipped creature gets +1/+0 for each card in your hand.
+As long as equipped creature isn't studious, the first time a player would draw a card each turn, you may draw a card.
+Equip {5}
+Equip Wizard {U}{R}{W}
+artist: https://www.deviantart.com/jingwensun => jingwensun
+
+Delivery Owl
+rules_text: Flying
+At the beginning of your upkeep, you may pay {WU}{WU}. If you do, reveal the top card of your library. If a Incantation card is revealed this way, draw two cards. Otherwise, draw a card. => Flying
+At the beginning of your upkeep, you may pay {U}{U}. If you do, reveal the top card of your library. If a Bewitchment card is revealed this way, draw two cards. Otherwise, draw a card. [i](Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i]
+
+Gryffindor Robes
+rules_text: Equipped creature has gallant 1 [i](Whenever a creature an opponent controls with greater power enters or attacks and that creature isn't courageous, put a +1/+1 counter on that creature and it becomes courageous.)[/i]
+As long as the equipped creature is courageous, during each of your draw steps, draw an additional card for each creature that is courageous.
+Equip {4}
+Equip Wizard {RGW} => Equipped creature has gallant 1. [i](Whenever a creature an opponent controls with greater power enters or attacks and that creature isn't courageous, put a +1/+1 counter on that creature and it becomes courageous.)[/i]
+Whenever equipped creature attacks, put a +1/+1 counter on it. If that creature is courageous, draw a card.
+Equip {5}
+Equip Wizard {R}{G}{W}
+artist: https://www.deviantart.com/push-pulse => push-pulse
+
+Basic Cast
+rules_text: As an additional cost to cast this spell you may pay {1}. If you do, after it resolves return it to your hand instead.
+Basic Cast deals 1 damage to any target.
+Bewitchment storm [i](When you cast this spell, copy it for each bewitchment spell cast before it this turn. You may choose new targets for the copies. Auras, Curses, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i] => As an additional cost to cast this spell you may pay {1}. If you do, after it resolves return it to your hand instead.
+Basic Cast deals 1 damage to any target.
+Bewitchment storm [i](When you cast this spell, copy it for each bewitchment spell cast before it this turn. You may choose new targets for the copies. Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i]
+
+Expecto Patronum
+artist: Nenad Sarac => choodstock
+
+Madam Pomfrey
+cost: {1}{W}{W} => {G}{W}{W}
+rules_text: Lifelink
+Whenever a creature enters or leaves the battlefield, you gain 1 life.
+{T}: Put a stun counter on Madam Pomfrey. Regenerate each creature you control. [i](The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)[/i] => Lifelink, vigilance
+Whenever a creature enters or leaves the battlefield, choose one—
+• You may gain 3 life.
+• Untap Madam Pomfrey.
+{T}, Put a stun counter on Madam Pomfrey: Regenerate each creature you control.
+
+Saint Mungo's Healing Potioneer
+rules_text: {2}, {T}: Create a tapped potion token. [i](It's an artifact token with “{2}, {T}, Sacrifice this Potion: Activate a Recipe ability you control without paying its costs.”)[/i]
+Whenever you sacrifice a Treasure, a beast enters under an opponents control, or an opponent commits a crime against you, create a Potion token. [i](Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)[/i] => {2}, {T}: Create a tapped Potion token. [i](It's an artifact with “{2}, {T}, Sacrifice this token: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)[/i]
+Recipe — {4}{W}: Creatures you control get +1/+1 until end of turn.
+pt: 0/1 => 0/2
+artist: OpenAI. ChatGPT w/DALL.E => Avalanche Software
+
+Stupefy
+rules_text: Stupefy deals 4 damage to target attacking or blocking creature. Tap that creature.
+Bewitchment storm [i](When you cast this spell, copy it for each bewitchment spell cast before it this turn. You may choose new targets for the copies. Auras, Curses, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i] => Stupefy deals 4 damage to target attacking or blocking creature. Tap that creature and put a stun counter on it.
+Bewitchment storm [i](When you cast this spell, copy it for each bewitchment spell cast before it this turn. You may choose new targets for the copies. Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i]
+
+Hedwig, Loyal Protector
+cost: {1}{W}{W} => {RG}{W}
+rules_text: Flying, Gallant 2 [i](Whenever a creature an opponent controls with greater power enters or attacks and this creature isn't courageous, put two +1/+1 counters on this creature and it becomes courageous.)[/i]
+Draw an additional card for each +1/+1 counter on Hedwig during each of your draw steps. => Flying
+Gallant 2 [i](Whenever a creature an opponent controls with greater power enters or attacks and this creature isn't courageous, put two +1/+1 counters on this creature and it becomes courageous.)[/i]
+When Hedwig enters or deals combat damage to a player, draw a card. Then gain 3 life if you control a creature that is courageous.
+pt: 2/3 => 1/1
+artist: SparklingScarletpaw
+47 Watchers
+63 Deviations
+4K Pageviews => SparklingScarletpaw
+
+Fumos
+rules_text: Prevent all damage that would be dealt target creature and/or player this turn.
+Incantation storm [i](When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)[/i] => Prevent all damage that would be dealt to target creature and/or player this turn.
+Bewitchment storm [i](When you cast this spell, copy it for each bewitchment spell cast before it this turn. You may choose new targets for the copies. Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i]
+
+Lapifors
+rules_text: Alteration {1}{G} [i](You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield for {1}{G}.)[/i]
+Search your library for a land card, reveal it, put it onto the battlefield tapped, then shuffle. If this spell was cast from the battlefield, untap that land and create a 1/1 green Rabbit creature token for each Forest you control. => Alteration {1}{G} [i](You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield any time for {1}{G}.)[/i]
+Search your library for a land card, reveal it, put it onto the battlefield tapped, then shuffle. If this spell was cast from the battlefield, untap that land and create a 1/1 green Rabbit creature token for each Forest you control.
+
+Rubeus Hagrid, Keeper of Keys
+rules_text: Gallant 1 [i](Whenever a creature an opponent controls with greater power enters or attacks and this creature isn't courageous, put a +1/+1 counter on this creature and it becomes courageous.)[/i]
+Courageous creatures you control get +0/+2.
+Whenever Rubeus Hagrid becomes courageous, create a Legendary 2/2 {G} Dog creature token named Fang. then choose one—
+• Search your library for a Beast or basic land card, reveal it, put it into your hand, then shuffle.
+• Learn [i](you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)[/i] => Gallant 1 [i](Whenever a creature an opponent controls with greater power enters or attacks and this creature isn't courageous, put a +1/+1 counter on this creature and it becomes courageous.)[/i]
+Courageous creatures you control get +0/+2.
+Whenever Rubeus Hagrid becomes courageous, create a Legendary 2/2 green Dog creature token named Fang. Then choose one—
+• Search your library for a Beast or basic land card, reveal it, put it into your hand, then shuffle.
+• Learn [i](you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)[/i]
+
+Olympe Maxime, Headmistress of Beauxbatons
+type: Legendary Creature — Giant Wizard => Legendary Creature — Giant Wizard Professor
+rules_text: Scholarly [i](Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this ability has resolved this turn, this creature becomes studious if it isn't already.)[/i]
+As long as Olympe Maxime is studious, she has trample, double-strike and whenever she deals combat damage to a player, learn.
+You have no maximum hand size. => Scholarly
+As long as Olympe Maxime is studious, she has trample, double-strike and whenever she deals combat damage to a player, learn.
+You have no maximum hand size.
+
+Ginny Weasley, Underestimated Power
+rules_text: Gallant 4 [i](Whenever a creature an opponent controls with greater power enters or attacks and this creature isn't courageous, put four +1/+1 counters on this creature and it becomes courageous.)[/i]
+As long as Ginny Weasley is courageous, whenever she attacks, you may destroy target artifact or enchantment. If you do, you gain life equal to that permanents converted mana value. => Gallant 1 [i](Whenever a creature an opponent controls with greater power enters or attacks and this creature isn't courageous, put a +1/+1 counter on this creature and it becomes courageous.)[/i]
+Whenever Ginny Weasley deals combat damage to a player, if she's courageous, you may destroy target artifact or enchantment. If a permanent is destroyed this way, you gain life equal to that permanents mana value.
+artist: Emerald Weapon on artstaion => Emerald Weapon
+
+Molly and Arthur Weasley, Protective Parents
+rules_text: Gallant 2 [i](Whenever a creature an opponent controls with greater power enters or attacks and this creature isn't courageous, put two +1/+1 counters on this creature and it becomes courageous.)[/i]
+When Molly and Arthur Weasley become courageous, Molly and Arthur Weasley deals 8 damage to target creature. That creature can't be regenerated and this damage cannot be prevented. => Gallant 4
+Double strike
+When Molly and Arthur Weasley become courageous, Molly and Arthur Weasley deals 8 damage to target creature. This damage can't be prevented and that creature can't be regenerated.
+pt: 4/6 => 4/4
+
+Madam Pince, School Librarian
+rules_text: Whenever a creature you control enters, if it has Scholarly, you may learn. [i](you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)[/i]
+{2U}{2U}: Choose one—
+• Create a 1/1 {U} Book enchantment creature tokens with flying and “Whenever this token deals combat damage to a player sacrifice it. You draw a card.”
+• Search your library for a Book card, reveal it, put it to your hand or learn. If your library was searched this way, shuffle it. => Whenever a creature you control enters, if it has Scholarly, you may learn.
+{2U}{2U}: Choose one—
+• Create a 1/1 blue Book enchantment creature tokens with flying and “Whenever this token deals combat damage to a player sacrifice it. You draw a card.”
+• Search your library for a Book card, reveal it, put it to your hand or learn. If your library was searched this way, shuffle it.
+
+Watchful Observer
+rules_text: Vigilance
+Alteration {RG}{W}
+The first face-down creature spell you cast each turn costs {3} less to cast.
+Whenever you cast a spell from the battlefield, transform Watchful Observer. => Vigilance
+Alteration {RG}{W} [i](You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield any time for {RG}{W}.)[/i]
+The first face-down creature spell you cast each turn costs {3} less to cast.
+Whenever you cast a spell from the battlefield, transform Watchful Observer.
+
+Remus Lupin, Master of the Dark Arts
+rules_text: Gallant 2 [i](Whenever a creature an opponent controls with greater power enters or attacks and this creature isn't courageous, put two +1/+1 counters on this creature and it becomes courageous.)[/i]
+As long as Remus Lupin, Master of the Dark Arts is courageous, Wizard an Beast spells you cast cost {1} less to cast.
+At the beginning of each upkeep, if no spells were cast last turn, transform Remus Lupin, Master of the Dark Arts. => Gallant 2 [i](Whenever a creature an opponent controls with greater power enters or attacks and this creature isn't courageous, put two +1/+1 counters on this creature and it becomes courageous.)[/i]
+As long as Remus Lupin, Master of the Dark Arts is courageous, Wizard and Beast spells you cast cost {1} less to cast and whenever you cast a Beast, Learn [i](you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)[/i]
+At the beginning of each upkeep, if no spells were cast last turn, transform Remus Lupin, Master of the Dark Arts.
+
+Padfoot, Protective Marauder
+cost: {W}{W}{W} => {R}{G}{W}
+rules_text: Vigilance
+{1}{W}: Transform Padfoot, Protective Marauder.
+When this creature transforms into Padfoot, Protective Marauder, he cannot be blocked this turn. => Vigilance
+{1}{W}: Transform Padfoot, Protective Marauder. Activate only if you control a courageous creature.
+Whenever this creature transforms into Padfoot, Protective Marauder, he can't be blocked this turn.
+
+Albus Dumbledore
+rules_text: Albus Dumbledore's power is equal to the number of Legendary creatures you control.
+Bewitchments you cast have discover X where X is equal to their mana value. [i](Auras,, Curses, Horcruxs, Incantations, Lessons, and Potions are Bewitchments To discover X, exile cards from the top of your library until you exile a nonland card with mana value X or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)[/i]
+When Albus Dumbledore dies or is exiled, return him to the battlefield transformed. => Albus Dumbledore's power is equal to the number of Legendary creatures you control.
+Bewitchments you cast have discover X where X is equal to their mana value. [i](Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments. To discover X, exile cards from the top of your library until you exile a nonland card with mana value X or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)[/i]
+When Albus Dumbledore dies or is exiled, return him to the battlefield transformed.
+
+Enchanted Shield Armor
+type: Artifact Creature — Golem Incantation Beast => Artifact Creature — Golem Incantation
+cost: {6}{W} => {5}{R}{W}
+rules_text: Whenever this creature is dealt damage, prevent that damage and put a -1/-1 counter on it. Then create a 2/2 Golem Artifact Creature token with vigilance and “When this token enters, put a shield counter on it.” [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+When this creature dies, you may sacrifice four artifact creatures. If you do exile it and return it to the battlefield transformed instead. => Defender
+Whenever this creature is dealt damage, prevent that damage and put a -1/-1 counter on it. Then create a 3/3 Golem artifact creature token. Put a shield counter and a vigilance counter on that token. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+When this creature dies, exile it then return it to the battlefield transformed.
+
+Procure The Philosopher's Stone
+type: Enchantment — Saga => Enchantment — Case
+cost: {2}{W}{W} => {2}{W}
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Investigate for each enchantment you control.
+II — Whenever a creature you control leaves the battlefield this turn, investigate.
+III — Exile this Saga, then return it to the battlefield under transformed under your control. => Whenever you cast a bewitchment, investigate [i](Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i]
+To solve — You control or have cast seven or more bewitchments. [i](If unsolved, solve at the beginning of your end step.)[/i] 
+Solved — Sacrifice this Case: Destroy target creature with power less than the number of Clues you control. Return this Case to the battlefield transformed.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Investigate for each enchantment you control.
+II — Whenever a creature you control leaves the battlefield this turn, investigate.
+III — Exile this Saga, then return it to the battlefield under transformed under your control. => Whenever you cast a bewitchment, investigate [i](Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i]
+To solve — You control or have cast seven or more bewitchments. [i](If unsolved, solve at the beginning of your end step.)[/i] 
+Solved — Sacrifice this Case: Destroy target creature with power less than the number of Clues you control. Return this Case to the battlefield transformed.
+artist: https://www.deviantart.com/elbarien => elbarien
+
+Rescue of the Night Bus
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a tapped Treasure token. Then create another Treasure token for each permanent you control with a counter on it.
+II — Draw a card for each treasure token you control.
+III — Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a tapped Treasure token. Then create another Treasure token for each permanent you control with a counter on it.
+II — Draw a card for each Treasure token you control.
+III — Exile this Saga, then return it to the battlefield transformed under your control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a tapped Treasure token. Then create another Treasure token for each permanent you control with a counter on it.
+II — Draw a card for each treasure token you control.
+III — Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a tapped Treasure token. Then create another Treasure token for each permanent you control with a counter on it.
+II — Draw a card for each Treasure token you control.
+III — Exile this Saga, then return it to the battlefield transformed under your control.
+
+Journey through the Vaults
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a 1/1 {R} Goblin creature token. Then create a number of 1/1 {R} Goblin tokens equal to half the number of lands you control rounded down.
+II — Then create a tapped treasure token for each Goblin you control plus one.
+III — Search your library for an artifact card, reveal it, put that card on top, then shuffle and exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a 1/1 red Goblin creature token. Then create a number of 1/1 red Goblin tokens equal to half the number of lands you control rounded down.
+II — Then create a tapped Treasure token for each Goblin you control plus one.
+III — Search your library for an artifact card, reveal it, put that card on top, then shuffle and exile this Saga, then return it to the battlefield transformed under your control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a 1/1 {R} Goblin creature token. Then create a number of 1/1 {R} Goblin tokens equal to half the number of lands you control rounded down.
+II — Then create a tapped treasure token for each Goblin you control plus one.
+III — Search your library for an artifact card, reveal it, put that card on top, then shuffle and exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a 1/1 red Goblin creature token. Then create a number of 1/1 red Goblin tokens equal to half the number of lands you control rounded down.
+II — Then create a tapped Treasure token for each Goblin you control plus one.
+III — Search your library for an artifact card, reveal it, put that card on top, then shuffle and exile this Saga, then return it to the battlefield transformed under your control.
+
+Receipt of Hogwarts Letter
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — This saga has “ Whenever a land or enchantment enters under your control create a Student token. [i](Its a 1/1 white Human Wizard creature token with “As long as you have more cards in your hand then each opponent, this creature gets +1/+0 and is studious.”)[/i]
+II — For each land and enchantment you control create 1/1 white Bird creature tokens named Owl with flying, defender and “Whenever this token enters, investigate.” 
+III — Until end of turn, creatures you control have “{T}: Tap target creature and put a stun counter on it. You gain 1 life.
+Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — This saga has “ Whenever a land or enchantment enters under your control create a Student token. [i](Its a 1/1 white Human Wizard creature token with “Scholarly”.)[/i]
+II — For each land and enchantment you control create 1/1 white Bird creature tokens named Owl with flying, defender and “Whenever this token enters, investigate.” 
+III — Until end of turn, creatures you control have “{T}: Tap target creature and put a stun counter on it. You gain 1 life.
+Exile this Saga, then return it to the battlefield transformed under your control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — This saga has “ Whenever a land or enchantment enters under your control create a Student token. [i](Its a 1/1 white Human Wizard creature token with “As long as you have more cards in your hand then each opponent, this creature gets +1/+0 and is studious.”)[/i]
+II — For each land and enchantment you control create 1/1 white Bird creature tokens named Owl with flying, defender and “Whenever this token enters, investigate.” 
+III — Until end of turn, creatures you control have “{T}: Tap target creature and put a stun counter on it. You gain 1 life.
+Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — This saga has “ Whenever a land or enchantment enters under your control create a Student token. [i](Its a 1/1 white Human Wizard creature token with “Scholarly”.)[/i]
+II — For each land and enchantment you control create 1/1 white Bird creature tokens named Owl with flying, defender and “Whenever this token enters, investigate.” 
+III — Until end of turn, creatures you control have “{T}: Tap target creature and put a stun counter on it. You gain 1 life.
+Exile this Saga, then return it to the battlefield transformed under your control.
+
+Traverse the Secret Passage
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a number of Map tokens equal to half the number of lands you control rounded up. [i](They're artifacts with “{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.”)[/i]
+II — This saga has “Whenever a creature explores, target creature can't block this turn.” [i](To have this creature explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+III — Create a tapped Treasure token for each +1/+1 counter among creatures you control. Then exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a number of Map tokens equal to half the number of lands you control rounded up. [i](They're artifacts with “{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.”)[/i]
+II — This saga has “Whenever a creature explores, target creature can't block this turn.”
+III — Create a tapped Treasure token for each +1/+1 counter among creatures you control. Then exile this Saga, then return it to the battlefield transformed under your control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a number of Map tokens equal to half the number of lands you control rounded up. [i](They're artifacts with “{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.”)[/i]
+II — This saga has “Whenever a creature explores, target creature can't block this turn.” [i](To have this creature explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+III — Create a tapped Treasure token for each +1/+1 counter among creatures you control. Then exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a number of Map tokens equal to half the number of lands you control rounded up. [i](They're artifacts with “{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.”)[/i]
+II — This saga has “Whenever a creature explores, target creature can't block this turn.”
+III — Create a tapped Treasure token for each +1/+1 counter among creatures you control. Then exile this Saga, then return it to the battlefield transformed under your control.
+
+
+VERSION 2 CHANGELOG
+====================
+
+Crucio added.
+Imperio added.
+Fenrir Grayback added.
+Severus Snape, Head of Slytherin House added.
+Inferi Protector added.
+Lumos added.
+Venomous Tentacula added.
+Devil's Snare added.
+Garden Gnome added.
+Dementor of Azkaban added.
+Cup of Helga Hufflepuff added.
+Lost Diadem of Rowena Ravenclaw added.
+Inferi Hoard added.
+Invading Mountain Troll added.
+Forest Giant added.
+Puffskein added.
+Kneazle added.
+Confringo added.
+Bombarda added.
+Accio added.
+Mandrake Root added.
+Quidditch Broom added.
+Demiguise added.
+Sectumsempera added.
+Crab & Goyle added.
+Cornish Pixie added.
+Hungarian Horntail added.
+Levicorpus added.
+Langlock added.
+Winery Cellar added.
+Dungeon Depths added.
+Cozey Hearth added.
+Pureblood Manner added.
+Engorgio added.
+Reducio added.
+Slytherin Prefect added.
+Ravenclaw Prefect added.
+Durmstrang Prefect added.
+Luna Lovegood, Enthused Researcher added.
+Draco Malfoy added.
+Hermione Granger, Brightest Witch of Her Age added.
+Nymphadora Tonks, Metamorphmagus Auror added.
+Blast-Ended Skrewt added.
+Obscurial Parasite added.
+Amazonian Fire Salamander Pit added.
+Oppugno added.
+Reducto added.
+Bowtruckle added.
+Whomping Willow added.
+Self-Stiring Pewter Cauldron added.
+Newt Scamander, First Magizoologist added.
+Pomona Sprout, Head of Hufflepuff added.
+Cedric Diggory, Fiercely Loyal Friend added.
+Veela Hair Wand added.
+Phoenix Feather Wand added.
+Dragon Heart String Wand added.
+Basilisk Horn Wand added.
+Hufflepuff Prefect added.
+Bubotuber added.
+Broken Wand added.
+Serpensortia added.
+Disillusionment Charm added.
+Vera Verto added.
+Melofors added.
+Erkling added.
+Herbivicous added.
+Death Eater added.
+Dobby, the House Elf added.
+Cornelius Fudge, Misguided Minister added.
+Thestral added.
+Zacharias Smith, Jealous Friend added.
+Wizard-Cracker Imp added.
+Dungeon Red Cap Aggressor added.
+Doxy added.
+Point Me added.
+Vermiculus added.
+Orchideous added.
+Helena, Ghost of Ravenclaw added.
+Horace Slughorn, Old Potions Master added.
+Vanishing Cabinet added.
+Department of Mysteries added.
+Legilimens added.
+Skirmish in Underground Chambers added.
+Peeves, Poltergeist Trickster added.
+Return of the Dark Lord added.
+Portkey to Little Hangleton Graveyard added.
+Flame Infused Armour added.
+Tragedy at the World Cup added.
+Journey Beneath Gringotts Bank added.
+Nearly Headless Nick, Ghost of Gryffindor added.
+Rennervate added.
+Bloody Barron, Ghost of Slytherin added.
+Chase the Hidden Traitor added.
+Ronald Weasley, House King added.
+Hidden Boggart added.
+Rictusempra added.
+Inflatus added.
+Giant Purple Toad added.
+Screaming Howler added.
+Densaugeo added.
+Theseus Scamander, Loyal Auror added.
+Bundimun added.
+Surgito added.
+Corban Yaxley, Registered Interrogator added.
+Capacious Extremis added.
+Priori Incantatem added.
+Maxima Perfect Cast added.
+Three Headed Guard Dog added.
+Furnunculus added.
+Brain Eater added.
+Swarm of Grindylows added.
+Red Cap Tower Guard added.
+Narcissa Malfoy, Devoted Mother added.
+Fanged Frisbee added.
+Dark Wizard Robes added.
+Slytherin Robes added.
+Hufflepuff Robes added.
+Protego Diabolica added.
+Piertotum Locomotor added.
+Portus added.
+Beneath Hogwarts Plumbing added.
+Sea Kelpie added.
+Cho Chang, Ravenclaw Seeker added.
+Erumpent Horn added.
+The Grim added.
+Black Lake Merperson added.
+Confundus added.
+Finite Incantatem added.
+Remembrall added.
+Standard Book of Spells added.
+Dragon Hide Gloves added.
+Follow the Spiders added.
+Snatcher Ambush added.
+The British Prime Minister added.
+Frank Bryce, Riddle's Grounds Keeper added.
+The Dursleys, Antimagic Enthusiasts added.
+Avifors added.
+Locomotor Mortis added.
+Volamucus added.
+Animated Torch added.
+Gringotts Banking Goblin added.
+Auror Initiate added.
+Auror Scout added.
+Auror Tracker added.
+Battle of Hogwarts added.
+Cautious Hipogriff added.
+Episkey added.
+The Fat Friar, Ghost of Hufflepuff added.
+Fianto Duri added.
+Friendly Unicorn added.
+International Magical Cooperation added.
+Kitchen House-Elf added.
+Magicus Extremos added.
+Ministry Representative added.
+Petrificus Totalus added.
+Protego added.
+Reparo added.
+Sybill Trelawney, Unreliable Seer added.
+Trial of the Wizengamot added.
+The Wand Chooses the Wizard added.
+Wingardium Leviosa added.
+Wondering Hinkypunk added.
+Dragon Hatchling added.
+Walden Macnair, Dark Executioner added.
+Diagon Alley Shopkeeper added.
+Enchanted Field Guide added.
+Marietta Edgecomb, Ministry Sneak added.
+Potioneer Duelist added.
+Apothecary Shopkeeper added.
+Traveling Potioneer added.
+The Sorting Hat added.
+Viktor Krum, Durmstrang Champion added.
+Chizpurfle Parasite added.
+Underground Potioneer added.
+Dungbomb added.
+Edurus Potion added.
+Girding Potion added.
+Focus Potion added.
+Forgetfulness Potion added.
+Invisibility Potion added.
+Sleeping Potion added.
+Drink of Despair added.
+Drought of Living Death added.
+Veritaserum added.
+Weakness Potion added.
+Amortentia, Love Potion added.
+Existmulo Maxima Potion added.
+Exploding Potion added.
+Potion Mishap added.
+Thunder Brew Potion added.
+Antidote to Poisons added.
+Felix Felicis, Liquid Luck added.
+Mandrake Restorative Draught added.
+Wiggenweld Potion added.
+Potion Storage Cabinet added.
+Aging Potion added.
+Elixir of Life added.
+Gilleyweed added.
+Grand Pepperup Potion added.
+Hate Potion added.
+Polyjuice Potion added.
+Stink Pellet added.
+Whit-Sharpening Potion added.
+Wolfsbane Potion added.
+Hogsmeade Shopkeeper added.
+Knockturn Alley Potioneer added.
+Corrupted Potioneer added.
+Durmstrang Potioneer added.
+Student Potioneer added.
+Aparecium added.
+Depulso added.
+Descendo added.
+Evanesco added.
+Flipendo added.
+Glacius added.
+Moaning Myrtle added.
+Repello Inimicum added.
+Zou Wu Beast added.
+Black Lake Giant Squid added.
+Desert Thunderbird added.
+Diricawl added.
+Fwooper Bird added.
+Gilderoy Lockhart, Oblivious Fraud added.
+Jobberknoll added.
+Marcus Flint, Slytherin Quidditch Captain added.
+Murtlap added.
+Greedy Niffler added.
+Obliviate added.
+Pius Thicknesse, Dark Lord Puppet added.
+Blaize Zabini, Entitled Beneficiary added.
+Colloshoo added.
+Family Attic Ghoul added.
+Flagrante added.
+Lethifold added.
+Matagot Familiar added.
+Snufflifores added.
+Swooping Evil added.
+Withering Curse of the Wearer added.
+Carpe Retractem added.
+Chinese Fireball added.
+Common Welsh Green added.
+Diffindo added.
+Draconifors added.
+Geminio Curse added.
+The Patil Twins, Padma and Parvati added.
+Skiving Snack Boxes added.
+Swedish Shortsnout added.
+Cauldron Cake added.
+Chinese Chomping Cabbage added.
+Chocolate Frog added.
+Graphorn added.
+Greatspined Dugbog added.
+Insectoid Manticore Mother added.
+Justin Flinchfletchly, Wandering Student added.
+Nundu Leopard added.
+Pansi Parkinson, Combatant Instigator added.
+Pumpkin Pasty added.
+Skurge added.
+Steeler Snail added.
+Stoneback Dugbog added.
+Vampyr Mosp added.
+Bertie Botts Every Flavor Beans added.
+Fleur Delacour, Beauxbatons Champion added.
+Fred and George Weasley, Mischievous Twins added.
+Igor Karkaroff, Durmstrang Headmaster added.
+Neville Longbottom, Courageous Friend added.
+Fire Crab added.
+Letters from No One added.
+Permission to Visit Hogsmeade added.
+Mystery of the Golden Egg added.
+Locket of Salazar Slytherin added.
+Pestis Incendium, Fiendfyre added.
+Acromantula added.
+Avada Kedavra added.
+Bellatrix Lestrange, Enthralled Death Eater added.
+Lucius Malfoy, Self-Served Loyalist added.
+Dolores Umbridge, Lawfully Maddened Official added.
+Magizoologist Trainee added.
+Novice Herbologist added.
+Charms Adept added.
+First-Year Ravenclaw added.
+First-Year Gryffindor added.
+First-Year Slytherin added.
+First-Year Hufflepuff added.
+First-Week Snatcher added.
+The Carrow Siblings added.
+Non-Verbal Cast added.
+Burned-Out Fifth-Year added.
+Aspiring Dueling Students added.
+Caught Out of Bed added.
+Merlin's Trial added.
+Join Us or Die! added.
+Minister's Censorship added.
+Madam Hooch, Quidditch Referee added.
+Ministry Spy added.
+Spot Ministry Raid added.
+Agustus Rookwood, Unspeakable Spy added.
+Tom Riddles Diary added.
+Nagini, Maladictus Performer added.
+Harry Potter, The Boy Who Lived added.
+Gaunt Family Ring added.
+Harry Potter the Gathering Commander Decks added.
+Rita Skeeter, Gossip Reporter added.
+Secrets of the Dark Lord added.
+Writing on the Wall added.
+Mrs Norris added.
+Alaster Mad-Eye Moody added.
+Ordinary Wizarding Level Examinations added.
+Quidditch Match added.
+The Monster Book of Monsters added.
+Society for the Promotion of Elfish Welfare added.
+WWHP Archetypes 2; added.
+Folio Magi added.
+Melding of Minds added.
+Nastily Exhausting Wizarding Tests added.
+Quirinus Quirrell, Traitorous Professor added.
+Scabbers, Frightened Coward added.
+Tom Riddle, Prodigal Orphan added.
+Intro to Defence Against the Dark Arts added.
+Intro to Transfiguration added.
+Intro to the Dark Arts added.
+Intro to Potions added.
+Intro to Care of Magical Creatures added.
+Intro to History of Magic added.
+Intro to Herbology added.
+Intro to Charms added.
+Intro to Divination added.
+Intro to Alchemy added.
+WWHP Archetypes 1; added.
+Bird Token WWHP; added.
+Ministry Tribunal Token WWHP; added.
+OWL Token WWHP; added.
+Student Token WWHP; added.
+Bubotuber Token WWHP; added.
+Book Token WWHP; added.
+Cornish Pixie Token WWHP; added.
+Doxy Token WWHP; added.
+Swarm of Grindylows Token WWHP; added.
+Death Eater Token WWHP; added.
+Inferi Hoard Token WWHP; added.
+Matagot Familiar Token WWHP; added.
+Rat Token WWHP; added.
+Skeleton Token WWHP; added.
+Snake Token WWHP; added.
+Thestral Token WWHP; added.
+Wizard-Cracker Imp Token WWHP; added.
+Blast Ended Screwt Token WWHP; added.
+Dragon Token WWHP; added.
+Elemental Token WWHP; added.
+Red Cap Tower Guard Token WWHP; added.
+Salamander Beast Token WWHP; added.
+Bowtruckle Token WWHP; added.
+Chinese Chomping Cabbage Token WWHP; added.
+Fang Token WWHP; added.
+Insect Manticore Token WWHP; added.
+Mallowsweet Token WWHP; added.
+Puffskein Token WWHP; added.
+Spider Token WWHP; added.
+Steeler Snail Token WWHP; added.
+Stoneback Dugbog Token WWHP; added.
+Vampyr Mosp Token WWHP; added.
+Worm Token WWHP; added.
+Snatcher Token WWHP; added.
+Animated Torch Token WWHP; added.
+Clue Token WWHP; added.
+Food Token WWHP; added.
+Golem Token WWHP; added.
+Map Token WWHP; added.
+Portkey Token WWHP; added.
+Potion Token WWHP; added.
+Treasure Token WWHP; added.
+Wizard-Cracker Token WWHP; added.
+Copy Token WWHP; added.
+Black Lake Merperson Token WWHP added.
+Proffesor Binns Token WWHP; added.
+Rabbit added.
+Dementor of Azkaban added.
+Giant added.
+Dolohov's Curse added.
+Tale of the Three Brothers added.
+Escape of the Azkaban Prisoner added.
+Goblet of Fire Trials added.
+Detention with the Gamekeeper added.
+Welcome to the Wizarding World added.
+Lessons with the Headmaster added.
+Reawakening of the Dark Mark added.
+Goblin added.
+Vampire added.
+Centaur added.
+Wizard added.
+Spirit Ambush added.
+Spirit added.
+
+Alaster Moody, Keeper of the Phoenix Order removed.
+Godrick Gryffindor, Hogwarts Founder removed.
+Grimauld Place, House of Black removed.
+Discretion of the Order removed.
+Reservoir of Ancient Magic removed.
+Nymphadora Lupin, Childish Auror removed.
+Severus Snape, Triple Agent Spy removed.
+Aberforth Dumbledore, Reclusive Guardian removed.
+Fred and George Weasley, Mischevious Twins removed.
+Neville Longbottem, Courageous Friend removed.
+Harry Potter, Vanquisher of the Dark Lord removed.
+Hermione Granger, Rebellious Student removed.
+Luna Lovegood, Enthused Reasearcher removed.
+Black Family Ring removed.
+Dumbledore's Army Coin removed.
+Pheonix Feather Wand removed.
+Fleur and Bill Weasly removed.
+Adorned Halls removed.
+Buckbeak, Condemed Protector removed.
+Hogwarts Headmaster Pensieve removed.
+Pierototum Locomotor removed.
+Flame Infused Armor removed.
+Gand Stair Case removed.
+Ron Weasly, Enraged Protector removed.
+Nicholas Flemel, Renowed Alchemist removed.
+Elixer of Life removed.
+Patil Twins, Padma and Parvati removed.
+Felix Felicis removed.
+Viaduct Courtyard removed.
+Xenophilius Lovegood, Eccentric Quibbler Editor removed.
+Ancient Magic Portkey removed.
+Godric's Hollow removed.
+Game Keeper's Hut removed.
+Flourish and Blotts removed.
+Divination Classroom removed.
+Dueling Arena removed.
+Durmstrang Ship removed.
+Zonko's Joke Shop removed.
+Boat House removed.
+Quidditch World Cup Camp removed.
+Triwizard Maze removed.
+DADA Classroom removed.
+Trophy Room removed.
+Herbology Greenhouse removed.
+Scotish Highlands removed.
+Owelry removed.
+Headmaster's Office removed.
+Astronomy Tower removed.
+Ancient Magic Traces removed.
+
+Expelliarmus
+rules_text: Return target noncreature artifact to its owner's hand. Expelliarmus deals damage equal to the artifact's mana value to its owner.
+Bewitchment Storm [i](When you cast this spell, copy it for each bewitchment spell cast before it this turn. You may choose new targets for the copies. Auras, Curses, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i] => Return target noncreature artifact to its owner's hand. Expelliarmus deals damage equal to the artifact's mana value to its owner.
+Bewitchment storm [i](When you cast this spell, copy it for each bewitchment spell cast before it this turn. You may choose new targets for the copies. Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i]
+
+Filius Flitwick, Head of Ravenclaw House
+rules_text: Scholarly [i](Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this ability has resolved this turn, this creature becomes studious if it isn't already.)[/i]
+As long as Filius Flitwick is studious, Incantation spells you cast cost {1}{RWU} less to cast and during your upkeep, you may reveal your hand. If you do, shuffle each non-Incantation card revealed this way into your library. Then you may search your library for up to that many Incantation cards, reveal them, put them into your hand, then shuffle.
+Whenever you cast your first Incantation each of your turns, Learn. => Scholarly
+At the beginning of your upkeep, if Filius Flitwick is studious, you may reveal your hand. If you do, shuffle each non-Incantation card revealed this way. Then you may reveal cards from the top of your library until you reveal that many Incantation cards, put them into your hand, then shuffle all other cards revealed this way.
+Whenever you cast your first Incantation on each of your turns, learn.
+
+Sword of Godrick Gryffindor
+rules_text: Equipped creature gets +2/+2.
+As long as a creature with deathtouch is blocking, equipped creature has deathtouch. The same is true for flying, haste, first-strike, double-strike, indestructible, trample, lifelink, hexproof.
+Equip {R}{G}{W}
+Equip courageous creature {2} => Equipped creature gets +2/+2.
+As long as a creature with deathtouch is blocking, equipped creature has deathtouch. The same is true for flying, first strike, double strike, indestructible, trample, lifelink, hexproof, ward, and menace.
+Equip {R}{G}{W}
+Equip courageous creature {2}
+artist: Pauline Mooney => Atomhawk
+
+Incendio
+rules_text: Incendio deals 3 damage to any target.
+Bewitchment Storm [i](When you cast this spell, copy it for each bewitchment spell cast before it this turn. You may choose new targets for the copies. Auras, Curses, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i] => Incendio deals 3 damage to any target.
+Bewitchment storm [i](When you cast this spell, copy it for each bewitchment spell cast before it this turn. You may choose new targets for the copies. Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i]
+
+Arresto Momento
+rules_text: Until end of turn, creatures can't attack or block unless their controller pays {X} for each of those creatures, where X is equal to the number of other Incantations you've cast this turn plus one. [i](Attacks are declared at the start of the declare attackers step. The value of X can only be changed before this step.)[/i] => Until end of turn, creatures can't attack or block unless their controller pays {X} for each of those creatures, where X is equal to the number of other bewitchments you've cast this turn plus one. [i](Attacks are declared at the start of the declare attackers step. The value of X can only be changed before this step.)[/i] [i](Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i]
+
+Castle Heights
+rules_text: This land enters tapped.
+When this Land enters, add {U}.
+{T}: Add {R} or {W}. => This land enters tapped.
+When this land enters, add {U}.
+{T}: Add {R} or {W}.
+
+Lonesome Phoenix
+cost: {3}{R}{W}{W} => {R}{R}{W}{W}
+rules_text: Flash
+Flying, haste
+{W}{W}: Target creature gains flying and haste until end of turn.
+{W}, {T}: Regenerate another target creature
+{R}{W}: Regenerate Lonesome Phoenix. Put a shield counter on another target creature you control. => Flash
+Flying, haste, first-strike
+{W}: Regenerate another target creature and put a shield counter on it.
+{2R}: Regenerate Lonesome Phoenix.
+flavor_text: [i][/i] => [i]Harry Potter: “Professor. Your bird — I couldn't do anything — he just caught fire —“
+Albus Dumbledore: “About time, too. He's been looking dreadful for days; I've been telling him to get a move on.”
+— After Fawkes burst into flames in Dumbledore's office.[/i]
+
+Unicorn Hair Wand
+type: Artifact => Artifact — Wand
+rules_text: {T}: Put a charge counter on Unicorn Hair Wand.
+{T}, Remove a charge counter from Unicorn Hair Wand: Add {U}, {R}, or {W}.
+{T}, Remove two charge counters from Unicorn Hair Wand: Add {U}{R} or {R}{W}. => {T}: Put a charge counter on this artifact.
+{T}, Remove a charge counter from this artifact: Add {U}, {R}, or {W}.
+{T}, Remove two charge counters from this artifact: Add {U}{R} or {R}{W}.
+artist: https://www.deviantart.com/aleksandvagne => aleksandvagne
+
+Gryffindor Prefect
+
+Explore the Restricted Section
+loyalty:  => 5
+
+Flight of the Seven Potters
+cost: {2}{RG}{W}{U} => {2}{R}{G}{W}
+rules_text: [i](As a Siege enters, choose an opponent to protect it. You and others can attack it. When it is defeated, exile it, then cast it transformed.)[/i]
+When this battle enters, choose target creature controlled by the player protecting this battle.
+Whenever damage is dealt to this battle, create a token copy of the chosen creature. Sacrifice that creature when this battle leaves the battlefield. => [i](As a Siege enters, choose an opponent to protect it. You and others can attack it. When it is defeated, exile it, then cast it transformed.)[/i]
+When this Siege enters, choose target creature controlled by the player protecting this battle.
+Whenever damage is dealt to this Siege, create a non-legendary token copy of the chosen creature. Sacrifice that creature when this Siege leaves the battlefield.
+loyalty:  => 5
+
+Ravenclaw Robes
+rules_text: Whenever you cast a Incantation spell, equipped creature gets +1/+1 until end of turn.
+Equip {3}
+Equip Wizard {RWU} => Equipped creature gets +1/+0 for each card in your hand.
+As long as equipped creature isn't studious, the first time a player would draw a card each turn, you may draw a card.
+Equip {5}
+Equip Wizard {U}{R}{W}
+artist: https://www.deviantart.com/jingwensun => jingwensun
+
+Delivery Owl
+rules_text: Flying
+At the beginning of your upkeep, you may pay {WU}{WU}. If you do, reveal the top card of your library. If a Incantation card is revealed this way, draw two cards. Otherwise, draw a card. => Flying
+At the beginning of your upkeep, you may pay {U}{U}. If you do, reveal the top card of your library. If a Bewitchment card is revealed this way, draw two cards. Otherwise, draw a card. [i](Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i]
+
+Gryffindor Robes
+rules_text: Equipped creature has gallant 1 [i](Whenever a creature an opponent controls with greater power enters or attacks and that creature isn't courageous, put a +1/+1 counter on that creature and it becomes courageous.)[/i]
+As long as the equipped creature is courageous, during each of your draw steps, draw an additional card for each creature that is courageous.
+Equip {4}
+Equip Wizard {RGW} => Equipped creature has gallant 1. [i](Whenever a creature an opponent controls with greater power enters or attacks and that creature isn't courageous, put a +1/+1 counter on that creature and it becomes courageous.)[/i]
+Whenever equipped creature attacks, put a +1/+1 counter on it. If that creature is courageous, draw a card.
+Equip {5}
+Equip Wizard {R}{G}{W}
+artist: https://www.deviantart.com/push-pulse => push-pulse
+
+Basic Cast
+rules_text: As an additional cost to cast this spell you may pay {1}. If you do, after it resolves return it to your hand instead.
+Basic Cast deals 1 damage to any target.
+Bewitchment storm [i](When you cast this spell, copy it for each bewitchment spell cast before it this turn. You may choose new targets for the copies. Auras, Curses, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i] => As an additional cost to cast this spell you may pay {1}. If you do, after it resolves return it to your hand instead.
+Basic Cast deals 1 damage to any target.
+Bewitchment storm [i](When you cast this spell, copy it for each bewitchment spell cast before it this turn. You may choose new targets for the copies. Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i]
+
+Expecto Patronum
+artist: Nenad Sarac => choodstock
+
+Madam Pomfrey
+cost: {1}{W}{W} => {G}{W}{W}
+rules_text: Lifelink
+Whenever a creature enters or leaves the battlefield, you gain 1 life.
+{T}: Put a stun counter on Madam Pomfrey. Regenerate each creature you control. [i](The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)[/i] => Lifelink, vigilance
+Whenever a creature enters or leaves the battlefield, choose one—
+• You may gain 3 life.
+• Untap Madam Pomfrey.
+{T}, Put a stun counter on Madam Pomfrey: Regenerate each creature you control.
+
+Saint Mungo's Healing Potioneer
+rules_text: {2}, {T}: Create a tapped potion token. [i](It's an artifact token with “{2}, {T}, Sacrifice this Potion: Activate a Recipe ability you control without paying its costs.”)[/i]
+Whenever you sacrifice a Treasure, a beast enters under an opponents control, or an opponent commits a crime against you, create a Potion token. [i](Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)[/i] => {2}, {T}: Create a tapped Potion token. [i](It's an artifact with “{2}, {T}, Sacrifice this token: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)[/i]
+Recipe — {4}{W}: Creatures you control get +1/+1 until end of turn.
+pt: 0/1 => 0/2
+artist: OpenAI. ChatGPT w/DALL.E => Avalanche Software
+
+Stupefy
+rules_text: Stupefy deals 4 damage to target attacking or blocking creature. Tap that creature.
+Bewitchment storm [i](When you cast this spell, copy it for each bewitchment spell cast before it this turn. You may choose new targets for the copies. Auras, Curses, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i] => Stupefy deals 4 damage to target attacking or blocking creature. Tap that creature and put a stun counter on it.
+Bewitchment storm [i](When you cast this spell, copy it for each bewitchment spell cast before it this turn. You may choose new targets for the copies. Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i]
+
+Hedwig, Loyal Protector
+cost: {1}{W}{W} => {RG}{W}
+rules_text: Flying, Gallant 2 [i](Whenever a creature an opponent controls with greater power enters or attacks and this creature isn't courageous, put two +1/+1 counters on this creature and it becomes courageous.)[/i]
+Draw an additional card for each +1/+1 counter on Hedwig during each of your draw steps. => Flying
+Gallant 2 [i](Whenever a creature an opponent controls with greater power enters or attacks and this creature isn't courageous, put two +1/+1 counters on this creature and it becomes courageous.)[/i]
+When Hedwig enters or deals combat damage to a player, draw a card. Then gain 3 life if you control a creature that is courageous.
+pt: 2/3 => 1/1
+artist: SparklingScarletpaw
+47 Watchers
+63 Deviations
+4K Pageviews => SparklingScarletpaw
+
+Fumos
+rules_text: Prevent all damage that would be dealt target creature and/or player this turn.
+Incantation storm [i](When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)[/i] => Prevent all damage that would be dealt to target creature and/or player this turn.
+Bewitchment storm [i](When you cast this spell, copy it for each bewitchment spell cast before it this turn. You may choose new targets for the copies. Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i]
+
+Lapifors
+rules_text: Alteration {1}{G} [i](You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield for {1}{G}.)[/i]
+Search your library for a land card, reveal it, put it onto the battlefield tapped, then shuffle. If this spell was cast from the battlefield, untap that land and create a 1/1 green Rabbit creature token for each Forest you control. => Alteration {1}{G} [i](You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield any time for {1}{G}.)[/i]
+Search your library for a land card, reveal it, put it onto the battlefield tapped, then shuffle. If this spell was cast from the battlefield, untap that land and create a 1/1 green Rabbit creature token for each Forest you control.
+
+Rubeus Hagrid, Keeper of Keys
+rules_text: Gallant 1 [i](Whenever a creature an opponent controls with greater power enters or attacks and this creature isn't courageous, put a +1/+1 counter on this creature and it becomes courageous.)[/i]
+Courageous creatures you control get +0/+2.
+Whenever Rubeus Hagrid becomes courageous, create a Legendary 2/2 {G} Dog creature token named Fang. then choose one—
+• Search your library for a Beast or basic land card, reveal it, put it into your hand, then shuffle.
+• Learn [i](you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)[/i] => Gallant 1 [i](Whenever a creature an opponent controls with greater power enters or attacks and this creature isn't courageous, put a +1/+1 counter on this creature and it becomes courageous.)[/i]
+Courageous creatures you control get +0/+2.
+Whenever Rubeus Hagrid becomes courageous, create a Legendary 2/2 green Dog creature token named Fang. Then choose one—
+• Search your library for a Beast or basic land card, reveal it, put it into your hand, then shuffle.
+• Learn [i](you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)[/i]
+
+Olympe Maxime, Headmistress of Beauxbatons
+type: Legendary Creature — Giant Wizard => Legendary Creature — Giant Wizard Professor
+rules_text: Scholarly [i](Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this ability has resolved this turn, this creature becomes studious if it isn't already.)[/i]
+As long as Olympe Maxime is studious, she has trample, double-strike and whenever she deals combat damage to a player, learn.
+You have no maximum hand size. => Scholarly
+As long as Olympe Maxime is studious, she has trample, double-strike and whenever she deals combat damage to a player, learn.
+You have no maximum hand size.
+
+Ginny Weasley, Underestimated Power
+rules_text: Gallant 4 [i](Whenever a creature an opponent controls with greater power enters or attacks and this creature isn't courageous, put four +1/+1 counters on this creature and it becomes courageous.)[/i]
+As long as Ginny Weasley is courageous, whenever she attacks, you may destroy target artifact or enchantment. If you do, you gain life equal to that permanents converted mana value. => Gallant 1 [i](Whenever a creature an opponent controls with greater power enters or attacks and this creature isn't courageous, put a +1/+1 counter on this creature and it becomes courageous.)[/i]
+Whenever Ginny Weasley deals combat damage to a player, if she's courageous, you may destroy target artifact or enchantment. If a permanent is destroyed this way, you gain life equal to that permanents mana value.
+artist: Emerald Weapon on artstaion => Emerald Weapon
+
+Molly and Arthur Weasley, Protective Parents
+rules_text: Gallant 2 [i](Whenever a creature an opponent controls with greater power enters or attacks and this creature isn't courageous, put two +1/+1 counters on this creature and it becomes courageous.)[/i]
+When Molly and Arthur Weasley become courageous, Molly and Arthur Weasley deals 8 damage to target creature. That creature can't be regenerated and this damage cannot be prevented. => Gallant 4
+Double strike
+When Molly and Arthur Weasley become courageous, Molly and Arthur Weasley deals 8 damage to target creature. This damage can't be prevented and that creature can't be regenerated.
+pt: 4/6 => 4/4
+
+Madam Pince, School Librarian
+rules_text: Whenever a creature you control enters, if it has Scholarly, you may learn. [i](you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)[/i]
+{2U}{2U}: Choose one—
+• Create a 1/1 {U} Book enchantment creature tokens with flying and “Whenever this token deals combat damage to a player sacrifice it. You draw a card.”
+• Search your library for a Book card, reveal it, put it to your hand or learn. If your library was searched this way, shuffle it. => Whenever a creature you control enters, if it has Scholarly, you may learn.
+{2U}{2U}: Choose one—
+• Create a 1/1 blue Book enchantment creature tokens with flying and “Whenever this token deals combat damage to a player sacrifice it. You draw a card.”
+• Search your library for a Book card, reveal it, put it to your hand or learn. If your library was searched this way, shuffle it.
+
+Watchful Observer
+rules_text: Vigilance
+Alteration {RG}{W}
+The first face-down creature spell you cast each turn costs {3} less to cast.
+Whenever you cast a spell from the battlefield, transform Watchful Observer. => Vigilance
+Alteration {RG}{W} [i](You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield any time for {RG}{W}.)[/i]
+The first face-down creature spell you cast each turn costs {3} less to cast.
+Whenever you cast a spell from the battlefield, transform Watchful Observer.
+
+Remus Lupin, Master of the Dark Arts
+rules_text: Gallant 2 [i](Whenever a creature an opponent controls with greater power enters or attacks and this creature isn't courageous, put two +1/+1 counters on this creature and it becomes courageous.)[/i]
+As long as Remus Lupin, Master of the Dark Arts is courageous, Wizard an Beast spells you cast cost {1} less to cast.
+At the beginning of each upkeep, if no spells were cast last turn, transform Remus Lupin, Master of the Dark Arts. => Gallant 2 [i](Whenever a creature an opponent controls with greater power enters or attacks and this creature isn't courageous, put two +1/+1 counters on this creature and it becomes courageous.)[/i]
+As long as Remus Lupin, Master of the Dark Arts is courageous, Wizard and Beast spells you cast cost {1} less to cast and whenever you cast a Beast, Learn [i](you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)[/i]
+At the beginning of each upkeep, if no spells were cast last turn, transform Remus Lupin, Master of the Dark Arts.
+
+Padfoot, Protective Marauder
+cost: {W}{W}{W} => {R}{G}{W}
+rules_text: Vigilance
+{1}{W}: Transform Padfoot, Protective Marauder.
+When this creature transforms into Padfoot, Protective Marauder, he cannot be blocked this turn. => Vigilance
+{1}{W}: Transform Padfoot, Protective Marauder. Activate only if you control a courageous creature.
+Whenever this creature transforms into Padfoot, Protective Marauder, he can't be blocked this turn.
+
+Albus Dumbledore
+rules_text: Albus Dumbledore's power is equal to the number of Legendary creatures you control.
+Bewitchments you cast have discover X where X is equal to their mana value. [i](Auras,, Curses, Horcruxs, Incantations, Lessons, and Potions are Bewitchments To discover X, exile cards from the top of your library until you exile a nonland card with mana value X or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)[/i]
+When Albus Dumbledore dies or is exiled, return him to the battlefield transformed. => Albus Dumbledore's power is equal to the number of Legendary creatures you control.
+Bewitchments you cast have discover X where X is equal to their mana value. [i](Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments. To discover X, exile cards from the top of your library until you exile a nonland card with mana value X or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)[/i]
+When Albus Dumbledore dies or is exiled, return him to the battlefield transformed.
+
+Enchanted Shield Armor
+type: Artifact Creature — Golem Incantation Beast => Artifact Creature — Golem Incantation
+cost: {6}{W} => {5}{R}{W}
+rules_text: Whenever this creature is dealt damage, prevent that damage and put a -1/-1 counter on it. Then create a 2/2 Golem Artifact Creature token with vigilance and “When this token enters, put a shield counter on it.” [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+When this creature dies, you may sacrifice four artifact creatures. If you do exile it and return it to the battlefield transformed instead. => Defender
+Whenever this creature is dealt damage, prevent that damage and put a -1/-1 counter on it. Then create a 3/3 Golem artifact creature token. Put a shield counter and a vigilance counter on that token. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+When this creature dies, exile it then return it to the battlefield transformed.
+
+Procure The Philosopher's Stone
+type: Enchantment — Saga => Enchantment — Case
+cost: {2}{W}{W} => {2}{W}
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Investigate for each enchantment you control.
+II — Whenever a creature you control leaves the battlefield this turn, investigate.
+III — Exile this Saga, then return it to the battlefield under transformed under your control. => Whenever you cast a bewitchment, investigate [i](Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i]
+To solve — You control or have cast seven or more bewitchments. [i](If unsolved, solve at the beginning of your end step.)[/i] 
+Solved — Sacrifice this Case: Destroy target creature with power less than the number of Clues you control. Return this Case to the battlefield transformed.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Investigate for each enchantment you control.
+II — Whenever a creature you control leaves the battlefield this turn, investigate.
+III — Exile this Saga, then return it to the battlefield under transformed under your control. => Whenever you cast a bewitchment, investigate [i](Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i]
+To solve — You control or have cast seven or more bewitchments. [i](If unsolved, solve at the beginning of your end step.)[/i] 
+Solved — Sacrifice this Case: Destroy target creature with power less than the number of Clues you control. Return this Case to the battlefield transformed.
+artist: https://www.deviantart.com/elbarien => elbarien
+
+Rescue of the Night Bus
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a tapped Treasure token. Then create another Treasure token for each permanent you control with a counter on it.
+II — Draw a card for each treasure token you control.
+III — Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a tapped Treasure token. Then create another Treasure token for each permanent you control with a counter on it.
+II — Draw a card for each Treasure token you control.
+III — Exile this Saga, then return it to the battlefield transformed under your control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a tapped Treasure token. Then create another Treasure token for each permanent you control with a counter on it.
+II — Draw a card for each treasure token you control.
+III — Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a tapped Treasure token. Then create another Treasure token for each permanent you control with a counter on it.
+II — Draw a card for each Treasure token you control.
+III — Exile this Saga, then return it to the battlefield transformed under your control.
+
+Journey through the Vaults
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a 1/1 {R} Goblin creature token. Then create a number of 1/1 {R} Goblin tokens equal to half the number of lands you control rounded down.
+II — Then create a tapped treasure token for each Goblin you control plus one.
+III — Search your library for an artifact card, reveal it, put that card on top, then shuffle and exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a 1/1 red Goblin creature token. Then create a number of 1/1 red Goblin tokens equal to half the number of lands you control rounded down.
+II — Then create a tapped Treasure token for each Goblin you control plus one.
+III — Search your library for an artifact card, reveal it, put that card on top, then shuffle and exile this Saga, then return it to the battlefield transformed under your control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a 1/1 {R} Goblin creature token. Then create a number of 1/1 {R} Goblin tokens equal to half the number of lands you control rounded down.
+II — Then create a tapped treasure token for each Goblin you control plus one.
+III — Search your library for an artifact card, reveal it, put that card on top, then shuffle and exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a 1/1 red Goblin creature token. Then create a number of 1/1 red Goblin tokens equal to half the number of lands you control rounded down.
+II — Then create a tapped Treasure token for each Goblin you control plus one.
+III — Search your library for an artifact card, reveal it, put that card on top, then shuffle and exile this Saga, then return it to the battlefield transformed under your control.
+
+Receipt of Hogwarts Letter
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — This saga has “ Whenever a land or enchantment enters under your control create a Student token. [i](Its a 1/1 white Human Wizard creature token with “As long as you have more cards in your hand then each opponent, this creature gets +1/+0 and is studious.”)[/i]
+II — For each land and enchantment you control create 1/1 white Bird creature tokens named Owl with flying, defender and “Whenever this token enters, investigate.” 
+III — Until end of turn, creatures you control have “{T}: Tap target creature and put a stun counter on it. You gain 1 life.
+Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — This saga has “ Whenever a land or enchantment enters under your control create a Student token. [i](Its a 1/1 white Human Wizard creature token with “Scholarly”.)[/i]
+II — For each land and enchantment you control create 1/1 white Bird creature tokens named Owl with flying, defender and “Whenever this token enters, investigate.” 
+III — Until end of turn, creatures you control have “{T}: Tap target creature and put a stun counter on it. You gain 1 life.
+Exile this Saga, then return it to the battlefield transformed under your control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — This saga has “ Whenever a land or enchantment enters under your control create a Student token. [i](Its a 1/1 white Human Wizard creature token with “As long as you have more cards in your hand then each opponent, this creature gets +1/+0 and is studious.”)[/i]
+II — For each land and enchantment you control create 1/1 white Bird creature tokens named Owl with flying, defender and “Whenever this token enters, investigate.” 
+III — Until end of turn, creatures you control have “{T}: Tap target creature and put a stun counter on it. You gain 1 life.
+Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — This saga has “ Whenever a land or enchantment enters under your control create a Student token. [i](Its a 1/1 white Human Wizard creature token with “Scholarly”.)[/i]
+II — For each land and enchantment you control create 1/1 white Bird creature tokens named Owl with flying, defender and “Whenever this token enters, investigate.” 
+III — Until end of turn, creatures you control have “{T}: Tap target creature and put a stun counter on it. You gain 1 life.
+Exile this Saga, then return it to the battlefield transformed under your control.
+
+Traverse the Secret Passage
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a number of Map tokens equal to half the number of lands you control rounded up. [i](They're artifacts with “{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.”)[/i]
+II — This saga has “Whenever a creature explores, target creature can't block this turn.” [i](To have this creature explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+III — Create a tapped Treasure token for each +1/+1 counter among creatures you control. Then exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a number of Map tokens equal to half the number of lands you control rounded up. [i](They're artifacts with “{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.”)[/i]
+II — This saga has “Whenever a creature explores, target creature can't block this turn.”
+III — Create a tapped Treasure token for each +1/+1 counter among creatures you control. Then exile this Saga, then return it to the battlefield transformed under your control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a number of Map tokens equal to half the number of lands you control rounded up. [i](They're artifacts with “{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.”)[/i]
+II — This saga has “Whenever a creature explores, target creature can't block this turn.” [i](To have this creature explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+III — Create a tapped Treasure token for each +1/+1 counter among creatures you control. Then exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a number of Map tokens equal to half the number of lands you control rounded up. [i](They're artifacts with “{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.”)[/i]
+II — This saga has “Whenever a creature explores, target creature can't block this turn.”
+III — Create a tapped Treasure token for each +1/+1 counter among creatures you control. Then exile this Saga, then return it to the battlefield transformed under your control.
+
+
 VERSION 3 CHANGELOG
 ====================
 
