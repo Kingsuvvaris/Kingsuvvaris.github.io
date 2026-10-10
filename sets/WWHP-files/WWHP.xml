@@ -5,7 +5,7 @@
 			<name>WWHP</name>
 			<longname>Wizarding World of Harry Potter</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-10-09</releasedate>
+			<releasedate>2026-10-10</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -4586,8 +4586,8 @@ Recipe — {1}{2G}{2G}, Sacrifice this Potion: You gain 5 life</text>
 		</card>
 		<card>
 			<name>Potion Storage Cabinet</name>
-			<text>Whenever a nontoken Potion enters, you may pay {2}. If you do create a Potion token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You may activate a Recipe ability of a permanent you control without paying its activation cost.&quot;)
-Recipe — {2}{2B}{2G}, {T}, Sacrifice this Potion: Brew. (You may reveal a Potion card you own from outside the game and put it into your hand, or exile the top card of your library. You may play it this turn.)</text>
+			<text>The first time you cast a Potion each turn, you may pay {2}. If you do create a Potion token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You may activate a Recipe ability of a permanent you control without paying its activation cost.&quot;)
+Recipe — {2}{2B}{2G}, {T}, Sacrifice this Potion: The next Potion spell you cast this turn has bewitchment storm. (When you cast this spell, copy it for each bewitchment spell cast before it this turn. Copies become tokens. Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)</text>
 			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/235.png" num="347">WWHP</set>
 			<prop>
 				<layout>normal</layout>

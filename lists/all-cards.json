@@ -5653,7 +5653,7 @@
             "number": 347,
             "color_identity": "BG",
             "cost": "{2B}{2G}",
-            "rules_text": "Whenever a nontoken Potion enters, you may pay {2}. If you do create a Potion token. [i](It's an artifact with \u201c{2}, {T}, Sacrifice this token: You may activate a Recipe ability of a permanent you control without paying its activation cost.\u201d)[/i]\nRecipe \u2013 {2}{2B}{2G}, {T}, Sacrifice this Potion: Brew. [i](You may reveal a Potion card you own from outside the game and put it into your hand, or exile the top card of your library. You may play it this turn.)[/i]",
+            "rules_text": "The first time you cast a Potion each turn, you may pay {2}. If you do create a Potion token. [i](It's an artifact with \u201c{2}, {T}, Sacrifice this token: You may activate a Recipe ability of a permanent you control without paying its activation cost.\u201d)[/i]\nRecipe \u2013 {2}{2B}{2G}, {T}, Sacrifice this Potion: The next Potion spell you cast this turn has bewitchment storm. [i](When you cast this spell, copy it for each bewitchment spell cast before it this turn. Copies become tokens. Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
