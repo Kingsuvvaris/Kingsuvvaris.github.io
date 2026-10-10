@@ -1,0 +1,1070 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Qilin, Elector of the Supreme Mugwump",
+			"rarity": "mythic",
+			"mana_cost": "{B}{R}{G}{W}",
+			"type": "Legendary Creature — Dragon Horse Beast",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/0.png"
+			}
+		},
+		{
+			"name": "Newt Scamander, Master Magizoologist",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}{G}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/1.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/2.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/3.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/4.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/5.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/6.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/7.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/8.png"
+			}
+		},
+		{
+			"name": "Trophy Room",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/9.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain Forest",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/10.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/11.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/12.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/13.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/14.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/15.png"
+			}
+		},
+		{
+			"name": "Kingdom of Bhutan",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Land — Lair",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/16.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/17.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp Forest",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/18.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/19.png"
+			}
+		},
+		{
+			"name": "Dogweed and Deathcap",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/20.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/21.png"
+			}
+		},
+		{
+			"name": "Erkstag Prison",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/22.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest Plains",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/23.png"
+			}
+		},
+		{
+			"name": "Gand Stair Case",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/24.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp Mountain",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/25.png"
+			}
+		},
+		{
+			"name": "Quidditch World Cup Camp",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/26.png"
+			}
+		},
+		{
+			"name": "Shreiking Shack",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/27.png"
+			}
+		},
+		{
+			"name": "Brood and Peck",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/28.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Mountain",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/29.png"
+			}
+		},
+		{
+			"name": "Hogwarts, School of Witchcraft & Wizardry",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/30.png"
+			}
+		},
+		{
+			"name": "House of Gaunt",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/31.png"
+			}
+		},
+		{
+			"name": "Forbidden Forest",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/32.png"
+			}
+		},
+		{
+			"name": "Reservoir of Ancient Magic",
+			"rarity": "mythic",
+			"mana_cost": "{0}",
+			"type": "Legendary Artifact",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/33.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/34.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/35.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/36.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/37.png"
+			}
+		},
+		{
+			"name": "Knabsack",
+			"rarity": "mythic",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/38.png"
+			}
+		},
+		{
+			"name": "Cup of Helga Hufflepuff",
+			"rarity": "rare",
+			"mana_cost": "{X}{X}{X}",
+			"type": "Legendary Artifact",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/39.png"
+			}
+		},
+		{
+			"name": "Pheonix Feather Wand",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/40.png"
+			}
+		},
+		{
+			"name": "Gryffindor Robes",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/41.png"
+			}
+		},
+		{
+			"name": "Dragon Heart String Wand",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/42.png"
+			}
+		},
+		{
+			"name": "Ordinary Level Care of Magical Creatures",
+			"rarity": "common",
+			"mana_cost": "{2}{R/G}",
+			"type": "Sorcery — Lesson",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/43.png"
+			}
+		},
+		{
+			"name": "Rubeus Hagrid, Keeper of Keys",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Wizard Giant",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/44.png"
+			}
+		},
+		{
+			"name": "Aragog, King of Arachnids",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}{G}{G}{G}",
+			"type": "Legendary Creature — Spider Beast",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/45.png"
+			}
+		},
+		{
+			"name": "Professor of Beasts, Bai Howin",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}{G}{W}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/46.png"
+			}
+		},
+		{
+			"name": "Poppy Sweeting, Protector of Magical Creatures",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}{G}{W}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/47.png"
+			}
+		},
+		{
+			"name": "Ellie Peck, Trader of Rare Beasts",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{R}{G}{W}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/48.png"
+			}
+		},
+		{
+			"name": "Teddy, Newt's little Theif",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}{B}",
+			"type": "Legendary Creature — Platypus Beast",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/49.png"
+			}
+		},
+		{
+			"name": "Charlie Weasly, Dragon Reasearcher",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/50.png"
+			}
+		},
+		{
+			"name": "Gulliver Pokeby, Magical Bird Expert",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/51.png"
+			}
+		},
+		{
+			"name": "Gondoline Oliphant, Troll Enthusiest",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/52.png"
+			}
+		},
+		{
+			"name": "Havelock Sweeting, Unicorn Savior",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/53.png"
+			}
+		},
+		{
+			"name": "Helga Hufflepuff, Hogwarts Founder",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}{G}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/54.png"
+			}
+		},
+		{
+			"name": "Grawp, The Friendly Giant",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}{G}{W}{W}",
+			"type": "Legendary Creature — Giant Beast",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/55.png"
+			}
+		},
+		{
+			"name": "Blast Ended Screwt",
+			"rarity": "common",
+			"mana_cost": "{R}{R}{G}{G}{W}{W}",
+			"type": "Creature — Crab Beast",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/56.png"
+			}
+		},
+		{
+			"name": "Journey Beneath Gringotts Bank",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Battle — Siege",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/57.png"
+			}
+		},
+		{
+			"name": "Dragon Hatchling",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Dragon Beast",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/58.png"
+			}
+		},
+		{
+			"name": "Friendly Unicorn",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Unicorn Beast",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/59.png"
+			}
+		},
+		{
+			"name": "Zou Wu Beast",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Lion Beast",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/60.png"
+			}
+		},
+		{
+			"name": "Armored Mountain Troll",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Troll Beast",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/61.png"
+			}
+		},
+		{
+			"name": "Lonesome Phoenix",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{W}{W}",
+			"type": "Creature — Phoenix Beast",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/62.png"
+			}
+		},
+		{
+			"name": "Capacious Extremis",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Enchantment — Incantation",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/63.png"
+			}
+		},
+		{
+			"name": "Hungarian Horntail",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}{R}",
+			"type": "Creature — Dragon Beast",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/64.png"
+			}
+		},
+		{
+			"name": "Swedish Shortsnout",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Dragon Beast",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/65.png"
+			}
+		},
+		{
+			"name": "Common Welsh Green",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Dragon Beast",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/66.png"
+			}
+		},
+		{
+			"name": "Chinese Fireball",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Dragon Beast",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/67.png"
+			}
+		},
+		{
+			"name": "Ruby Fire Crab",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Crab Beast",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/68.png"
+			}
+		},
+		{
+			"name": "Emerald Fire Crab",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Crab Beast",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/69.png"
+			}
+		},
+		{
+			"name": "Onyx Firecrab",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Crab Beast",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/70.png"
+			}
+		},
+		{
+			"name": "Bejeweled Fire Crab",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Crab Beast",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/71.png"
+			}
+		},
+		{
+			"name": "Bundimun",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Fungus Beast",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/72.png"
+			}
+		},
+		{
+			"name": "Bowtruckle",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Plant Beast",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/73.png"
+			}
+		},
+		{
+			"name": "Swooping Evil",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Horror Beast",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/74.png"
+			}
+		},
+		{
+			"name": "Erkling",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Faerie Beast",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/75.png"
+			}
+		},
+		{
+			"name": "Wondering Hinkypunk",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Spirit Beast",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/76.png"
+			}
+		},
+		{
+			"name": "Cautious Hipogriff",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Hippogriff Beast Mount",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/77.png"
+			}
+		},
+		{
+			"name": "Curse of the Werewolf",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/78.png"
+			}
+		},
+		{
+			"name": "Deuling Arena",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/79.png"
+			}
+		},
+		{
+			"name": "Magizoologist Exploration",
+			"rarity": "rare",
+			"mana_cost": "{2/B}{RGW}",
+			"type": "Sorcery",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/80.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/81.png"
+			}
+		},
+		{
+			"name": "Winery Cellar",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/82.png"
+			}
+		},
+		{
+			"name": "Huffelpuff Robes",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/83.png"
+			}
+		},
+		{
+			"name": "Engorgio",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Instant — Incantation",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/84.png"
+			}
+		},
+		{
+			"name": "Grand Pepperup Potion",
+			"rarity": "rare",
+			"mana_cost": "{2/W}{2/W}{2/R}{2/R}",
+			"type": "Artifact — Potion",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/85.png"
+			}
+		},
+		{
+			"name": "Traveling Potioneer",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/86.png"
+			}
+		},
+		{
+			"name": "Adorned Halls",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/87.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/88.png"
+			}
+		},
+		{
+			"name": "Point Me",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant — Incantation",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/89.png"
+			}
+		},
+		{
+			"name": "International Magical Coperation",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/90.png"
+			}
+		},
+		{
+			"name": "Theseus Scamander, Loyal Auror",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/91.png"
+			}
+		},
+		{
+			"name": "Goldstein Sisters, Queeny and Tina",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/92.png"
+			}
+		},
+		{
+			"name": "Matagot Familiar",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Cat Beast",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/93.png"
+			}
+		},
+		{
+			"name": "The Monster Book of Monsters",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "30",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/94_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/94_front.png"
+			}
+		},
+		{
+			"name": "Basic Cast",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant — Incantation",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/96.png"
+			}
+		}
+	]
+
+[rare(1)]
+	5 Qilin, Elector of the Supreme Mugwump
+	5 Newt Scamander, Master Magizoologist
+	5 
+	5 
+	5 
+	5 
+	5 Trophy Room
+	5 
+	5 
+	5 
+	5 
+	5 
+	5 Kingdom of Bhutan
+	5 
+	5 
+	5 Dogweed and Deathcap
+	5 Erkstag Prison
+	5 
+	5 
+	5 Shreiking Shack
+	5 Brood and Peck
+	5 
+	5 Hogwarts, School of Witchcraft & Wizardry
+	5 House of Gaunt
+	5 Forbidden Forest
+	5 Reservoir of Ancient Magic
+	5 Knabsack
+	5 Cup of Helga Hufflepuff
+	5 Aragog, King of Arachnids
+	5 Professor of Beasts, Bai Howin
+	5 Teddy, Newt's little Theif
+	5 Charlie Weasly, Dragon Reasearcher
+	5 Gulliver Pokeby, Magical Bird Expert
+	5 Gondoline Oliphant, Troll Enthusiest
+	5 Havelock Sweeting, Unicorn Savior
+	5 Helga Hufflepuff, Hogwarts Founder
+	5 Journey Beneath Gringotts Bank
+	5 Friendly Unicorn
+	5 Zou Wu Beast
+	5 Lonesome Phoenix
+	5 Capacious Extremis
+	5 Hungarian Horntail
+	5 Swedish Shortsnout
+	5 Common Welsh Green
+	5 Chinese Fireball
+	5 Wondering Hinkypunk
+	5 Deuling Arena
+	5 Magizoologist Exploration
+	5 Grand Pepperup Potion
+	5 Theseus Scamander, Loyal Auror
+	5 Goldstein Sisters, Queeny and Tina
+[uncommon(3)]
+	5 
+	5 
+	5 
+	5 
+	5 
+	5 
+	5 Quidditch World Cup Camp
+	5 
+	5 
+	5 Rubeus Hagrid, Keeper of Keys
+	5 Poppy Sweeting, Protector of Magical Creatures
+	5 Grawp, The Friendly Giant
+	5 Bundimun
+	5 Swooping Evil
+	5 Erkling
+	5 Curse of the Werewolf
+	5 Winery Cellar
+	5 Adorned Halls
+	5 International Magical Coperation
+	5 Matagot Familiar
+	5 Basic Cast
+[common(10)]
+	5 Gand Stair Case
+	5 
+	5 
+	5 Pheonix Feather Wand
+	5 Gryffindor Robes
+	5 Dragon Heart String Wand
+	5 Ordinary Level Care of Magical Creatures
+	5 Ellie Peck, Trader of Rare Beasts
+	5 Blast Ended Screwt
+	5 Dragon Hatchling
+	5 Armored Mountain Troll
+	5 Ruby Fire Crab
+	5 Emerald Fire Crab
+	5 Onyx Firecrab
+	5 Bejeweled Fire Crab
+	5 Bowtruckle
+	5 Cautious Hipogriff
+	5 
+	5 Huffelpuff Robes
+	5 Engorgio
+	5 Traveling Potioneer
+	5 
+	5 Point Me
+	5 The Monster Book of Monsters
