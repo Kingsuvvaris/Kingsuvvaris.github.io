@@ -1,4 +1,13 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Mrs Norris
+cost: {GW}{B} => {U}{B}
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
