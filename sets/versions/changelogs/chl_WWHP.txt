@@ -1,6 +1,162 @@
 ﻿VERSION 2 CHANGELOG
 ====================
 
+Alteration added.
+
+
+Nymphadora Tonks, Metamorphmagus Auror
+
+Serpensortia
+
+Erkling
+
+Skirmish in Underground Chambers
+
+Flame Infused Armour
+
+Hidden Boggart
+
+Piertotum Locomotor
+
+Avifors
+
+Animated Torch
+
+Protego
+cost: {2}{W} => {W}
+
+Existmulo Maxima Potion
+rules_text: Whenever a Potion enters, put a brew counter on this Potion. Add {C} for each brew counter on this Potion. [i](To Brew, you may reveal a Potion card you own from outside the game and put it into your hand, or exile the top card of your library. You may play it this turn.)[/i]
+Recipe — {2R}{2R}, Sacrifice this Potion: If a source would deal damage this turn, it deals twice that much damage instead. => Whenever a Potion enters, put a concentration counter on this Potion. Add {C} for each concentration counter on this Potion.
+Recipe — {2R}{2R}, Sacrifice this Potion: If a source would deal damage this turn, it deals twice that much damage instead.
+
+Exploding Potion
+cost: {2R}{2R}{2R}{2R} => {2R}{2R}
+
+Thunder Brew Potion
+cost: {2R}{2R} => {2R}{2R}{2R}{2R}
+rules_text: Whenever a Potion enters, Thunder Brew Potion deals 2 damage to any target.
+Recipe — {2R}{2R}, Sacrifice this potion: The next time a nonpermanent spell or ability you control would deal damage this turn, it deals that much damage plus 3 instead.” => Whenever a Potion enters, this Potion deals 1 damage to each of up to three targets.
+Recipe — {2R}{2R}, Sacrifice this potion: The next time a nonpermanent spell or ability you control would deal damage this turn, it deals that much damage plus 3 instead.”
+
+Elixir of Life
+cost: {2}{2W}{2W} => {2W}{2W}
+rules_text: Whenever a Potion enters, target creature gains indestructible until end of turn.
+Recipe — {2W}{2W}, {T}, Sacrifice this potion: The next time you would lose the game, instead end the turn and shuffle your hand, your graveyard, and all permanents you own, then draw seven cards and your life total becomes 10. Exile this artifact unless you control The Philosopher's Stone. => Whenever a Potion enters, target creature gains indestructible until end of turn and you gain 2 life.
+Recipe — {2W}{2W}, {T}, Sacrifice this potion: The next time you would lose the game this turn, instead end the turn and shuffle your hand and graveyard, then draw seven cards and your life total becomes 10. Exile this artifact unless you control The Philosopher's Stone.
+
+Fwooper Bird
+cost: {4}{W} => {2}{W}
+pt: 3/3 => 2/3
+
+Snufflifores
+
+Draconifors
+
+Geminio Curse
+rules_text: Enchant player
+When this Curse enters, exile target artifact.
+Whenever one or more nontoken creatures enchanted player controls enter, create a token copy of the exiled card. Then players with less life then the number of artifacts you control lose the game. => Enchant player
+When this Curse enters, exile target artifact.
+Whenever one or more nontoken creatures enchanted player controls enter, create a token copy of the exiled card. Then players with life less then the number of artifacts you control lose the game.
+
+Chinese Chomping Cabbage
+rules_text: Flash
+Squad {2G}. [i](As an additional cost to cast this spell, you may pay {2G} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+When this creature enters, if you paid {G}{G} to cast it or it's a token, you may have it fights target creature an opponent controls. => Flash
+Squad {2G}. [i](As an additional cost to cast this spell, you may pay {2G} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+When this creature enters, if you paid {G}{G} to cast it or it's a token, you may have it fight target creature an opponent controls. [i](Each deals damage equal to its power to the other.)[/i]
+
+Lapifors
+
+First-Year Hufflepuff
+rules_text: When this creature enters, choose a creature type.
+This creature has dedication to the chosen creature type {GW}{GW}. [i](Whenever this creature attacks or blocks, you may pay {GW}{GW}{GW}{GW}. If you do it gets +1/+1 for each creature of the chosen type you control until end of turn.)[/i] => When this creature enters, choose a creature type.
+This creature has dedication to the chosen creature type {GW}{GW}. [i](Whenever this creature attacks or blocks, you may pay {GW}{GW}. If you do it gets +1/+1 for each creature of the chosen type you control until end of turn.)[/i]
+
+Society for the Promotion of Elfish Welfare
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Each player investigates three times.
+II — This Saga gains “Creatures can't attack as long as their controller controls a Clue and you control this Saga.”
+III — Each player puts a number of +1/+1 counters on each creature they control equal to the number of Clue permanents they control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Each player investigates three times.
+II — This Saga gains “Creatures can't attack you as long as their controller controls a Clue and you control this Saga.”
+III — Each player puts a number of +1/+1 counters on each creature they control equal to the number of Clues they control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Each player investigates three times.
+II — This Saga gains “Creatures can't attack as long as their controller controls a Clue and you control this Saga.”
+III — Each player puts a number of +1/+1 counters on each creature they control equal to the number of Clue permanents they control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Each player investigates three times.
+II — This Saga gains “Creatures can't attack you as long as their controller controls a Clue and you control this Saga.”
+III — Each player puts a number of +1/+1 counters on each creature they control equal to the number of Clues they control.
+
+Padfoot, Protective Marauder
+rules_text: Vigilance
+{1}{W}: Transform Padfoot, Protective Marauder. Activate only if you control a courageous creature.
+Whenever this creature transforms into Padfoot, Protective Marauder, he can't be blocked this turn. => Vigilance
+{1}{W}: Transform Padfoot, Protective Marauder. Activate only if you control a courageous creature.
+Whenever this creature transforms into Padfoot, Protective Marauder, creatures your opponent controls can't block this turn.
+
+Scabbers, Frightened Coward
+rules_text: Haste
+If an opponent would exile a card from your library, add it to your hand instead.
+Whenever this creature transforms into Scabbers, Scabbers deals 1 damage to target player then return it to its owner's hand.
+When you commit a crime, you may pay 2 life or {UB} {UB}. If you do, transform Scabbers, Frightened Coward. [i](Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)[/i] => Haste
+Whenever this creature transforms into Scabbers, Scabbers deals 1 damage to target player then return it to its owner's hand.
+Whenever you commit a crime, you may pay 2 life or {UB} {UB}. If you do, transform Scabbers, Frightened Coward. [i](Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)[/i]
+
+Intro to Defence Against the Dark Arts
+
+Intro to Transfiguration
+cost: {2}{GW} => {1}{GW}
+
+Intro to the Dark Arts
+cost: {1}{UB}{UB} => {1}{UB}
+
+Intro to Potions
+
+Intro to Care of Magical Creatures
+rules_text: Target creature you control fights target creature an opponent controls. Each of those creatures that is a Beast, gains first strike until end of turn before they fight.
+If you control a Beast, exile this spell, then cast it transformed. => Target creature you control fights target creature an opponent controls.
+If you control a Beast, exile this spell, then cast it transformed.
+
+Intro to History of Magic
+
+Intro to Herbology
+
+Intro to Charms
+
+Intro to Divination
+rules_text: Scry 1. Then if that card is is put onto the bottom of your library, draw a card.
+If you've drawn two or more cards this turn, exile this spell, then cast it transformed. => Scry 1. Then if that card is is put onto the bottom of your library, draw a card.
+If you've drawn three or more cards this turn, exile this spell, then cast it transformed.
+
+Intro to Alchemy
+
+Red Cap Tower Guard Token WWHP;
+rules_text: Squad {R}{RW}
+This creature and each token copy of it enter with a shield on them if you created at least one token copy.
+All creatures able to block this creature do so. => Squad {R}{RW}
+When this creature enters, if its a token or you paid an additional cost to cast it, put a shield counter on it. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+All creatures able to block this creature do so.
+pt: 2/2 => 1/2
+
+Chinese Chomping Cabbage Token WWHP;
+rules_text: Flash
+Squad {2G}. 
+When this creature enters, if you paid {G}{G} to cast it or it's a token, you may have it fights target creature an opponent controls. => Flash
+Squad {2G}. 
+When this creature enters, if you paid {G}{G} to cast it or it's a token, you may have it fight target creature an opponent controls.
+
+Spirit Ambush
+rules_text: Alteration {X}{W} [i](You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield any time for {X}{W}.)[/i]
+Counter target spell. Create a 1/1 blue Spirit creature token with flying and ward {2W}. If this spell was cast from the battlefield, create X blue spirit tokens with flying and Ward {2W} instead. => Alteration {X}{WU} [i](You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield any time for {X}{WU}.)[/i]
+Counter target spell. Create a 1/1 blue Spirit creature token with flying and ward {2W}. If this spell was cast from the battlefield, create X blue spirit tokens with flying and Ward {2W} instead.
+
+
+VERSION 2 CHANGELOG
+====================
+
 
 
 Mrs Norris
